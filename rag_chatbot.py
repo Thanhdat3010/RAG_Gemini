@@ -1,18 +1,20 @@
 import google.generativeai as genai
 from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
-from langchain.document_loaders import PyPDFLoader
+from langchain.document_loaders import PyPDFLoader, UnstructuredWordDocumentLoader, TextLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.vectorstores import Chroma
 from langchain.chains import RetrievalQA
 from langchain import PromptTemplate
 import warnings
+import os
+import glob
 
 class ChemGenieBot:
-    def __init__(self, api_key, pdf_path):
+    def __init__(self, api_key, folder_path):
         self.api_key = api_key
-        self.pdf_path = pdf_path
+        self.folder_path = folder_path
         self.setup_model()
-        self.load_and_process_pdf()
+        self.load_and_process_documents()
         self.setup_qa_chain()
 
     def setup_model(self):
@@ -24,13 +26,33 @@ class ChemGenieBot:
             convert_system_message_to_human=True
         )
 
-    def load_and_process_pdf(self):
-        pdf_loader = PyPDFLoader(self.pdf_path)
-        pages = pdf_loader.load_and_split()
+    def load_and_process_documents(self):
+        texts = []
         
-        text_splitter = RecursiveCharacterTextSplitter(chunk_size=10000, chunk_overlap=52)
-        context = "\n\n".join(str(p.page_content) for p in pages)
-        texts = text_splitter.split_text(context)
+        # Tìm tất cả các file PDF, Word và TXT trong thư mục
+        pdf_files = glob.glob(os.path.join(self.folder_path, "*.pdf"))
+        word_files = glob.glob(os.path.join(self.folder_path, "*.docx*"))
+        txt_files = glob.glob(os.path.join(self.folder_path, "*.txt"))
+        all_files = pdf_files + word_files + txt_files
+        
+        if not all_files:
+            raise ValueError("No supported documents found in the specified folder.")
+        
+        for file_path in all_files:
+            file_extension = os.path.splitext(file_path)[1].lower()
+            
+            if file_extension == '.pdf':
+                loader = PyPDFLoader(file_path)
+            elif file_extension in ['.doc', '.docx']:
+                loader = UnstructuredWordDocumentLoader(file_path)
+            elif file_extension == '.txt':
+                loader = TextLoader(file_path, encoding='utf-8')
+            
+            pages = loader.load_and_split()
+            context = "\n\n".join(str(p.page_content) for p in pages)
+            
+            text_splitter = RecursiveCharacterTextSplitter(chunk_size=10000, chunk_overlap=52)
+            texts.extend(text_splitter.split_text(context))
         
         embeddings = GoogleGenerativeAIEmbeddings(
             model="models/embedding-001",
@@ -64,10 +86,10 @@ class ChemGenieBot:
 def main():
     # Configure your API key and PDF path
     GOOGLE_API_KEY = "AIzaSyD3SQ-8fHNjPnEGn4gegLk57JNNQO8U8lI"
-    PDF_PATH = "data\\BaoCaoDoanhNghiep_Chemgenie.pdf"
+    FOLDER_PATH = "data"
     
     # Initialize the chatbot
-    bot = ChemGenieBot(GOOGLE_API_KEY, PDF_PATH)
+    bot = ChemGenieBot(GOOGLE_API_KEY, FOLDER_PATH)
     
     # Example usage
     while True:
