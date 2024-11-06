@@ -1,0 +1,2369 @@
+﻿Danh pháp hóa học 
+
+Thuật ngữ hóa học - Danh pháp các nguyên tố và hợp chất hóa học
+
+ĐỘI NGŨ TÁC GIẢ
+Nguyễn Minh Lý - GV tại Tp. HCM - https://www.facebook.com/nguyen.minhly.739/
+Nguyễn Đăng Minh Quân - GV tại Hà Nội - https://www.facebook.com/hoahocquannguyen
+
+A. DANH PHÁP CÁC CHẤT VÔ CƠ VÀ PHỨC CHẤT
+1. HỆ THỐNG TÊN NGUYÊN TỐ, ĐƠN CHẤT
+
+Với hệ thống tiếng Anh, cả nguyên tố và đơn chất đều được biểu diễn bằng thuật ngữ “element”.
+Tên gọi của nguyên tố và đơn chất theo đó giống nhau.
+VD:
+
+Hydrogen Nguyên tố H hoặc đơn chất H2
+
+Oxygen Nguyên tố O hoặc đơn chất O2
+
+Nitrogen Nguyên tố N hoặc đơn chất N2
+
+Fluorine Nguyên tố F hoặc đơn chất F2
+
+Chlorine Nguyên tố Cl hoặc đơn chất Cl2
+
+Bromine Nguyên tố Br hoặc đơn chất Br2
+
+Iodine Nguyên tố I hoặc đơn chất I2
+
+Sulfur Nguyên tố S hoặc đơn chất S8 (thường viết gọn thành S)
+Phosphorous Nguyên tố P hoặc đơn chất P4 (thường viết gọn thành P)
+
+Bảng 1: Kí hiệu hóa học và tên gọi các nguyên tố.
+
+ThS. Nguyễn Minh Lý Trang 2
+
+
+
+Z KÍ HIỆU HÓA HỌC TÊN GỌI PHIÊN ÂM
+Danh pháp hóa học 
+
+1 H Hydrogen /ˈhaɪdrədʒən/
+
+2 He Helium /ˈhiːliəm/
+
+3 Li Lithium /ˈlɪθiəm/
+
+4 Be Beryllium /bəˈrɪliəm/
+/ˈbɔːrɒn/
+
+5 B Boron
+/ˈbɔːrɑːn/
+/ˈkɑːbən/
+
+6 C Carbon
+/ˈkɑːrbən/
+
+7 N Nitrogen /ˈnaɪtrədʒən/
+/ˈɒksɪdʒən/
+
+8 O Oxygen
+/ˈɑːksɪdʒən/
+/ˈflɔːriːn/ 
+/ˈflʊəriːn/ 
+
+9 F Fluorine
+/ˈflɔːriːn/
+/ˈflʊriːn/
+/ˈniːɒn/ 
+
+10 Ne Neon
+/ˈniːɑːn/
+
+11 Na Sodium /ˈsəʊdiəm/
+
+12 Mg Magnesium /mæɡˈniːziəm/
+/ˌæljəˈmɪniəm/ 
+
+13 Al Aluminium
+/ˌæləˈmɪniəm/
+
+14 Si Silicon /ˈsɪlɪkən/
+/ˈfɒsfərəs/ 
+
+15 P Phosphorus
+/ˈfɑːsfərəs/
+/ˈsʌlfə(r)/
+
+16 S Sulfur
+/ˈsʌlfər/
+
+17 Cl Chlorine /ˈklɔːriːn/
+/ˈɑːɡɒn/ 
+
+18 Ar Argon
+/ˈɑːrɡɑːn/
+
+19 K Potassium /pəˈtæsiəm/
+
+20 Ca Calcium /ˈkælsiəm/
+
+21 Sc Scandium /ˈskændiəm/
+/tɪˈteɪniəm/ 
+
+22 Ti Titanium
+/taɪˈteɪniəm/
+
+23 V Vanadium /vəˈneɪdiəm/
+
+24 Cr Chromium /ˈkrəʊmiəm/
+
+25 Mn Manganese /ˈmæŋɡəniːz/
+ThS. Nguyễn Minh Lý /ˈaɪən/ Trang 3
+
+26 Fe Iron
+/ˈaɪərn/
+
+27 Co Cobalt /ˈkəʊbɔːlt/
+
+
+
+Danh pháp hóa học 
+
+2. PHÂN LOẠI VÀ CÁCH GỌI TÊN MỘT SỐ HỢP CHẤT VÔ CƠ
+2.1. Ions
+
+- Tên của một cation đơn nguyên tử (ion dương, cation - /ˈkæt.aɪ.ən/).
+TÊN CỦA NGUYÊN TỐ + (HÓA TRỊ) + “ ” + ION
+
+VD:
+K potassium  K+ potassium ion (/ˈaɪ.ɒn/)
+Mg magnesium Mg2+ magnesium ion
+Al aluminium Al3+ aluminium ion
+
+- Đối với kim loại đa hóa trị thì bên cạnh cách gọi tên kèm hóa trị thì có thể dùng một số thuật ngữ tên
+thường để ám chỉ cả hóa trị mà kim loại đang mang. Trong đó, đuôi -ic hướng đến hợp chất mà kim
+loại thể hiện mức hóa trị cao, còn đuôi -ous hướng đến hợp chất mà kim loại thể hiện mức hóa trị thấp.
+
+Fe Fe2+ iron(II) ion ferrous ion
+Iron (Sắt) Fe3+ iron(III) ion ferric ion
+
+Cu Cu+ copper(I) ion cuprous ion
+Copper  (Đồng) Cu2+ copper(II) ion cupric ion
+
+Sn Sn2+ tin(II) ion stannous ion
+Tin (Thiếc) Sn4+ tin(IV) ion stannic ion
+
+Pb Pb2+ lead(II) ion plumbous ion
+Lead (Chì) Pb4+ lead(IV) ion plumbic ion
+
+Cr Cr2+ chromium(II) ion chromous ion
+Chromium Cr3+ chromium(III) ion chromic ion
+
+Au Au+ gold(I) ion aurous ion
+Gold Au3+ gold(III) ion auric ion
+
+- Tên của một anion đơn nguyên tử (ion âm, anion - /ˈæn.aɪ.ən/):
+TÊN GỐC (HẬU TỐ -IDE) + “ ” + ION
+
+VD:
+F (Fluorine) F- fluoride ion
+Cl (Chlorine) Cl- chloride ion
+Br (Bromine) Br- bromide ion
+
+I (Iodine) I- iodide ion
+O (Oxygen) O2- oxide ion
+S (Sulfur) S2- sulfide ion
+
+N (Nitrogen) N3- nitride ion
+P (Phosphorus) P3- phosphide ion
+
+2.2. Oxides
+- Oxide - /ˈɒksaɪd/ hay /ˈɑːksaɪd/
+- Đối với oxide của kim loại (hướng đến basic oxide - /ˈbeɪsɪk ˈɒksaɪd/):
+
+CÁCH 1:
+TÊN KIM LOẠI + (HÓA TRỊ) + “  ” +  OXIDE
+
+CÁCH 2: Dùng cho một số ít trường hợp
+
+ThS. Nguyễn Minh Lý Trang 4
+
+
+
+Danh pháp hóa học 
+
+TÊN KIM LOẠI + “  ” +  SỐ OXYGEN + OXIDE
+VD:
+
+Na2O: sodium oxide - /ˈsəʊdiəm ˈɒksaɪd/.
+MgO: magnesium oxide - /mæɡˈniːziəm ˈɒksaɪd/.
+
+Lưu ý: Hóa trị vẫn sẽ được phát âm bằng tiếng Việt. Đối với kim loại đa hóa trị thì bên cạnh cách gọi
+tên kèm hóa trị thì có thể dùng một số thuật ngữ tên thường để ám chỉ cả hóa trị mà kim loại đang
+mang. Trong đó, đuôi  -ic hướng đến hợp chất mà kim loại thể hiện mức hóa trị cao, còn đuôi  -ous
+hướng đến hợp chất mà kim loại thể hiện mức hóa trị thấp.
+Bảng 2: Tên gọi các oxide.
+
+KIM LOẠI TÊN GỌI VÍ DỤ
+Fe(II): ferrous - /ˈferəs/ FeO: iron(II) oxide
+
+         ferrous oxide
+Iron (Fe)
+
+Fe(III): ferric - /ˈferik/ Fe2O3: iron(III) oxide
+            ferric oxide
+
+Cu(I): cuprous - /ˈkyü-prəs/ Cu2O: copper(I) oxide
+           cuprous oxide
+
+Copper (Cu)
+Cu(II): cupric - /ˈkyü-prik/ CuO: copper(II) oxide
+
+          cupric oxide
+Cr(II): chromous - /ˈkrəʊməs/ CrO: chromium(II) oxide
+
+         chromous oxide
+Chromium (Cr)
+
+Cr(III): chromic - /ˈkrəʊmik/ Cr2O3: chromium(III) oxide
+            chromic oxide
+
+- Đối với oxide của phi kim (hoặc acidic oxide của kim loại - /əˈsɪdɪk ˈɒksaɪd/):
+CÁCH 1:
+
+TÊN NGUYÊN TỐ + (HÓA TRỊ) + “  ” + OXIDE
+CÁCH 2: 
+
+SỐ NGUYÊN TỬ + TÊN NGUYÊN TỐ + “  ” +  SỐ OXYGEN + OXIDE
+Lưu ý: 
+
++ Số lượng nguyên tử/nhóm nguyên tử được quy ước là mono, di, tri, tetra, penta,…
++ Theo quy tắc giản lược nguyên âm: mono + oxide = monoxide, penta + oxide = pentoxide.
+
+Bảng 3: Số lượng và phiên âm.
+SỐ LƯỢNG PHIÊN ÂM AUDIO
+
+1 mono /ˈmɒnəʊ/ mono
+2 di /dɑɪ/ di
+3 tri /trɑɪ/ tri
+4 tetra /ˈtetrə/ tetra
+5 penta /pentə/ penta
+6 hexa /heksə/ hexa
+7 hepta /ˈheptə/ hepta
+
+ThS. Nguyễn Minh Lý Trang 5
+
+
+
+Danh pháp hóa học 
+
+8 octa /ˈɒktə/ octa
+9 nona /nɒnə/ nona
+10 deca /dekə/ deca
+
+VD:
+SO2: sulfur(IV) oxide hay sulfur dioxide
+CO: carbon(II) oxide hay carbon monoxide
+P2O5: phosphorus(V) oxide hay diphosphorus pentoxide
+CrO3: chromium(VI) oxide hay chromium trioxide
+N2O: dinitrogen oxide hay nitrous oxide
+
+2.3. Bases
+- Base - /beɪs/
+- Hydroxide - /haɪˈdrɒksaɪd/ hay /haɪˈdrɑːksaɪd/
+- Cách gọi tên:
+
+TÊN KIM LOẠI + (HÓA TRỊ) + “  ” + HYDROXIDE
+VD:
+
+Ba(OH)2: barium hydroxide
+Fe(OH)3: iron(III) hydroxide hay ferric hydroxide
+Fe(OH)2: iron(II) hydroxide hay ferrous hydroxide
+
+2.4. Acids
+- Acid - /ˈæsɪd/
+- Binary acid tạo thành từ hydrogen và một nguyên tố khác.  Các binary acid thường gặp có chứa
+halogen.
+
+HYDRO + TÊN CƠ SỞ CỦA ANION + IC + “ ” + ACID
+VD:
+
+HF hydrofluoric acid
+HCl hydrochloric acid
+
+- Oxyacid  tạo thành từ  hydrogen, oxygen và một nguyên tố khác. Nguyên tố thứ ba này thường là
+nguyên tố phi kim.
+
++ Nếu oxyanions có đuôi -ite:
+TÊN GỐC CỦA ANION + OUS + “ ” + ACID
+
+VD:
+H2SO3 sulfurous acid
+HNO2 nitrous acid
+
++ Nếu oxyanions có đuôi -ate:
+TÊN GỐC CỦA ANION + IC + “ ” + ACID
+
+VD:
+H2SO4 sulfuric acid
+HNO3 nitric acid
+
+ThS. Nguyễn Minh Lý Trang 6
+
+
+
+Danh pháp hóa học 
+
+- Một số acid vô cơ:
+Bảng 4: Một số acid và tên gọi.
+
+CÔNG THỨC TÊN GỌI PHIÊN ÂM VÍ DỤ AUDIO
+HÓA HỌC
+
+HX hydrohalic acid /ˌhaɪdrəˌklɔːrɪk ˈæsɪd/ hydrohalic acid
+HF hydrofluoric acid /ˌhaɪdrəˌflʊərɪk ˈæsɪd/ hydrofluoric acid
+HCl hydrochloric acid /ˌhaɪdrəˌklɒrɪk ˈæsɪd/ hydrochloric acid
+HBr hydrobromic acid /ˌhaɪdrəˌbrəʊmɪk ˈæsɪd/ hydrobromic acid
+HI hydroiodic acid /ˌhaɪdrəˌaɪədɪk ˈæsɪd/ hydroiodic acid
+
+HClO hypochloruos acid /haɪpəʊklɒrəs ˈæsɪd/  hypo  chloruos acid 
+HClO2 chloruos acid /klɒrəs ˈæsɪd/ chloruos acid
+HClO3 chloric acid /klɒrɪk ˈæsɪd/ chloric acid
+HClO4 perchloric acid /pərˌklɒrɪk ˈæsɪd/  per  chloric acid 
+
+/ˈhaɪdrəʊsʌlˌfjʊərɪk
+H2S hydrosulfuric acid hydrosulfuric acid
+
+ˈæsɪd/
+/sʌlˌfjʊərɪk ˈæsɪd/
+
+H2SO4 sulfuric acid sulfuric acid
+/sʌlˌfjʊrɪk ˈæsɪd/
+
+H2SO3 sulfurous acid /ˈsʌlfərəs ˈæsɪd/ sulfurous acid
+HNO3 nitric acid /ˌnaɪtrɪk ˈæsɪd/ nitric acid
+HNO2 nitrous acid /ˌnaɪtrəs ˈæsɪd/ nitrous acid
+
+/fɒsˌfɒrɪk ˈæsɪd/
+H3PO4 phosphoric acid phosphoric acid
+
+/fɑːsˌfɔːrɪk ˈæsɪd/
+H3PO3 phosphorous acid /fɒsˌfɒrəs ˈæsɪd/ phosphorous acid
+H3PO2 hypophosphorous acid /haɪpəʊfɒsˌfɒrəs ˈæsɪd/  hypo  phosphorous acid 
+
+/kɑːˌbɒnɪk ˈæsɪd/ 
+CO2 + H2O (H2CO3) carbonic acid carbonic acid
+
+/kɑːrˌbɑːnɪk ˈæsɪd/
+H2SiO3 metasilicic acid /’metəsə’lisik ˈæsɪd/ metasilicic acid
+H3BO3 boric acid /ˌbɔː.rɪk ˈæs.ɪd/ boric acid
+HCN hydrocyanic acid /haɪdrō-saɪˈa-nik ˈæsɪd/ hydrocyanic acid
+
+HSCN thiocyanic acid /thıosıanik ˈæs.ɪd/ thiocyanic acid
+HNCS isothiocyanic acid /ˈaɪsəʊthıosıanik ˈæs.ɪd/  iso  thiocyanic acid 
+HMnO4 permanganic acid /pərmanganik ˈæs.ɪd/ permanganic acid
+H2MnO4 manganic acid /manganik ˈæs.ɪd/ manganic acid
+H2CrO4 chromic acid /kromik ˈæs.ɪd/ chromic acid
+H2Cr2O7 dichromic acid /dɑɪkromik ˈæs.ɪd/ dichromic acid
+H2S2O3 thiosulfuric acid /thɑıəsəlfyu˙rik ˈæs.ɪd/ thiosulfuric acid
+
+2.5. Muối và một số hợp chất cộng hóa trị khác
+
+[TÊN NGUYÊN TỐ ĐỨNG ĐẦU   + TÊN GỐC MUỐI ⟨GỐC KHÔNG CHỨA OXYGEN → ĐUÔI IDE /aid/
+ (N H4 ) /əˈməʊniəm/ GỐC CHỨA OXYGEN, HÓA TRỊ THẤP →  ĐUÔI ITE /a ɪt/
+
+GỐC CHỨA OXYGEN, HÓA TRỊ CAO →  ĐUÔI ATE  / eɪt /
+
+ThS. Nguyễn Minh Lý Trang 7
+
+
+
+Danh pháp hóa học 
+
+Bảng 5: Một số gốc và hóa trị.
+GỐC HÓA TRỊ TÊN GỐC PHIÊN ÂM VÍ DỤ
+
+MUỐI
+/ˈflɔːraɪd/
+
+NaF: sodium fluoride
+F I -fluoride /ˈflʊəraɪd/
+
+SF : sulfur hexafluoride
+/ˈflʊraɪd/ 6
+
+CuCl2: copper(II) chloride
+Cl I -chloride /ˈklɔːraɪd/             cupric chloride
+
+HCl(gas): hydrogen chloride
+FeBr n(III) bromide
+
+Br I -bromide /ˈbrəʊmaɪd/ 3: iro
+           ferric bromide
+
+I I -iodide /ˈaɪədaɪd/ AgI: silver iodide
+ClO I -hypochlorite /haɪpəʊˈklɔːraɪt/ NaClO: sodium  hypo  chlorite 
+ClO2 I -chlorite /ˈklɔːraɪt/ NaClO2: sodium chlorite
+ClO3 I -chlorate /klɒreɪt/ KClO3: potassium chlorate
+ClO4 I -perchlorate /pərˌklɒreɪt/ KClO4: potassium  per  chlorate 
+
+S II -sulfide /ˈsʌlfaɪd/ PbS: lead sulfide
+-hydrogen /ˈhaɪdrədʒən
+
+HS I NaHS: sodium hydrogen sulfide
+sulfide ˈsʌlfaɪd/
+
+C IV -carbide /ˈkɑːbaɪd/ Al4C3: aluminium carbide
+N III -nitride /ˈnaɪtraɪd/ Li3N: lithium nitride
+
+/ˈfɒsfaɪd/
+P III -phosphide Zn P zinc phosphide
+
+/ˈfɑːsfaɪd/ 3 2: 
+
+CN I -cyanide /ˈsaɪənaɪd/ KCN: potassium cyanide
+SCN I -thiocyanate /ˈθaɪəʊsaɪəneɪd/ KSCN: potassium thiocyanate
+SO4 II -sulfate /ˈsʌlfeɪt/ Na2SO4: sodium sulfate
+
+-hydrogen
+/ˈhaɪdrədʒən sʌlfeɪt/ KHSO
+
+HSO 4: potassium hydrogen sulfate
+4 I sulfate
+
+/baɪˈsʌlfeɪt/               potassium bisulfate
+-bisulfate
+
+SO3 II -sulfite /ˈsʌlfaɪt/ CaSO3: calcium sulfite
+-hydrogen /ˈhaɪdrədʒən
+
+HSO NaHSO3: sodium hydrogen sulfite
+3 I
+
+sulfite ˈsʌlfaɪt/
+NO3 I -nitrate /ˈnaɪtreɪt/ AgNO3: silver nitrate
+NO2 I -nitrite /ˈnaɪtraɪt/ NaNO2: sodium nitrite
+
+MnO4 I -permanganate /pəˈmæŋɡəˌneɪt/ KMnO4: potassium  per  manganate 
+MnO4 II -manganate /mæŋɡəˌneɪt/ K2MnO4: potassium manganate
+
+/ˈkɑːbənət/
+CO3 II -carbonate MgCO
+
+/ˈkɑː.bən.eɪt/ 3: magnesium carbonate
+
+-hydrogen /ˈhaɪdrədʒən Ba(HCO3)2:
+HCO3 I carbonate ˈkɑːbənət/ barium hydrogen carbonate
+
+-bicarbonate /baɪˈ ˈkɑːbənət/ barium bicarbonate
+PO4 III -phosphate /ˈfɒsfeɪt/ Ag3PO4: silver phosphate
+
+ThS. Nguyễn Minh Lý Trang 8
+
+
+
+Danh pháp hóa học 
+
+/ˈfɑːsfeɪt/
+-hydrogen /ˈhaɪdrədʒən (NH ) O
+
+HPO 2HP 4
+4 II 4
+
+phosphate ˈfɒsfeɪt/ ammonium  hydrogen  p  hosphate 
+-dihydrogen /dai ˈhaɪdrədʒən Ca(H
+
+H 2PO4)2
+2PO4 I
+
+phosphate ˈfɒsfeɪt/ calcium dihydrogen phosphate
+-dihydrogen /dai ˈhaɪdrədʒən NaH
+
+H 2PO3: 
+2PO3 I
+
+phosphite ˈfɒsfaɪt/ sodium dihydrogen phosphite
+-hydrogen Na HPO : 
+
+HPO3 II /haɪdrədʒən ˈfɒsfaɪt/ 2 3
+
+phosphite sodium hydrogen phosphite
+H2PO2 I -hypophosphite /haɪpəʊˈfɒsfaɪt/ NaH2PO2: sodium  hypo  phosphite 
+CrO2 I -chromite /ˈkrəʊmaɪt/ NaCrO2: sodium chromite
+CrO4 II -chromate /ˈkrəʊmeɪt/ K2CrO4: potassium chromate
+Cr2O7 II -dichromate /daiˈkrəʊmeɪt/ K2Cr2O7: potassium dichromate
+AlO2 I -aluminate /ˌæləˈmɪnieɪt/ NaAlO2: sodium aluminate
+ZnO2 II -zincate /zɪŋkeɪt/ Na2ZnO2: sodium zincate
+
+Lưu ý:  Phát âm đuôi đúng /t/ và /d/ để phân biệt rõ các chất sodium chloride (NaCl) và sodium
+chlorite (NaClO2) tránh tạo ra sự hiểu lầm.
+
+2.6. Một số quặng, hợp chất, hỗn hợp chất thường gặp
+THÀNH PHẦN CHÍNH TÊN QUẶNG PHIÊN ÂM AUDIO
+
+NHÓM QUẶNG/HỢP CHẤT/HỖN HỢP CHẤT CỦA IRON (SẮT)
+Hematite /ˈhiːmətaɪt/
+
+Fe2O3 Hematite
+(hoặc haematite) (hoặc /ˈhɛmətaɪt/
+
+Fe3O4 Magnetite /ˈmæɡnətaɪt/ Magnetite
+/ˈsaɪdəˌraɪt/
+
+FeCO3 Siderite Siderite
+(hoặc /ˈsɪdəˌraɪt/)
+
+FeS2 Pyrite /ˈpaɪraɪt/ Pyrite
+Fe3C Cementite /sɪˈmɛntaɪt/ Cementite
+
+/əˈməʊniəm
+Ammonium iron(III) sulfate ˈaɪən ˈsʌlfeɪt/
+
+(NH4)2SO4.Fe2(SO4)3.24H2O (hoặc ferric ammonium sulfate) /ˈfer.ɪk ə Iron allum
+(hoặc iron allum) ˈməʊniəm
+
+ˈsʌlfeɪt/
+NHÓM QUẶNG/HỢP CHẤT/HỖN HỢP CHẤT CỦA SODIUM, POTASSIUM
+
+Table salt
+NaCl Table salt
+
+Halite
+KCl Sylvite /ˈsɪl.ˌvɑɪt/ Sylvite
+
+KCl.NaCl Sylvinite /ˈsɪlvɪˌnaɪt/ Sylvinite
+Carnallite
+
+KCl.MgCl2.6H2O /ˈkɑːnəˌlaɪt/ Carnallite
+(hoặc carnalite)
+
+NaHCO3 Baking soda /beɪkɪŋ soʊdə/ Baking soda
+ThS. Nguyễn Minh Lý Trang 9
+
+
+
+Danh pháp hóa học 
+
+KNO3 Niter
+/ˈnaɪtə/ Niter
+
+(hoặc NaNO3) (hoặc nitre)
+Liquid glass
+
+K2SiO3 và Na2SiO3 /ˈlɪkwɪd ɡlɑːs/ Liquid glass
+(hoặc water glass)
+
+/ˈsəʊdiəm
+Sodium calcium silicate Soda-lime
+
+Na2O.CaO.6SiO2 ˈkælsiəm
+(hoặc Soda-lime glass) glass
+
+ˈsɪlɪkeɪt/
+Black powder
+
+KNO3, S, C /blæk ˈpaʊdə(r)/ Gun powder
+(hoặc gun powder)
+
+Iodised salt
+Iodised salt
+
+NaCl, KI hoặc KIO3 /ˌaɪ.ə.daɪzd ˈsɒlt/ (hoặc
+(hoặc iodized salt)
+
+iodized salt)
+NHÓM QUẶNG/HỢP CHẤT/HỖN HỢP CHẤT CỦA CALCIUM, MAGNESIUM
+
+CaCO3 Calcite /ˈkælsaɪt/ Calcite
+CaSO4.2H2O Gypsum /dʒɪpsəm/ Gypsum
+CaSO4.H2O Plaster /plɑːstə/ Plaster
+
+(hoặc 2CaSO4.H2O)
+Anhydrite
+
+CaSO4 /ænˈhaɪdraɪt/ Anhydrite
+(hoặc anhydrous gypsum)
+
+Ca3(PO4)2 Phosphorite /ˈfɒsfəˌraɪt/ Phosphorite
+Ca5F(PO4)3 Fluorapatite /flʊəˈɹæpətaɪt/  F  l u  o  rapatite 
+
+(hoặc 3Ca3(PO4)2.CaF2)
+CaCO3.MgCO3 Dolomite /ˈdɒləˌmaɪt/ Dolomite
+
+CaF2 Fluorite /ˈflʊəraɪt/ Fluorite
+Magnesite
+
+MgCO3 (tránh nhầm với magnetite là /ˈmæɡnɪˌsaɪt/ Magnesite
+Fe3O4)
+
+NHÓM QUẶNG/HỢP CHẤT/HỖN HỢP CHẤT CỦA ALUMINIUM, CHROMIUM
+Al2O3.2H2O Bauxite /bɔːksaɪt/ Bauxite
+
+Na3AlF6 (hoặc AlF3.3NaF) Cryolite /ˈkraɪəˌlaɪt/ Cryolite
+Al2O3.2SiO2.2H2O Kaolinite /ˈkeɪəlɪˌnaɪt/ Kaolinite
+
+Thermite /ˈθɜrˌmaɪt/
+Al và Fe2O3 Thermite
+
+(hoặc thermit) (hoặc /ˈθɜrmɪt/)
+Potassium aluminium sulfate
+
+(NH4)2SO4.Al2(SO4)3.24H2O /pəˈtæsiəm ˌæljə
+(hoặc potassium alum)
+
+(hoặc AlNH4(SO4)2.12H2O) ˈmɪniəm ˈsʌlfeɪt/  P  otash alum 
+(hoặc potash alum)
+
+K2SO4.Cr2(SO4)3.24H2O Chromium(III) potassium sulfate  C  hrome 
+(hoặc KCr(SO4)2.12H2O) (hoặc chrome alum) alum
+
+FeO.Cr2O3 Chromite /ˈkrəʊmaɪt/ Chromite
+(hoặc Fe(CrO2)2; FeCr2O4)
+
+NHÓM QUẶNG/HỢP CHẤT/HỖN HỢP CHẤT CỦA KIM LOẠI KHÁC
+Cu2S Chalcocite /ˈkælkəˌsaɪt/ Chalcocite
+
+ThS. Nguyễn Minh Lý Trang 10
+
+
+
+Danh pháp hóa học 
+
+CuFeS2 Chalcopyrite /ˌkælkəˈpaɪraɪt/ Chalcopyrite
+Cu2O Cuprite /ˈkjuːpraɪt/ Cuprite
+
+CuSO4.5H2O Copper(II) sulfate pentahydrate
+ZnS Sphalerite
+
+2.7. Phức chất
+2.7.1. Khái niệm
+
+- Phức chất (Coordination compound) được tạo thành từ các ion kim loại kết hợp với các ion hoặc
+phân tử khác. Chúng có khả năng tồn tại trong dung dịch, đồng thời có khả năng phân li thành các cấu
+tử tạo thành phức.
+
+2.7.2. Cấu tạo
+- Một phân tử phức chất thường gồm 2 phần: cầu nội và cầu ngoại.
+CẦU NỘI
+- Cầu nội gồm có chất tạo phức và phối tử. Số phối tử trong cầu nội gọi là số phối trí của phức chất.
+Cầu nội được viết trong dấu ngoặc vuông.
+- Chất tạo phức: có thể là ion hay nguyên tử và được gọi là nguyên tử trung tâm (Central atom)
+
++ Cầu nội của phức chất có thể là cation: [Al(H2O)6]Cl3, [Zn(NH3)4]Cl2,…
++ Cầu nội của phức chất có thể là anion: H2[SiF6], K2[Zn(OH)4],...
++ Cầu nội của phức chất có thể là phân tử trung hoà về điện, không phân li trong dung dịch:
+[Co(NH3)3Cl3], [Ni(CO)4],...
+
+- Phối tử
++ Phối tử có thể là anion: F-, Cl-, I-, OH-, CN-, SCN-, NO -
+
+2 , S -
+2O 2
+
+3 , EDTA, ….
++ Phối tử có thể là phân tử: H2O, NH3, CO, NO, pyridine, ethylenediamine, ….
++ Dựa vào số phối trí mà một phối tử có thể tạo thành xung quanh nguyên tử trung tâm mà có thể
+chia phối tử thành phối tử một càng và phối tử nhiều càng
+
+ Phối tử một càng chỉ có thể tạo một liên kết phối trí với nguyên tử trung tâm: H2O, NH3,
+…
+
+ Phối tử hai càng, ba càng,… là phối tử có thể tạo hai, ba,… liên kết phối trí với nguyên
+tử trung tâm: H2N-CH2-CH2-NH2,...
+
+- Cách viết công thức của cầu nội: 
++ Công thức được đặt trong dấu ngoặc vuông
++ Thứ tự: Nguyên tử trung tâm + Phối tử anion + Phối tử trung hòa
++ Nếu cầu nội có nhiều phối tử trung hòa, sắp xếp các phối tử theo thứ tự chữ cái trong CÔNG 
+THỨC. Điều này làm tương tự đối với phối tử anion.
++ Phối tử viết tắt (như en, dien) hoặc phối tử gồm nhiều nguyên tử được đặt trong dấu ngoặc đơn
+
+CẦU NGOẠI
+- Cầu ngoại là phần ion đối nằm ngoài liên kết với cầu nội 
+
+2.7.3. Tên gọi của phức chất
+- Tên phức chất = tên cầu nội + “  ” + tên cầu ngoại
+- Tên cầu nội: số phối tử + tên phối tử + tên của nguyên tử trung tâm + hoá trị.
+- Số phối tử:
+ThS. Nguyễn Minh Lý Trang 11
+
+
+
+Danh pháp hóa học 
+
++ để chỉ số phối tử một càng (có 1 cặp electron tự do có thể tham gia phối trí) nguời ta dùng các
+tiếp đầu ngữ: di, tri, tetra,...
++ để chỉ số phối tử nhiều càng (có nhiều cặp electron tự do có thể tham gia phối trí) người ta
+thường dùng các tiếp đầu ngữ: bis, tris, tetrakis, pentakis,….
+
+- Tên phối tử (Ligand):
++ Nếu phối tử là anion: tên anion kết thúc bằng -ite, -ate hoặc -ide thì tên phối tử được đổi thành
+-ito, -ato hoặc -ido. Riêng các halogenido được viết thành “halo”. Lưu ý, hydrogen luôn được coi
+là anion với tên gọi là hydride.
+
+-ite  -ito; VD: nitrite  nitrito
+-ate  -ato; VD: sulfate  sulfato, nitrate  nitrato
+-ide  -o; VD: chloride  chloro, hydroxide  hydroxo
+
+-F : fluoro  -Cl: chloro -Br: bromo   -I: iodo         
+=SO3: sulfito       =S2O3: thiosulfato  =C2O4: oxalato =CO3: carbonato
+-OH: hydroxo    -CN: cyano -SCN: thiocyanato -NO2: nitro
+-O-N=O: nitrito -OCOCH3: acetato =O: oxo (/ˈɒksəʊ/) -H: hydride
+-ONO2: nitrato -NSC: isothiocyanato
++ Nếu phối tử là phân tử trung hoà, người ta lấy tên của phân tử đó:
+
+Công thức Tên gọi Phiên âm Audio
+C2H4 ethylene /ˈeθ.əl.iːn/ ethylene
+
+C5H5N
+pyridine (py) ˈpɪrəˌdin pyridine
+
+CH3NH2 methylamine /ˈmeθ.ɪlˈeɪ.miːn/ methylamine
+C6H6
+
+benzene /ˈben.ziːn/ benzene
+
+H2N-CH2CH2-NH2 ethylenediamine (en) /ˈeθ.əl.iːn dɑɪ ˈeɪ.miːn/ ethylenediamine
+NH(CH2CH2NH2)2 diethylenetriamine (dien) diethylenetriamine
+
++ Một số phối tử trung hoà được đặt tên riêng:
+Công thức Tên gọi Phiên âm
+
+H2O aqua /ˈæk.wə/
+NH3 ammine /æˈmmiːn/
+CO carbonyl /ˈkɑːbənɪl/
+NO nitrosyl /ˈnaɪtrəsɪl/
+O2 dioxygen /dɑɪˈɒksɪdʒən/
+N2 dinitrogen /dɑɪˈnaɪtrədʒən/
+
+ThS. Nguyễn Minh Lý Trang 12
+
+
+
+Danh pháp hóa học 
+
++ Tên phối tử được sắp xếp theo thứ tự bảng chữ cái, bất kể loại phối tử nào. Các tiền tố là số (di,
+tri, bis...) bị bỏ qua trong quy trình sắp xếp thứ tự này, trừ khi chúng là một phần của tên phối tử.
++ Đối với các phối tử trong tên đã có chứa các tiền tố chỉ số lượng thì tên phối tử được đặt trong
+dấu ngoặc đơn.
+
+- Tên nguyên tử trung tâm và hoá trị:
++ Nếu nguyên tử trung tâm trong cation phức, người ta lấy tên của nguyên tử đó kèm theo số
+La Mã viết trong dấu ngoặc đơn để chỉ hoá trị hay số oxi hoá khi cần.
++ Nếu nguyên tử trung tâm trong anion phức, ta lấy tên của nguyên tử đó kèm theo đuôi –ate
+và kèm theo số La Mã viết trong dấu ngoặc đơn để chỉ hoá trị hay số oxi hoá, nếu phức chất là
+acid thì thay đuôi –ate bằng đuôi –ic.
+
+Bảng 6: Tên kim loại trong phức cation và phức anion.
+Kim loại Tên trong phức cation Tên trong phức anion Phiên âm
+
+Fe Iron Ferrate /ˈfɛreɪt/
+Cu Copper Cuprate /ˈkyü-preɪt/
+Pb Lead Plumbate /ˈpləmˌbeɪt/
+Ag Silver Argentate /ˈɑːdʒənˌteɪt/
+Au Gold Aurate /ˈɔːreɪt/
+Sn Tin Stannate /ˈstæneɪt/
+Pt Platinum Platinate /ˈplætnˌeɪt/
+Cr Chromium Chromate /ˈkrəʊˌmeɪt/
+Co Cobalt Cobaltate /kəʊˈbɔːlteɪt/
+Ni Nickel Nickelate /ˈnɪkəˌleit/
+Hg Mercury Mercurate /ˈmɜːkjʊˌreɪt/
+Pd Palladium Palladate /pəˈleɪdeit/
+Zn Zinc Zincate /ˈzɪŋkeɪt/
+
+2.7.4. Một số phức chất và tên gọi
+PHỨC CỦA NGUYÊN TỐ IRON (Fe)
+
+K4[Fe(CN)6] potassium hexacyanoferrate(II)
+K3[Fe(CN)6] potassium hexacyanoferrate(III)
+[FeCl2(H2O)4]+ ion tetraaquadichloroiron(III)
+K3[Fe(CN)5(CO)] potassium carbonylpentacyanoferrate(II)
+Fe(acac)3 tris(acetylacetonato)iron(III)
+[Fe(SCN)(H2O)5]SO4 pentaaqua(thiocyanato-N)iron(III) sulfate
+Ca2[Fe(CN)6] calcium hexacyanoferrate(II)
+
+PHỨC CỦA NGUYÊN TỐ COPPER (Cu)
+[Cu(H2N-CH2-CH2-NH2)2]SO4 bis(ethylenediamine)copper(II) sulfate
+Na2[Cu(OH)4] sodium tetrahydroxocuprate(II)
+[CuCl2]- ion dichlorocuprate(I)
+
+PHỨC CỦA NGUYÊN TỐ SILVER (Ag)
+Na3[Ag(S2O3)2] sodium bis(thiosunfato)argentate(I)
+K[Ag(CN)2] potassium dicyanoargentate(I) 
+
+ThS. Nguyễn Minh Lý Trang 13
+
+
+
+Danh pháp hóa học 
+
+[Ag(NH3)2]4[Fe(CN)6] diammineargentate(I) hexacyanoferrate(II)
+PHỨC CỦA NGUYÊN TỐ GOLD (Au)
+
+Al[AuCl4]3 aluminium tetrachloroaurate(III)
+Na[Au(CN)2] sodium dicyanoaurate(III)
+
+PHỨC CỦA NGUYÊN TỐ PLATINUM (Pt)
+[Pt(py)4][PtCl4] tetrapyridineplatinum(II) tetrachloroplatinate(II)
+[PtCl2(NH3)2] diamminedichloroplatinum(II)
+[PtCl2(NH3)4][PtCl4] diamminedichloroplatinum(IV) tetrachloroplatinate(II)
+[PtBr(NH3)3]NO2 triamminebromoplatinum(II) nitrite
+[Pt(C2O4)(NH3)2] diammineoxalatoplatinum(II)
+[Pt(NH3)4][PtCl4] tetraammineplatinum(II) tetrachloroplatinate(II)
+[PtCl(NO2)(NH3)4]SO4 tetraamminechloronitroplatinum(II) sulfate
+K2[PtCl6] potassium hexachloroplatinate(IV)
+[Pt(OH)(H2O)(NH3)2]NO3 diammineaquahydroxoplatinum(II) nitrate
+
+PHỨC CỦA NGUYÊN TỐ CHROMIUM (Cr)
+[Cr(NH3)6]Cl3 hexaamminechromium(III) chloride
+[CrCl4(H2O)2]– ion diaquatetrachlorochromate(III)
+[Cr(H2O)(NH3)5](NO3)3 pentaammineaquachromium(III) nitrate
+[CrCl2(NH3)4]Cl tetraamminedichlorochromium(III) chloride
+[Cr(CO)6] hexacarbonylchromium(0)
+[CrCl2(H2O)4]Cl tetraaquadichlorochromium(III) chloride
+[Cr(en)3]Cl3 tris(ethylenediamine)chromium(III) chloride
+[Cr(NH3)6](NO3)3 hexaamminechromium(III) nitrate
+[CrCl2(en)2]2[PdCl4] 
+bis(ethylenediamine)dichlorochromium(III) tetrachloropalladate(II)
+[Cr(NO2)2(NH3)4][Cr(NO2)4(NH3)2]
+tetraamminedinitrochromium(III) diamminetetranitrochromate(III)
+(NH4)3[Cr(NSC)6] ammonium hexa(isothiocyanato)chromate(III)
+
+PHỨC CỦA NGUYÊN TỐ COBALT (Co)
+[Co(NH3)6]Cl3 hexaamminecobalt(III) chloride
+[CoCl(H2O)5]Cl2 pentaaquachlorocobalt(III) chloride
+[CoBr2(NH3)4]2[ZnCl4] tetraamminedibromocobalt(III) tetrachlorozincate
+[CoBr(NH3)5]SO4 pentaamminebromocobalt(III) sulfate
+[CoSO4(NH3)5]Br pentaamminesulfatocobalt(III) bromide
+Na3[Co(NO2)6] sodium hexanitrocobaltate(III)
+[CoCl2(en)2]Cl bis(ethylenediamine)dichlorocobalt(III) chloride
+K3[Co(C2O4)3] potassium tris(oxalato)cobaltate(III)
+[Co(CO3)(NH3)5]2[CuCl4] pentaamminecarbonatocobalt(III) tetrachlorocuprate(II)
+[Co(Cl)(en)2(NH3)]SO4 amminebis(ethylenediamine)chlorocobalt(III) sulfate
+[Co(CN)2(en)2]ClO3 bis(ethylenediamine)dicyanocobalt(III) chlorate
+[Co(CO3)(NH3)5]Cl pentaamminecarbonatocobalt(III) chloride
+[Co(NO3)3(NH3)3] triamminetrinitratocobalt(III)
+
+ThS. Nguyễn Minh Lý Trang 14
+
+
+
+Danh pháp hóa học 
+
+[CoCl2(H2N-CH2-CH2-NH2)2].H2O hay [CoCl2(en)2].H2O
+bis(ethylenediamine)dichlorocobalt(II) monohydrate
+
+PHỨC CỦA NGUYÊN TỐ NICKEL (Ni)
+K2[NiF6] potassium hexafluoronickelate(IV)
+[Ni(C2O4)(H2O)] aquaoxalatonickel(II)
+[Ni(NH3)6]3[Co(NO2)6]2 hexaamminenickel(II) hexanitrocobaltate(III)
+[Ni(CO)4] tetracarbonylnickel(0)
+
+PHỨC CHẤT CỦA MỘT SỐ NGUYÊN TỐ KHÁC
+H2[SiF6] hexafluorosilicic acid
+[Ru(H2O)(NH3)5]Cl2 pentaammineaquaruthenium(II) chloride
+K2[HgI4] potassium tetraiodomercurate(II)
+Na2[Zn(OH)4] sodium tetrahydroxozincate(II)
+
+ThS. Nguyễn Minh Lý Trang 15
+
+
+
+Danh pháp hóa học 
+
+B. DANH PHÁP HỢP CHẤT HỮU CƠ
+1. DANH PHÁP CHUNG
+
+1.1. Số lượng và tên mạch carbon chính
+Bảng 7: Số lượng và tên mạch carbon chính từ 1 đến 10.
+
+SỐ MẠCH CARBON
+LƯỢNG CHÍNH
+
+1 mono meth
+2 di eth
+3 tri prop
+4 tetra but
+5 penta pent
+6 hexa hex
+7 hepta hept
+8 octa oct
+9 nona non
+10 deca dec
+
+Cách nhớ: Mẹ Em Phải Bón Phân Hóa Học Ở Ngoài Đồng
+
+Bảng 8: Số lượng từ 1 đến 100.
+1 Mono 19 Nonadeca
+2 Di (bis) 20 Icosa
+3 Tri (tris) 21 Henicosa
+4 Tetra (tetrakis) 22 Docosa
+5 Penta (pentakis) 23 Tricosa
+6 Hexa (hexakis) 30 Triaconta
+7 Hepta (heptakis) 31 Hentriaconta
+8 Octa (octakis) 35 Pentatriaconta
+9 Nona (nonakis) 40 Tetraconta
+10 Deca (decakis) 48 Octatetraconta
+11 Undeca 50 Pentaconta
+12 Dodeca 52 Dopentaconta
+13 Trideca 60 Hexaconta
+14 Tetradeca 70 Heptaconta
+15 Pentadeca 80 Octaconta
+16 Hexadeca 90 Nonaconta
+17 Heptadeca 10 Hecta
+
+0 
+18 Octadeca
+
+ThS. Nguyễn Minh Lý Trang 16
+
+
+
+Danh pháp hóa học 
+
+1.2. Tên một số gốc (nhóm) thường gặp
+1.2.1. Gốc (nhóm) no alkyl
+- Từ alkane bớt đi 1 H được nhóm alkyl
+
+CH3-: methyl
+CH3-CH2-: ethyl
+CH3-CH2-CH2-: propyl
+CH3-CH(CH3)-: isopropyl
+CH3CH2CH2CH2-: butyl
+CH3-CH(CH3)-CH2-: isobutyl
+CH3-CH2-CH(CH3)-: sec-butyl
+(CH3)3C-: tert-butyl
+CH3-CH2-CH2-CH2-CH2-: pentyl; amyl
+CH3-CH(CH3)-CH2-CH2-: isopentyl; isoamyl
+CH3-CH2-C(CH3)2-: tert-pentyl
+(CH3)3C-CH2-: neopentyl
+
+1.2.2. Gốc (nhóm) không no
+CH2=CH-: vinyl
+CH2=CH-CH2-: allyl
+
+1.2.3. Gốc (nhóm) thơm
+C6H5-: phenyl
+C6H5-CH2-: benzyl
+
+1.3. Nhóm đặc trưng ở dạng tiền tố (Prefix)
+Nhóm Tiền tố Nhóm Tiền tố
+
+F Fluoro- NO Nitroso-
+Cl Chloro- NO2 Nitro-
+Br Bromo- OR (R)oxy-
+I Iodo-
+
+1.4. Nhóm đặc trưng ở dạng tiền tố (Prefix) và hậu tố (Suffix)
+Loại hợp chất Nhóm Hậu tố Tiền tố
+
+Alcohols -OH -ol hydroxy-
+Ketones -(C)=O -one oxo-
+
+    |
+-(C)H=O -al oxo-
+
+Aldehydes
+-CH=O -carbaldehyde formyl-
+-(C)OOH -oic acid -
+
+Carboxylic acids
+-COOH -carboxylic acid carboxy-
+-(C)OOR R … -oate (R-oxy)-oxo-
+
+Esters
+-COOR R … -carboxylate (R)oxycarbonyl-
+
+Amines -NH2 -amine amino-
+(C) nghĩa là nguyên tử carbon này được tính trong mạch carbon chính
+
+ThS. Nguyễn Minh Lý Trang 17
+
+
+
+Danh pháp hóa học 
+
+1.5. Tên thông thường
+- Thường đặt theo nguồn gốc tìm ra chúng đôi khi có phần đuôi để chỉ rõ hợp chất loại nào.
+
+1.6. Tên hệ thống theo danh pháp IUPAC
+1.6.1. Tên gốc – chức 
+
+Tên phần gốc     Tên phần định chức
+VD: 
+
+C2H5Cl Ethyl chloride
+C2H5OCH3 Ethyl methyl ether
+
+Lưu ý: Các gốc có vần iso và neo viết liền, sec- và tert- có dấu gạch nối “-”
+
+1.6.2. Tên thay thế
+- Tên thay thế được viết liền, không viết cách như tên gốc chức, chia thành ba phần: 
+
+Tên phần thế (có thể không có) + Tên mạch carbon chính + Tên phần định chức
+VD: 
+
+CH3-CH3 ethane
+C2H5-Cl chloroethane
+CH3-CH=CH-CH3 but-2-ene
+CH3-CH(OH)-CH=CH2 but-3-en-2-ol
+
+- Thứ tự ưu tiên trong mạch:
+-COOH > -CHO > -OH > -NH2 > -C=C > -C≡CH > nhóm thế
+
+VD: 
+OHC-CHO ethanedial
+HC≡C-CH2-CH2-C(CH=CH2)=CH-CHO 3-vinylhept-2-en-6-ynal
+OHC-C≡C-CH2-CH2-C(CH=CH2)=CH-CHO 3-vinyloct-2-en-6-ynedial
+
+2. DANH PHÁP CÁC LOẠI HỢP CHẤT HỮU CƠ
+2.1. Alkanes
+
+- Alkane (hay paraffin) là những hydrocarbon no, mạch hở.
+- Công thức chung: CnH2n+2 (n 1)
+
+2.1.1. Tên thông thường
+- Một vài alkane có tên thông thường:
+
+CH3-CH(CH3)CH3 isobutane
+CH3-CH(CH3)CH2CH3 isopentane
+CH3-C(CH3)2CH3 neopentane
+
+2.1.2. Tên thay thế
+- Cách gọi tên:
+
++ Chọn mạch chính: mạch carbon dài nhất có nhiều nhánh nhất.
++ Đánh số mạch chính: từ phía phân nhánh sớm hơn. 
++ Gọi tên:
+
+ThS. Nguyễn Minh Lý Trang 18
+
+
+
+Danh pháp hóa học 
+
+Phần nhánh Phần mạch chính
+Vị trí nhánh – tên nhánh Tên mạch chính + ane
+
+- Lưu ý: 
++ Gọi tên mạch nhánh (tên nhóm alkyl) theo thứ tự vần chữ cái.
++ Số chỉ vị trí nhánh nào đặt ngay trước gạch nối với tên nhánh đó.
+
+VD:
+(a) 5 4 3 2 1
+
+CH3 – CH2  – CH – CH – CH3
+
+(b) 5’ 4’ 3’ | |
+2’CH2 CH3
+
+  |
+1’CH3
+
++ Chọn mạch chính:
+Mạch (a): 5C, 2 nhánh  Đúng
+Mạch (b): 5C, 1 nhánh  Sai
+
++ Đánh số mạch chính: Số 1 từ phía bên phải vì phân nhánh sớm hơn bên trái
++ Gọi tên nhánh theo thứ tự chữ cái (nhánh Ethyl trước nhánh Methyl) sau đó đến tên mạch C 
+chính rồi đến đuôi ane  3-ethyl-2-methylpentane
+
+2.2. Alkenes
+- Alkene là hydrocarbon không no, mạch hở, trong phân tử có một liên kết đôi C=C.
+- Công thức phân tử chung: CnH2n (n 2).
+
+2.2.1. Tên thông thường
+- Tên thường của alkene đơn giản lấy từ tên của alkane tương ứng nhưng đổi đuôi  ane thành đuôi
+ylene.
+VD:
+
+CH2=CH2 ethylene
+CH2=CH-CH3 propylene
+CH2=CH-CH2-CH3 α-butylene
+CH3-CH=CH-CH3 β-butylene
+CH2=C(CH3)-CH3 isobutylene
+
+2.2.2. Tên thay thế
+- Cách gọi tên:
+
++ Chọn mạch chính: mạch carbon dài nhất có chứa liên kết đôi và có nhiều nhánh nhất.
++ Đánh số mạch chính: từ phía gần liên kết đôi hơn. 
++ Gọi tên:
+
+Phần nhánh Phần mạch chính
+Vị trí nhánh – tên nhánh Tên mạch chính – vị trí liên kết đôi – ene
+
+- Lưu ý: 
++ Gọi tên mạch nhánh (tên nhóm alkyl) theo thứ tự vần chữ cái. Số chỉ vị trí nhánh nào đặt ngay
+trước gạch nối với tên nhánh đó.
++ Khi mạch chính chỉ có 2 hoặc 3 nguyên tử C thì không cần ghi vị trí liên kết đôi.
+
+VD:
+
+ThS. Nguyễn Minh Lý Trang 19
+
+
+
+Danh pháp hóa học 
+
+CH2=CHCH2CH2CH3 pent-1-ene
+CH3CH=CHCH2CH3 pent-2-ene
+CH2=C(CH3)-CH2CH3 2-methylbut-1-ene
+CH3C(CH3)=CHCH3 2-methylbut-2-ene
+
+- Đồng phân hình học của alkene: để có đồng phân hình học thì R1 ≠ R2 và R3 ≠ R4.
+
++ Mạch chính ở cùng một phía của liên kết đôi: đồng phân cis
++ Mạch chính ở về hai phía của liên kết đôi: đồng phân trans
+
+(Cis – Cùng; Trans – Trái)
+
+2.3. Alkadienes
+- Alkadiene là hydrocarbon không no, mạch hở, có hai liên kết đôi C=C trong phân tử.
+- Công thức phân tử chung: CnH2n-2 (n 3).
+
+2.3.1. Tên thông thường
+VD: 
+
+CH2=C=CH2 allene
+CH2=CH-CH=CH2 butadiene
+CH2=C(CH3)-CH=CH2 isoprene
+
+2.3.2. Tên thay thế
+- Cách gọi tên:
+
++ Chọn mạch chính: mạch carbon dài nhất có chứa hai liên kết đôi và có nhiều nhánh nhất.
++ Đánh số mạch chính: từ phía gần liên kết đôi hơn. 
++ Gọi tên:
+
+Phần nhánh Phần mạch chính
+Vị trí nhánh – tên nhánh Tên mạch chính + a – vị trí các liên kết đôi – diene
+
+- Lưu ý: 
++ Gọi tên mạch nhánh (tên nhóm alkyl) theo thứ tự vần chữ cái. Số chỉ vị trí nhánh nào đặt ngay 
+trước gạch nối với tên nhánh đó.
++ Khi mạch chính chỉ có 3 nguyên tử C thì không cần ghi vị trí các liên kết đôi.
+
+VD: 
+CH2=C=CH2 propadiene
+CH2=CH-CH=CH2 buta-1,3-diene
+CH2=C(CH3)-CH=CH2 2-methylbuta-1,3-diene
+CH2=CH-CH2-CH=CH2 penta-1,4-diene
+
+2.4. Alkynes
+- Alkyne là hydrocarbon không no, mạch hở, trong phân tử có một liên kết ba C≡C.
+- Công thức phân tử chung: CnH2n-2 (n 2).
+
+2.4.1. Tên thông thường
+
+R-C≡C-R’
+Tên R, R’ + acetylene
+
+VD: 
+CH≡CH acetylene
+CH3-C≡C-C2H5 ethylmethylacetylene
+CH≡C-CH=CH2 vinylacetylene
+
+2.4.2. Tên thay thế
+- Quy tắc gọi tên alkyne tương tự như gọi tên alkene, nhưng dùng đuôi yne để chỉ liên kết ba.
+- Cách gọi tên:
+
++ Chọn mạch chính: mạch carbon dài nhất có chứa liên kết ba và có nhiều nhánh nhất.
++ Đánh số mạch chính: từ phía gần liên kết ba hơn. 
++ Gọi tên:
+
+Phần nhánh Phần mạch chính
+Vị trí nhánh – tên nhánh Tên mạch chính – vị trí liên kết ba – yne
+
+- Lưu ý: 
++ Gọi tên mạch nhánh (tên nhóm alkyl) theo thứ tự vần chữ cái. Số chỉ vị trí nhánh nào đặt ngay
+trước gạch nối với tên nhánh đó.
++ Khi mạch chính chỉ có 2 hoặc 3 nguyên tử C thì không cần ghi vị trí liên kết ba.
+
+VD: 
+CH≡CH ethyne
+CH≡C-CH3 propyne
+CH3-C≡C-CH3 but-2-yne
+CH≡C-CH(CH3)CH3 3-methylbut-1-yne
+
+- Trong một chất vừa có liên kết đôi và liên kết ba, vần -ene được gọi trước -yne, nhưng lược bỏ 'e'.
+VD:
+
+CH C-CH=CH-CH3 pent-3-en-l-yne
+CH C-CH=CH2 but-l-en-3-yne
+
+2.5. Aromatic hydrocarbons
+- Hydrocarbon thơm (Aromatic hydrocarbon) là những hydrocarbon trong phân tử có chứa một hay 
+nhiều vòng benzene. 
+- CTPT chung của đồng đẳng benzene: CnH2n-6 (n  6)
+
+2.5.1. Tên thông thường
+- Những hợp chất thơm, một số lớn không có tên hệ thống mà thường dùng tên thông thường.
+
+ThS. Nguyễn Minh Lý Trang 21
+
+
+
+Danh pháp hóa học 
+
+2.5.2. Tên thay thế
+- Cách gọi tên:
+
+Vị trí nhóm alkyl – tên nhóm alkyl + benzene
+- Nếu vòng benzene liên kết với nhiều nhóm alkyl thì trong tên gọi cần chỉ rõ vị trí các nhóm alkyl
+bằng các chữ số hoặc các chữ cái o (ortho), m (meta), p (para).
+- Đánh số các nguyên tử C trong vòng sao cho tổng chỉ số trong tên gọi là nhỏ nhất.
+- Các nhóm thế được gọi theo thứ tự chữ cái đầu tên gốc alkyl.
+
+Methylbenzene Ethylbenzene
+(Toluene)
+
+                 
+1,2-dimethylbenzene 1,3-dimethylbenzene 1,4-dimethylbenzene
+o-dimethylbenzene m-dimethylbenzene   p-dimethylbenzene
+(o-xylene)         (m-xylene)         (p-xylene)
+
+        
+Isopropylbenzene, (1-Methylethyl)benzene vinylbenzene, phenylethylene
+(Cumene) (Styrene)
+
+C10H8: Naphthalene C10H12: Tetralin C10H18: Decalin
+
+(1,2,3,4-Tetrahydronaphthalene)
+2.6. Dẫn xuất halogen của hydrocarbon
+
+- Khi thay thế nguyên tử hydrogen của hydrocarbon với các nguyên tử halogen thu được dẫn xuất
+halogen của hydrocarbon (Halogen derivatives of hydrocarbons).
+
+2.6.1. Tên thông thường
+VD: CHCl3 chloroform
+
+CHBr3 bromoform
+
+ThS. Nguyễn Minh Lý Trang 22
+
+
+
+Danh pháp hóa học 
+
+CHI3 iodoform
+2.6.2. Tên gốc chức
+
+Tên gốc hydrocarbon + “ ” + tên cơ sở của halogen + ide
+VD: 
+
+CH2Cl2 methylene chloride
+CH2=CH-F vinyl fluoride
+C6H5-CH2-Br benzyl bromide
+
+2.6.3. Tên thay thế
+- Xem các nguyên tử halogen là những nhóm thế đính vào mạch chính.
+
+Vị trí nhóm thế - tên nhóm thế + Tên hydrocarbon
+VD: 
+
+FCH2CH2CH2CH3 1-fluorobutane
+CH3CHFCH2CH3 2-fluorobutane
+FCH2CH(CH3)CH3 1-fluoro-2-methylpropane
+(CH3)3C-F 2-fluoro-2-methylpropane
+ClFC-CHBrI 2-bromo-1-chloro-1,1-difluoro-2-iodoethane
+BrF2C-CClFI 1-bromo-2-chloro-1,1,2-trifluoro-2-iodoethane
+
+2.7. Alcohols
+- Alcohol là những hợp chất hữu cơ trong phân tử có nhóm hydroxyl -OH liên kết trực tiếp với nguyên
+tử carbon no.
+- Công thức phân tử chung alcohol no, đơn chức, mạch hở CnH2n+2O hay CnH2n+1OH (n ≥ 1)
+
+2.7.1. Tên thông thường
+Tên gốc hydrocarbon tương ứng + “ ” + alcohol
+
+2.7.2. Tên thay thế
+- Mạch chính: mạch carbon dài nhất có chứa nhóm –OH.
+- Đánh số mạch chính: từ phía gần nhóm –OH hơn.
+- Gọi tên:
+
+Phần nhánh Phần mạch chính
+Vị trí nhánh – tên nhánh Tên mạch chính – vị trí nhóm OH – ol
+
+Công thức Tên thông thường Tên thay thế Alcohol khác
+CH3OH Methyl alcohol Methanol Benzyl alcohol
+CH3CH2OH Ethyl alcohol Ethanol C6H5-CH2OH
+CH3CH2CH2OH Propyl alcohol Propan-1-ol Allyl alcohol
+(CH3)2CHOH Isopropyl alcohol Propan-2-ol CH2=CH-CH2-OH
+CH3CH2CH2CH2OH Butyl alcohol Butan-1-ol Ethylene glycol
+CH3CH2CH(OH)CH3 sec-butyl alcohol Butan-2-ol (ethane-1,2-diol)
+(CH3)2CH-CH2OH Isobutyl alcohol 2-methylpropan-1-ol CH2OH-CH2OH
+(CH3)3C-OH tert-butyl alcohol 2-methylpropan-2-ol Glycerol 
+(CH3)2CH-CH2CH2OH Isoamyl alcohol 3-methylbutan-1-ol (propane-1,2,3-triol)
+
+ThS. Nguyễn Minh Lý Trang 23
+
+
+
+Danh pháp hóa học 
+
+CH2OH-CHOH-CH2OH
+
+- Lưu ý: trong tên thay thế của alcohol, “e” trong vần “ane” bị lược bỏ theo quy tắc nguyên âm –
+nguyên âm, tuy nhiên vần “ane” vẫn được giữ nguyên khi sau nó là một phụ âm (di, tri,…). Những
+trường hợp tương tự cũng xảy ra đối với các loại hợp chất khác có đề cập trong tài liệu.
+
+2.8. Ethers
+2.8.1. Tên thay thế
+
+- Tên của ether R1-O-R2 là tổ hợp tên của nhóm R1O- ở dạng tiền tố và mạch chính R2.
+VD:
+
+CH3-O-CH2CH3 methoxyethane
+CH3CH2-O-CH=CH2 ethoxyethene
+C6H4(OCH3)2 dimethoxybenzene
+
+2.8.2. Tên gốc chức
+- Tên của ether R1-O-R2 là tổ hợp tên của các gốc R1, R2 và “ether”.
+
+Tên gốc R1 + “ ” + tên gốc R2 + “ ” +  ether
+VD:
+
+CH3-O-CH3 dimethyl ether
+CH3-O-C2H5 ethyl methyl ether
+
+- Thứ tự gọi tên gốc R1 và R2 dựa theo thứ tự bảng chữ cái.
+
+2.9. Phenols
+-  Phenol  là  loại  hợp chất  mà phân tử có chứa nhóm hydroxyl  (-OH) liên kết  trực tiếp với  vòng
+benzene.
+
+2.9.1. Tên thông thường
+
+phenol o-cresol m-cresol p-cresol
+
+pyrocatechol resorcinol hydroquinone - naphthol (1-naphthol)
+- Phân tử nền được gọi là phenol.
+- Nếu có nhiều loại nhánh được gắn vào vòng, đánh số tiếp tục theo chiều có C liên kết nhóm ưu tiên
+cao nhất (hoặc phức tạp nhất).
+
+ThS. Nguyễn Minh Lý Trang 24
+
+
+
+Danh pháp hóa học 
+
+- Dùng các từ ortho (o), meta (m) và para (p) để xác định vị trí các nhóm thế.
+
+CTPT CTCT Tên thay thế Tên thường
+
+C6H6O benzenol phenol
+
+o-cresol
+2-methylbenzenol
+
+2-metylphenol
+
+m-cresol
+C7H8O 3-methylbenzenol
+
+3-metylphenol
+
+p-cresol
+4-methylbenzenol
+
+4-metylphenol
+
+2.9.2. Tên hệ thống
+- Tên hệ thống của phenol là benzenol.
+- Trong danh pháp IUPAC, phân tử nền được gọi là benzenol và C liên kết nhóm OH được đánh số
+đầu tiên.
+- Nếu có nhiều loại nhánh được gắn vào vòng, đánh số tiếp tục theo chiều có C liên kết nhóm ưu tiên
+cao nhất (hoặc phức tạp nhất).
+- Dùng các chữ số để xác định vị trí các nhóm thế.
+VD:
+
+4-methylbenzenol 1,2-dihydroxy-4-methylbenzene
+
+ThS. Nguyễn Minh Lý Trang 25
+
+
+
+Danh pháp hóa học 
+
+2.10. Aldehydes
+- Aldehyde là những hợp chất hữu cơ mà phân tử có nhóm -CH=O liên kết trực tiếp với nguyên tử
+carbon hoặc nguyên tử hydrogen.
+- Công thức phân tử chung aldehyde no, đơn chức, mạch hở CnH2nO (n ≥ 1) hay CmH2m+1CHO (m ≥ 0)
+
+2.10.1. Tên thông thường
+- Một số aldehyde đơn giản hay được gọi theo tên thông thường (xuất phát từ tên thông thường của 
+acid), có liên quan đến nguồn gốc tìm ra chúng.
+
+Cách 1: Tên acid tương ứng (bỏ acid) + “ ” +  aldehyde
+Cách 2: Tên acid tương ứng (bỏ acid, bỏ đuôi “ic” hoặc “oic”) + aldehyde
+
+2.10.2. Tên thay thế
+- Cách gọi tên:
+
++ Chọn mạch chính: mạch carbon dài nhất có chứa nhóm –CH=O (nhóm carbaldehyde) và có 
+nhiều nhánh nhất.
++ Đánh số mạch chính: từ nhóm –CH=O. 
++ Gọi tên:
+
+Tên của hydrocarbon tương ứng + al
+
+Công thức cấu tạo Tên thông thường Tên thay thế
+H-CHO Formic aldehyde (formaldehyde) Methanal
+CH3-CHO Acetic aldehyde (acetaldehyde) Ethanal
+CH3-CH2-CHO Propionic aldehyde (propionaldehyde) Propanal
+CH3-[CH2]2-CHO Butyric aldehyde (butyraldehyde) Butanal
+CH3-CH(CH3)-CHO Isobutyric aldehyde (isobutyraldehyde) 2-methylpropanal
+CH3-[CH2]3-CHO Valeric aldehyde (valeraldehyde) Pentanal
+(CH3)2CH-CH2-CHO Isovaleric aldehyde (isovaleraldehyde) 3-methylbutanal
+OHC-[CH2]2-CHO Succinic aldehyde (succinaldehyde) Butanedial
+
+Lưu ý: khi kết thúc tên hydrocarbon là nguyên âm (ane, ene, yne,…) thì chuyển thành (an, en, 
+yn,…) sau đó thêm al
+
+2.11. Ketones
+- Ketone là những hợp chất hữu cơ mà phân tử có nhóm > C = O liên kết trực tiếp với hai nguyên tử 
+carbon.
+- Công thức phân tử chung của ketone no, đơn chức, mạch hở CnH2nO (n ≥ 3).
+
+2.11.1. Tên thông thường
+VD:
+
+CH3-CO-CH3 acetone
+
+2.11.2. Tên gốc chức
+Tên gốc R, R’ liên kết với nhóm >C=O + “ ” + ketone
+
+ThS. Nguyễn Minh Lý Trang 26
+
+
+
+Danh pháp hóa học 
+
+2.11.3. Tên thay thế
+- Cách gọi tên:
+
++ Chọn mạch chính: mạch dài nhất chứa nhóm -CO- (nhóm carbonyl).
++ Đánh số mạch chính từ phía gần nhóm -CO-.
+
+Tên hydrocarbon tương ứng (tính cả C của -CO-) - vị trí nhóm >C=O - one
+
+VD: 
+Công thức cấu tạo Tên thay thế Tên gốc chức
+
+CH3-CO-CH3 propan-2-one dimethyl ketone
+CH3-CO-C2H5 butan-2-one ethyl methyl ketone
+CH3-CO-CH=CH2 but-3-en-2-one methyl vinyl ketone
+CH3-CO-C6H5 acetophenone methyl phenyl ketone
+
+2.12. Carboxylic acids
+- Carboxylic acid là những hợp chất hữu cơ mà phân tử có nhóm carboxyl (-COOH) liên kết trực tiếp
+với nguyên tử carbon hoặc nguyên tử hydrogen.
+- Công thức phân tử chung acid no, đơn chức, mạch hở CnH2nO2 (n ≥ 1) hay CmH2m+1COOH (m ≥ 0)
+
+2.12.1. Tên thông thường
+- Có liên quan đến nguồn gốc tìm ra chúng.
+VD:
+
+HCOOH Formic acid Acid có trong nọc độc của ong và vòi đốt của kiến
+CH3COOH Acetic acid Acid có trong giấm
+
+2.12.2. Tên thay thế
+Tên của hydrocarbon tương ứng + oic + “ ” + acid
+
+* Tên một số acid no và không no, đơn chức, mạch hở
+Công thức Tên thông thường Tên thay thế
+
+H-COOH Formic acid Methanoic acid
+CH3-COOH Acetic acid Ethanoic acid
+CH3CH2COOH Propionic acid Propanoic acid
+CH3CH2CH2COOH Butyric acid Butanoic acid
+(CH3)2CH-COOH Isobutyric acid 2-methylpropanoic acid
+CH3-[CH2]3-COOH Valeric acid Pentanoic acid
+(CH3)2CH-CH2COOH isovaleric acid 3-methylbutanoic acid
+CH2=CH-COOH Acrylic acid Propenoic acid
+CH2=C(CH3)-COOH Methacrylic acid 2-methylpropenoic acid
+
+* Tên thông thường một số acid chứa vòng benzene
+Công thức cấu tạo Tên thường
+
+C6H5-COOH Benzoic acid
+Ortho-C6H4(COOH)2 Phthalic acid
+Meta-C6H4(COOH)2 Isophthalic acid
+
+ThS. Nguyễn Minh Lý Trang 27
+
+
+
+Danh pháp hóa học 
+
+Para-C6H4(COOH)2 Terephthalic acid
+Ortho-C6H4(OH)(COOH) Salicylic acid
+
+* Tên thông thường một số acid đa chức
+Công thức cấu tạo Tên thường
+
+HOOC-COOH Oxalic acid
+HOOC-CH2-COOH Malonic acid
+HOOC-CH2-CH2-COOH Succinic acid
+HOOC-[CH2]3-COOH Glutaric acid
+HOOC-[CH2]4-COOH Adipic acid
+
+* Tên thông thường một số acid béo
+Công thức cấu tạo Tên thường
+
+C15H31COOH Palmitic acid
+C17H35COOH Stearic acid
+C17H33COOH Oleic acid
+C17H31COOH Linoleic acid
+C17H29COOH Linolenic acid
+
+2.13. Esters
+- Khi thay nhóm OH ở nhóm carboxyl của carboxylic acid bằng nhóm OR thì được ester.
+- Công thức chung của ester đơn chức: .
+
+- CTTQ dạng 
+(trong đó n là số carbon trong phân tử ester n ≥ 2, nguyên; k là tổng số liên kết p và số vòng trong 
+phân tử  k ≥ 1, nguyên; a là số nhóm chức ester a ≥ 1, nguyên)
+
++ Ester đơn chức: ; CxHyO2 (y ≤ 2x) hoặc RCOOR’
++ Ester no, đơn chức, mạch hở: CnH2nO2 (n ≥ 2) hoặc CnH2n+1COOCmH2m+1 (n ≥ 0, m ≥ 1)
+
+- Cách gọi tên:
+Tên gốc R’+ “ ” + tên gốc acid RCOO đuôi ate
+
+VD:
+HCOO-C2H5 ethyl formate
+CH3COO-CH=CH2 vinyl acetate
+C6H5COO-CH3 methyl benzoate 
+CH3COO-CH2-C6H5 benzyl acetate
+HCOOCH2CH2CH2CH3 butyl formate
+HCOOCH2CH(CH3)2 isobutyl formate
+HCOOCH(CH3)CH2CH3 sec-butyl formate
+HCOOC(CH3)3 tert-butyl formate
+CH3COOCH2CH2CH3propyl acetate
+CH3COOCH(CH3)2 isopropyl acetate
+CH3CH2COOC2H5 ethyl propionate
+
+ThS. Nguyễn Minh Lý Trang 28
+
+
+
+Danh pháp hóa học 
+
+CH3CH2CH2COOCH3methyl butyrate
+(CH3)2CHCOOCH3 methyl isobutyrate
+
+- Chất béo là triester của glycerol với acid béo (acid béo là acid đơn chức có mạch carbon dài, không 
+phân nhánh), gọi chung là triglyceride hay triacylglycerol.
+
+CH2 - O - CO - R1
+
+CH  -  O - CO - R2
+
++ Công thức cấu tạo:   CH2 - O - CO - R3
+  
+
++ Công thức trung bình: (RCOO)3C3H5
+
+- Một số chất béo thường gặp:
+(C15H31COO)3C3H5 tripalmitin tripalmitoylglycerol no 806 g/mol
+(C17H35COO)3C3H5 tristearin tristearoylglycerol no 890 g/mol
+(C17H33COO)3C3H5 triolein trioleoylglycerol không no 884 g/mol
+
+2.14. Carbohydrates
+- Carbohydrate (glucide, saccharide) là những hợp chất hữu cơ tạp chức, thường có công thức 
+chung là Cn(H2O)m.
+- Có ba loại carbohydrate: 
+
++ Monosaccharide: Glucose và Fructose (Không bị thủy phân)
++ Disaccharide: Sucrose (Thủy phân tạo 2 phân tử monosaccharide)
++ Polysaccharide: Tinh bột và Cellulose (Thủy phân tạo nhiều phân tử monosaccharide)
+
+Tên gọi Công thức phân tử Cấu tạo
+Glucose C6H12O6 CH2OH-[CHOH]4-CHO
+Fructose C6H12O6 CH2OH-[CHOH]3-CO-CH2OH
+Sucrose
+
+C O se liên kết với 1 gốc β-fructose
+(Saccharose) 12H22 11 1 gốc α-gluco
+
+Maltose C12H22O11 2 gốc α-glucose liên kết với nhau
+Starch
+
+(C H ốc α-glucose liên kết với nhau.
+(Tinh bột) 6 10O5)n các g
+
+(C )
+Cellulose 6H10O5 n các gốc β-glucose liên kết với nhau
+
+[C6H7O2(OH)3]n
+
+2.15. Amines
+- Khi thay thế nguyên tử hydrogen trong phân tử NH3 bằng gốc hydrocarbon thu được amine.
+- Công thức phân tử chung của amine no, đơn chức, mạch hở: CnH2n+3N (n ≥ 1).
+
+2.15.1. Tên thông thường
+VD:
+
+C6H5NH2 Aniline
+
+2.15.2. Tên gốc chức
+
+ThS. Nguyễn Minh Lý Trang 29
+
+
+
+Danh pháp hóa học 
+
+Tên gốc hydrocarbon + amine
+
+2.15.3. Tên thay thế
+Tên của hydrocarbon tương ứng – vị trí nhóm chức – amine
+
+- Trong tên thay thế của amine:
++ Vị trí nhóm chức: ghi tất cả vị trí nhóm -NH2, phân cách bằng dấu phẩy.
++ Nếu có nhiều nhóm -NH2 thì thêm từ chỉ số lượng trước "amine".
+
+Hợp chất Tên gốc - chức Tên thay thế
+CH3NH2 Methylamine Methanamine
+C2H5NH2 Ethylamine Ethanamine
+CH3CH2CH2NH2 Propylamine Propan-1-amine
+CH3CH(NH2)CH3 Isopropylamine Propan-2-amine
+H2N[CH2]6NH2 Hexamethylenediamine Hexane-1,6-diamine
+C6H5NH2 Phenylamine Benzenamine
+C6H5NHCH3 Methylphenylamine N-methylbenzenamine
+C2H5NHCH3 Ethylmethylamine N-methylethanamine
+
+2.16. Amino acids
+- Amino acid là loại hợp chất hữu cơ tạp chức, phân tử chứa đồng thời nhóm amino (-NH2) và nhóm 
+carboxyl (-COOH).
+
+Công thức Tên thường M Quỳ tím Tên bán hệ thống Tên thay thế
+(Kí hiệu)
+
+C2H5O2N Glycine 75 Không đổi
+aminoacetic acid aminoethanoic acid
+
+H2N-CH2-COOH (Gly) màu
+C3H7O2N
+CH Alanine ng đổi
+
+3 CH COOH α-aminopropionic acid 2-aminopropanoic acid
+(Ala) 89 Khô
+
+màu
+NH2
+
+C5H11O2N
+CH Valine 2-amino-3-
+
+3 CH CH COOH cid
+CH (Val) 117 Không đổi
+
+α-aminoisovaleric a
+màu methylbutanoic acid
+
+3 NH2
+C5H9O4N Glutamic
+HO C [CH2]2 CH COOH acid 147 Hóa đỏ α-aminoglutaric acid 2-aminopentandioic acid
+
+O NH2 (Glu)
+C6H14O2N2
+
+H Lysine
+2N [CH2]4CH COOH
+
+NH (Lys) 146 α,ε-diaminocaproic 2,6-diaminohexanoic
+Hóa xanh
+
+acid acid
+2
+
+C6H13O2N ε-aminocaproic acid; 6-aminohexanoic acid (trùng ngưng tạo nylon 6)
+H2N-[CH2]5-COOH
+C7H15O2N ω-aminoenantoic acid; 7-aminohexanoic acid (trùng ngưng tạo nylon 7)
+H2N-[CH2]6-COOH
+
+ThS. Nguyễn Minh Lý Trang 30
+
+
+
+Danh pháp hóa học 
+
+Một số α-amino acid khác:
+(CH3)2CHCH2CH(NH2)COOH α-aminoisocaproic acid (Leucine, kí hiệu Leu-L)
+CH3CH2CH(CH3)CH(NH2)COOH α-amino-β-methylvaleric acid (Isoleucine, kí hiệu Ile-I)
+HOCH2CH(NH2)COOH α-amino-β-hydroxypropionic acid (Serine, kí hiệu Ser-S)
+CH3CH(OH)CH(NH2)COOH α-amino-β-hydroxybutyric acid (Threonine, kí hiệu Thr-T)
+HS-CH2CH(NH2)COOH α-amino-β-mercaptopropionic acid (Cysteine, kí hiệu Cys-C)
+CH3-S-[CH2]2CH(NH2)COOH α-amino-γ-methylthiobutyric acid (Methionine, kí hiệu Met-M)
+HOOC-CH2CH(NH2)COOH α-aminosuccinic acid (Aspartic acid, kí hiệu Asp-D)
+C6H5CH2CH(NH2)COOH Phenylalanine kí hiệu Phe-F
+
+2.17. Peptides
+- Peptide là loại hợp chất chứa từ 2 đến 50 gốc α-amino acid liên kết với nhau bởi các liên kết peptide.
+- Tên của peptide được gọi bằng cách ghép tên các gốc acyl bắt đầu từ amino acid đầu còn tên amino
+acid đuôi được giữ nguyên vẹn
+VD: 
+
+H2N-CH(CH3)-CO-HN-CH2-CO-NH-CH(CH3)-COOH tripeptide alanylglycylalanine
+
+2.18. Polymers
+- Polymer là những hợp chất có phân tử khối rất lớn do nhiều đơn vị cơ sở (gọi là mắc xích) liên kết
+với nhau tạo nên.
+- Ghép từ poly trước tên monomer.
+VD:
+
+(CH2-CH2)n polyethylene
+
+polypropylene
+- Nếu tên monome gồm 2 từ trở lên hoặc từ 2 monome tạo nên polymer thì tên monomer phải để ở
+trong ngoặc đơn.
+VD: 
+(CH2-CHCl)n poly(vinyl chloride)
+(CO-C6H4-CO-O- CH2-CH2-O) n poly(ethylene terephthalate)
+
+Poly(butadiene-styrene)
+- Một số polymer có tên riêng (tên thông thường). 
+VD:
+
+ (CF2-CF2)n Teflon
+ (NH-[CH2]5-CO)n Nylon 6
+ (C6H10O5)n Cellulose
+
+ThS. Nguyễn Minh Lý Trang 31
+
+
+
+Danh pháp hóa học 
+
+PHỤ LỤC
+PHỤ LỤC 1: Một số thuật ngữ thông dụng.
+
+MỘT SỐ THUẬT NGỮ Ý nghĩa
+Organic Hữu cơ
+Compound Hợp chất
+Cyclic organic compound Hợp chất vòng
+Acyclic organic compound Hợp chất không vòng
+Physical properties Tính chất vật lý
+Chemical properties Tính chất hóa học
+Chemical reaction Phản ứng hoá học
+Elemental analysis Phân tích nguyên tố
+Qualitative analysis Phân tích định tính
+Quanlitative analysis Phân tích định lượng
+Molecular formula Công thức phân tử
+Empirical formula Công thức đơn giản nhất
+Structural formula Công thức cấu tạo
+Expanded structural formula Công thức cấu tạo khai triển
+Condensed structural formula Công thức cấu tạo thu gọn
+Homologs Đồng đẳng
+Homologous series Dãy đồng đẳng
+Isomers Đồng phân
+Geometric isomers Đồng phân hình học
+Chemical bonding Liên kết hóa học
+Single bond Liên kết đơn
+Double bond Liên kết đôi
+Triple bond Liên kết ba
+Multiple bond Liên kết bội
+Sigma bond Liên kết sigma
+Pi bond Liên kết pi
+Covalent bond Liên kết cộng hóa trị
+Carbon chain Mạch carbon
+Functional group Nhóm chức
+Substitution reaction Phản ứng thế
+Addition reaction Phản ứng cộng
+Elimination reaction Phản ứng tách
+Oxidation reaction Phản ứng oxi hóa
+Complete oxidation reaction Phản ứng oxi hóa hoàn toàn
+Incomplete oxidation reaction Phản ứng oxi hóa không hoàn toàn
+Ring opening reaction Phản ứng cộng mở vòng
+Addition polymerization Phản ứng trùng hợp
+Nonmenclature Danh pháp
+Synthesis Điều chế
+
+ThS. Nguyễn Minh Lý Trang 32
+
+
+
+Danh pháp hóa học 
+
+Experiment Thí nghiệm
+Experimental procedures Cách tiến hành thí nghiệm
+Common name Tên thông thường
+Substitutive name Tên thay thế
+Application Ứng dụng
+Definition Định nghĩa
+Concept Khái niệm
+Classification Phân loại
+Solvent Dung môi
+Dehydrate reaction Phản ứng tách nước
+Synthetic method Phương pháp tổng hợp
+Biochemical method Phương pháp sinh hóa
+Degree of carbon Bậc carbon
+Acidic properties Tính axit
+Silver mirror reaction Phản ứng tráng bạc
+Litmus paper Giấy quỳ tím
+
+ThS. Nguyễn Minh Lý Trang 33
+
+
+
+Danh pháp hóa học 
+
+PHỤ LỤC 2: Phát âm các thành phần trong tên gọi hợp chất hữu cơ.
+
+THÀNH PHẦN TÊN GỌI PHIÊN ÂM AUDIO
+SỐ LƯỢNG
+
+mono /ˈmɒnəʊ/ mono
+di /dɑɪ/ di
+tri /trɑɪ/ tri
+tetra /ˈtetrə/ tetra
+penta /pentə/ penta
+hexa /heksə/ hexa
+hepta /ˈheptə/ hepta
+octa /ˈɒktə/ octa
+nona /nɒnə/ nona
+deca /dekə/ deca
+
+TÊN MẠCH CARBON
+meth
+
+meth /miːθ/ methane
+/meθ/ methyl
+/iːθ/ eth
+
+eth
+/eθ/ ethane
+
+ethyl
+prop /prəʊp/ prop
+but /bjuːt/ butane
+pent /pent/ pent
+hex /heks/ hex
+hept /hept/ hept
+oct /ɒkt/ oct
+non /nɒn/ non
+dec /dek/ dec
+
+TÊN GỐC HYDROCARBON
+/ˈæl.kɪl/ alkyl
+
+alkyl
+/ˈæl.kəl/ alkyl
+
+/ɪl/ alkyl
+-yl
+
+/əl/ alkyl
+/ˈmeθ.ɪl/
+
+methyl methyl
+/ˈmeθəl/
+/ˈeθɪl/
+
+ethyl ethyl
+/ˈeθəl/
+
+propyl /ˈprəʊpɪl/ propyl
+butyl /bju:dəl/ butyl
+iso /ˈɑɪsəʊ/ isopropyl
+
+isobutyl
+
+ThS. Nguyễn Minh Lý Trang 34
+
+
+
+Danh pháp hóa học 
+
+isopentyl
+sec- /sek/  sec  -butyl 
+tert- /tərt/  tert  -butyl 
+amyl /ˌæmɪl/ amyl
+pentyl /ˈpen(t)əl/ pentyl
+neo  /ˈniː.ə/ neopentyl
+vinyl /ˈvɑɪnl/ vinyl
+allyl /ˈɑləl/ allyl
+phenyl /ˈfenəl/ phenyl
+benzyl /ˈbenzɪ:l/ benzyl
+
+NHÓM ĐẶC TRƯNG Ở DẠNG TIỀN TỐ (PREFIX)
+fluoro
+
+F (Fluoro-) /ˈfluro/
+fluoroform
+
+chloro
+Cl (Chloro-) /ˈklɒrə/
+
+chloroform
+bromo
+
+Br (Bromo-) /ˈbromo/
+bromoform
+
+iodo
+I (Iodo-) /ˈɑɪədo/
+
+iodoform
+NO- (Nitroso-) /ˈnɑɪtroso/ nitroso
+NO2- (Nitro-) /ˈnɑɪtro/ nitro
+OCH3 (methoxy-) /məθɑ:ksi:/ methoxy
+OC2H5 (ethoxy-) /eθɑ:ksi:/ ethoxy
+
+NHÓM ĐẶC TRƯNG Ở DẠNG TIỀN TỐ (PREFIX) VÀ HẬU TỐ (SUFFIX)
+-OH
++ ol /ɒl/ methanol
++ hydroxy /hɑɪˌdrɒk.si/ hydroxy
+-(C)=O
+    |
++ one /əʊn/ acetone
++ oxo /ˈɒksəʊ/ oxo
+-(C)H=O 
++ al /ɔ:l/ methanal
++ oxo /ˈɒksəʊ/ oxo
+-CH=O 
++ carbaldehyde /ˈkɑːbældɪhaɪd/ carbaldehyde
++ formyl /fɔrməl/ formyl
+-(C)OOH (oic acid) /əʊɪk ˈæsɪd/ ethanoic acid
+-COOH
++ carboxylic acid /kɑːˈbɒk.sɪlik ˈæsɪd/ carboxylic acid
++ carboxy /kɑːˈbɒk.sɪ/ carboxy
+-(C)OOR
+
+ThS. Nguyễn Minh Lý Trang 35
+
+
+
+Danh pháp hóa học 
+
++ R … -oate /ɔ:eɪt/
+ethyl ethanoate
+
++ (R-oxy)-oxo- /ˈɒksɪ ˈɒksəʊ/
+-COOR carboxylate
++ R … -carboxylate /kɑːˈbɒk.sɪleɪt/ ethyl acetate
++ (R)oxycarbonyl- /ˈɒksɪ kɑːˈbɒk.nɪl/
+
+HYDROCARBONS
+Saturated hydrocarbons
+
+(Hydrocarbon no)
+hydrocarbon /ˌhɑɪdrəˈkɑːbən/ hydrocarbon
+alkane /ˈælˌkeɪn/ alkane
+cycloalkane /sɑɪkləʊˈælˌkeɪn/ cycloalkane
+-ane /eɪn/ ane
+paraffin /ˈpærəfɪn/ paraffin
+methane /ˈmiːθeɪn/ methane
+ethane /ˈiːθeɪn/ ethane
+propane /ˈprəʊpeɪn/ propane
+butane /ˈbjuːteɪn/ butane
+
+isobutane
+isobutane /ˈɑɪsəʊ ˈbjuːteɪn/
+
+ m  ethyl propane 
+pentane /’penteɪn/ pentane
+2-methylbutane /ˈmeθəl ˈbjuːteɪn/ 2-methylbutane
+2,2-dimethylpropane /daɪˈmeθəl ˈprəʊpeɪn/ 2,2-dimethylpropane
+
+Unsaturated hydrocarbons
+(Hydrocarbon không no)
+
+alkene /ˈælkiːn/ alkene
+-ene /iːn/ ene
+ethylene /ˈeθɪliːn/ ethylene
+propylene /ˌprəʊ.pəliːn/ propylene
+butylene /ˈbju:dəli:n/ butylene
+isobutylene /ɑɪsəʊˈbju:dəli:n/ isobutylene
+ethene /ˈeθiːn/ ethene
+propene /ˌprəʊ.piːn/ propene
+cis /sɪs/ cis
+trans /trænz/ trans
+alkadiene /ˈæl.kədɑıi:n/ alkadiene
+-diene /dɑıi:n/ butadiene
+allene /,ɑli:n/ allene
+propadiene /ˈprəʊpəˈdaıi:n/ propadiene
+butadiene /bju:dəˈdaıi:n/ butadiene
+isoprene /ˈɑɪsəpriːn/ isoprene
+alkyne /ˈæl.kɑɪn/ alkyne
+-yne /ɑɪn/ alkyne
+
+ThS. Nguyễn Minh Lý Trang 36
+
+
+
+Danh pháp hóa học 
+
+acetylene /əˈsetəliːn/ acetylene
+ethylmethylacetylene /ˈeθɪl ˈmeθ.ɪl əˈsetəliːn /
+vinylacetylene /ˈvɑɪnl əˈsetəliːn/ vinylacetylene
+ethyne /ˈiːθɑɪn/ ethyne
+propyne /ˈprəʊpɑɪn/ propyne
+
+Aromatic hydrocarbons
+benzene /ˈbenziːn/ benzene
+toluene /ˈtɑːlju:ˌi:n/ toluene
+styrene /stɑɪriːn/ styrene
+vinylbenzene /ˈvɑɪnl ˈbenziːn/ vinylbenzene
+xylene /ˈzɑɪli:n/ xylene
+cumene /kju:·mi:n/ cumene
+naphthalene /ˈnæfθəliːn/ naphthalene
+methylbenzene /ˌmeθəlˈbenzi:n/ methylbenzene
+ethylbenzene /ˌeθəlˈbenzi:n/ ethylbenzene
+ortho /ɔːθəʊ/ ortho
+meta /metə/ meta
+
+/ˈpærə/ para
+para
+
+/ˌpærəˈsiːtəmɒl/ paracetamol
+DẪN XUẤT CỦA HYDROCARBON
+
+(DERIVATIVES OF HYDROCARBONS)
+Dẫn xuất halogen
+
+(Halogen derivatives of hydrocarbons)
+halogen /ˈhælədʒən/ halogen
+derivative /dɪˈrɪvətɪv/ derivative
+fluoroform /ˈflurofɔːm/ fluoroform
+chloroform /ˈklɒrəfɔːm/ chloroform
+bromoform /ˈbrɒməfɔːm/ bromoform
+iodoform /ˈɑɪɔːdəfɔːm/ iodoform
+fluoride /ˈflɔːrɑɪd/ fluoride
+chloride /ˈklɔːrɑɪd/ chloride
+bromide /ˈbrəʊmɑɪd/ bromide
+iodide /ˈɑɪədɑɪd/ iodide
+methylene /ˈmeθəliːn/ methylene
+
+Alcohols
+alcohol /ˈælkəhɒl/ alcohol
+ethylene glycol /ˈeθɪliːn ˈɡlɑɪ.kɒl/ ethylene glycol
+propylene glycol /ˌprəʊ.pɪ.liːn ˈɡlɑɪ.kɒl/ propylene glycol
+glycerol /ˈɡlɪsərɒl/ glycerol
+methanol /ˈmeθənɒl/ methanol
+
+ThS. Nguyễn Minh Lý Trang 37
+
+
+
+Danh pháp hóa học 
+
+ethanol /ˈeθənɒl/ ethanol
+Ethers
+
+ether /ˈiːθə(r)/ ether
+Phenols
+
+phenol /ˈfiːnɒl/ phenol
+cresol /ˈkri:sɒl/ cresol
+resorcinol /rəˈzɒrsəˌnɒl/ resorcinol
+hydroquinone /ˌhɑɪdrəˈkwiˌnɒn/ hydroquinone
+naphthol /ˈnɑpˌθɒl/ naphthol
+
+Aldehydes
+aldehyde /ˈæl.dəˌhɑɪd/ aldehyde
+formaldehyde /fɔːˈmældɪhɑɪd/  f ormaldehyde 
+acetaldehyde /əˌsiːtældɪhɑɪd/  ac  etaldehyde 
+propionaldehyde /ˌprɔ:pi:ˌɒnældɪhɑɪd/  p  ropionaldehyde 
+butyraldehyde /bju:ˌtirældɪhɑɪd/  b  ut  y  raldehyde 
+isobutyraldehyde /ˈaɪsəʊbyu:ˌtirældɪhɑɪd/  iso  but  y  raldehyde 
+valeraldehyde /vəˌlerældɪhɑɪd/  v  aleraldehyde 
+isovaleraldehyde /ˈaɪsəʊvəˌlerældɪhɑɪd/ isovaleraldehyde
+methanal /ˈmeθəˌnɔːl/ methanal
+ethanal /ˈeθəˌnɔːl/ ethanal
+propanal /ˈprəʊpəˌnɔːl/  p  ropanal 
+
+Ketones
+ketone /ˈkiː.təʊn/ ketone
+carbonyl /ˈkɑ:rbəˌnil/ carbonyl
+acetone /ˈæsɪtəʊn/ acetone
+
+Carboxylic acids
+carboxylic acid /ˌkɑ:rbɑ:kˌsɪlɪk ˈæsɪd/ carboxylic acid
+carboxyl /kɑːˈbɒk.sɪl/ carboxyl
+methanoic acid /meθəˌnəʊɪk ˈæsɪd/ methanoic acid
+ethanoic acid /eθəˌnəʊɪk ˈæsɪd/ ethanoic acid
+propanoic acid /prəʊpəˌnəʊɪk ˈæsɪd/ propanoic acid
+butanoic acid /ˈbjuː.təˌnəʊɪk ˈæsɪd/ butanoic acid
+formic acid /ˌfɔːmɪk ˈæsɪd/  f ormic  acid 
+acetic acid /əˌsiːtɪk ˈæsɪd/  ac  etic  acid 
+propionic acid /ˌprɔ:pi:ˌɒnik ˈæsɪd/  p  ropionic  acid 
+butyric acid /bju:ˌtirik ˈæsɪd/  b  ut  y  ric  acid 
+isobutyric acid /ˈɑɪsəʊbyooˌtirik ˈæsɪd/  iso  but  y  ric  acid 
+valeric acid /vəˌlerik ˈæsɪd/  v  aleric  acid 
+isovaleric acid /ˈɑɪsəʊvəˌlerik ˈæsɪd/ isovaleric acid
+acrylic acid /əkrilik ˈæsɪd/ acrylic acid
+methacrylic acid /ˌmeθəˌkrilik ˈæsɪd/ methacrylic acid
+
+ThS. Nguyễn Minh Lý Trang 38
+
+
+
+Danh pháp hóa học 
+
+benzoic acid /benˌzəʊ.ɪk ˈæs.ɪd/ benzoic acid
+phthalic acid /ˌθɑlik ˈæsɪd/ phthalic acid
+isophthalic acid /ˈɑɪsəʊfˌθalik ˈæsɪd/ isophthalic acid
+terephthalic acid /ˌterəfˌθalik ˈæsɪd/ terephthalic acid
+salicylic acid /ˌsælɪsɪlɪk ˈæsɪd/ salicylic acid
+oxalic acid /ɒkˌsɑlik ˈæsɪd/ oxalic acid
+malonic acid /məˈləʊnik ˈæsɪd/ malonic acid
+succinic acid /səkˌsinik ˈæsɪd/ succinic acid
+glutaric acid /gluˈdərik ˈæsɪd/ glutaric acid
+adipic acid /əˌdipik ˈæsɪd/ adipic acid
+palmitic acid /pɑ:(l)ˌmidik ˈæsɪd/ palmitic acid
+stearic acid /stiˌærɪk ˈæsɪd/ stearic acid
+oleic acid /əʊˌli:ik ˈæsɪd/ oleic acid
+linoleic acid /ˌlinəˈli:ik ˈæsɪd/ linoelic acid
+linolenic acid /ˌlinəˈli:nik ˈæsɪd/ linolenic acid
+
+Esters, lipids
+ester /ˈestə(r)/ ester
+formate /ˈfɔːmeɪt/  f orm  ate 
+acetate /ˈæsɪteɪt/  ac  et  ate 
+propionate /ˌprɔ:pi:ˌɒneɪt/  p  ropion  ate 
+butyrate /bju:ˌtireɪt/  b  ut  y  r ate 
+isobutyrate /ˈɑɪsəʊbju:ˌtireɪt/  iso  but  y  r ate 
+valerate /vəˌlereɪt/  v  aler  ate 
+isovalerate /ˈɑɪsəʊvəˌlereɪt/
+acrylate /ˈɑkrəleɪt/ acrylate
+methacrylate /məˈθˈkrileɪt/ methacrylate
+benzoate /benˌzəʊ.eɪt/ benzoate
+phthalate /ˈθɑleɪt/ phthalate
+isophthalate /ˈɑɪsəʊfˌθɑleɪt/ isophthalate
+terephthalate /ˌterəfˌθɑleɪt/ terephthalate
+salicylate /ˌsæˈlɪsəleɪt/ salicylate
+oxalate /ˈɒkˌsəleɪt/ oxalate
+malonate /ˈmɑləneɪt/ malonate
+succinate /ˈsəkˌsəneɪt/ succinate
+glutarate /gluˈdəreɪt/ glutarate
+adipate /ˈɑˌdəpeɪt/ adipate
+palmitate /ˈpɑ:(l)ˌməteɪt/ palmitate
+stearate /ˈstiˌəreɪt/ stearate
+oleate /ˈəʊˌli:eɪt/ oleate
+linoleate /ˈlinəˈli:eɪt/ linoleate
+linolenate /ˈlinəˈli:neɪt/ linolenate
+
+ThS. Nguyễn Minh Lý Trang 39
+
+
+
+Danh pháp hóa học 
+
+triglyceride /trɑɪˈɡlisəˌrɑɪd/ triglyceride
+tripalmitin /trɑıpɑ:mətən/ tripalmitin
+tristearin /trɑıstirən/ tristearin
+triolein /trɑıəʊˌli:ən/ triolein
+
+Carbohydrate
+carbohydrate /ˌkɑː.bəʊˈhaɪ.dreɪt/ carbohydrate
+saccharide /ˈsækəˌraɪd/ saccharide
+glucide /ɡlu'tʃide/ glucide
+glucose /ˈɡluːkəʊs/ glucose
+fructose /ˈfrʌktəʊs/ fructose
+sucrose /ˈsuːkrəʊz/ sucrose
+maltose /ˈmɔːltəʊz/ maltose
+starch /stɑːtʃ/ starch
+cellulose /ˈseljuləʊs/ cellulose
+alpha /ˈælfə/ alpha
+beta /ˈbiːtə/ beta
+
+Amines
+amine /ˈeɪ.miːn/ amine
+aniline /ˈɑnələn/ aniline
+methylamine /ˈmeθəlˈeɪ.miːn / methylamine
+ethylamine /ˈeθəlˈeɪ.miːn/ ethylamine
+methanamine /ˈmiːθeɪnˈeɪ.miːn/ methanamine
+ethanamine /ˈiːθeɪnˈeɪ.miːn/ ethanamine
+
+Amino acids, peptides, proteins
+amino acid /əˌmiːnəʊ ˈæsɪd/ amino acid
+glycine /ˈɡlɑɪsi:n/ glycine
+alanine /ˈɑləˌni:n/ alanine
+valine /ˈvɑˌli:n/ valine
+glutamic acid /ɡlu:ˌtɑmik ˈæsɪd/ glutamic acid
+lysine /ˈlɑɪsi:n/ lysine
+caproic acid /kəˌprəʊ-ik ˈæsɪd/  caproic  acid 
+peptide /ˈpeptɑɪd/ peptide
+amide /ˈæm. ɑɪd/ amide
+dipeptide /dɑɪˈpepˌtɑɪd/ dipeptide
+glycyl /ˈɡlɑɪsəl/ glycyl
+alanyl /ˈɑləˌnəl/ alanyl
+valyl /ˈvɑˌləl/ valyl
+
+Polymers
+polymer /ˈpɒlɪmə(r)/ polymer
+monomer /ˈmɒn.ə.mər/ monomer
+polyethylene /ˌpɒliˈeθəliːn/ polyethylene
+
+ThS. Nguyễn Minh Lý Trang 40
+
+
+
+Danh pháp hóa học 
+
+polypropylene /ˌpɒliˈprəʊpəliːn/ polypropylene
+teflon /ˈteflɒn/ teflon
+nylon /ˈnɑɪlɒn/ nylon
+plexiglas /ˈpleksiɡlɑːs/ plexiglas
+poly(vinyl chloride) /ˌpɒlivɑɪnl ˈklɔːraɪd/ poly(vinyl chloride)
+polystyrene /ˌpɒliˈstɑɪriːn/ polystyrene
+
+Poly(methyl
+Poly(methyl methacrylate)
+
+methacrylate)
+Poly(ethylene
+
+Poly(ethylene terephthalate)
+terephthalate)
+
+Poly(vinyl acetate) Poly(vinyl acetate)
+Poly(ethylene glycol) Poly(ethylene glycol)
+Poly(butadiene-styrene) Poly(butadiene-styrene)
+
+Poly(butadiene-
+Poly(butadiene-acrylonitrile)
+
+acrylonitrile)
+Polybutadiene Polybutadiene
+Viscose Viscose
+Cellulose acetate Cellulose acetate
+Polyisoprene Polyisoprene
+Polychloroprene Polychloroprene
+Poly(vinyl alcohol) Poly(vinyl alcohol)
+Orlon Orlon
+Poly(ethylene oxide) Poly(ethylene oxide)
+
+ThS. Nguyễn Minh Lý Trang 41
+
+
+
+Danh pháp hóa học 
+
+PHỤ LỤC 3: Một số polymer thường gặp.
+STT Monomer Công thức cấu tạo polymer Tên gọi, viết tắt Phương pháp Vật liệu
+
+tổng hợp polymer
+1 Tạo  thành  từ  các  mắc  xích  α-
+
+glucose Tinh bột (Starch) Polymer thiên nhiên -
+
+2 Tạo  thành  từ  các  mắc  xích  β-
+glucose Cellulose Polymer thiên nhiên TƠ
+
+3 - Nguồn gốc Cellulose Tơ viscose Polymer  bán  tổng
+hợp TƠ
+
+4 - Nguồn gốc Cellulose Tơ acetate Polymer  bán  tổng
+(Cellulose acetate) hợp TƠ
+
+5 CH2=CH2 Polyethylene
+Ethylene PE Trùng hợp CHẤT DẺO
+
+6 CF2=CF2
+Tetrafluoroethene Teflon Trùng hợp CHẤT DẺO
+
+7 CH3-CH=CH2 Polypropylene
+Propylene PP Trùng hợp CHẤT DẺO
+
+8 CH2=CH-CH=CH2 Polybutadiene
+Buta-1,3-diene Cao su Buna Trùng hợp CAO SU
+
+9 CH2=C(CH3)-CH=CH2 Polyisoprene
+Isoprene Cao su thiên nhiên Trùng hợp CAO SU
+
+10 CH2=CCl-CH=CH2 Polychloroprene
+Chloroprene Cao su chloroprene Trùng hợp CAO SU
+
+11 Polystyrene
+PS Trùng hợp CHẤT DẺO
+
+Styrene
+
+12 CH2=CH–Cl Poly(vinyl chloride)
+Vinyl chloride PVC Trùng hợp CHẤT DẺO
+
+13 CH3COOCH=CH2 Poly(vinyl acetate)
+Vinyl acetate PVAc Trùng hợp CHẤT DẺO
+
+ThS. Nguyễn Minh Lý Trang 42
+
+
+
+Danh pháp hóa học 
+
+Thuỷ phân poly(vinyl acetate) 
+(PVAc) trong môi trường kiềm:
+
+14 Poly(vinyl alcohol)
+PVA CHẤT DẺO
+
+15 CH2=CH–CN Tơ nitron
+Acrylonitrile Orlon Trùng hợp TƠ
+
+Poly(methyl methacrylate)
+16 PMM
+
+Thuỷ tinh hữu cơ Trùng hợp CHẤT DẺO
+Methyl methacrylate Plexiglas
+
+Buta-1,3-diene
+17 Poly(butadiene-styrene)
+
+Cao su Buna-S Đồng trùng hợp CAO SU
+                              
+
+Styrene
+Poly(butadiene-
+
+18 Buta-1,3-diene acrylonitrile) Đồng trùng hợp CAO SU
+CH2=CH-CN Cao su Buna-N
+Acrylonitrile
+
+Poly(ethylene oxide) Trùng hợp
+19 CHẤT DẺO
+
+Ethylene oxide
+HO-CH2-CH2-OH
+Ethylene glycol Poly(ethylene glycol) Trùng ngưng
+
+20 Tơ Capron Trùng hợp TƠ
+Polycaproamide
+
+Caprolactam
+
+ThS. Nguyễn Minh Lý Trang 43
+
+
+
+Danh pháp hóa học 
+
+H2N–[CH2]5–COOH Nylon 6
+-aminocaproic acid Poly(6‐aminohexanoic
+
+acid) Trùng ngưng
+6-aminohexanoic acid PA6
+
+21 H2N-[CH2]6-COOH
+7-aminoheptanoic acid Nylon 7 Trùng ngưng TƠ
+H2N-[CH2]6-NH2
+
+22 Hexamethylenediamine Poly(hexamethylene
+HOOC-[CH COOH adipamide) Trùng ngưng TƠ
+
+2]4-
+Adipic acid Nylon 6,6
+p-HOOC-C6H4-COOH
+
+23 Terephthalic acid Poly(ethylene
+HO-CH -CH -OH terephthalate) Trùng ngưng TƠ
+
+2 2
+Ethylene glycol PET
+
+Nhựa Novolak: Nếu dư phenol và xúc tác acid.
+
+C6H5OH
+Phenol
+
+24 Nhựa Resole: Nếu dư formaldehyde và xúc tác base. Poly(phenol
+HCHO formaldehyde) Trùng ngưng CHẤT DẺO
+Formaldehyde PPF
+
+ThS. Nguyễn Minh Lý Trang 44

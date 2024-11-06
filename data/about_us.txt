@@ -1,0 +1,59 @@
+Giới thiệu về Chemgenie
+
+Tên website: Website luyện thi hóa học Chemgenie
+Địa chỉ: 1A Nguyễn Hiến Lê, phường 13, Quận Tân Bình, Thành Phố Hồ Chí Minh.
+Lĩnh vực hoạt động: Chemgenie là nền tảng trực tuyến hàng đầu chuyên cung cấp các giải pháp luyện thi và học tập môn Hoá học theo chương trình Giáo Dục Phổ Thông 2018.Bên cạnh đó, chúng tôi tích hợp công nghệ AI tạo sinh (Generative AI) để nâng cao trải nghiệm học tập cho học sinh và người dùng. Chemgenie thuộc quyền sở hữu của đội ngũ FiveC được quản lý bởi đơn vị Nguyễn Chí Thanh STEMists Club.
+
+Sứ mệnh: 
+Chemgenie được thành lập với sứ mệnh hỗ trợ học sinh Việt Nam nâng cao kiến thức và kỹ năng trong môn Hoá học thông qua nền tảng học tập trực tuyến tiên tiến. Chúng tôi cam kết mang đến nội dung giáo dục chất lượng cao, được thiết kế phù hợp với chương trình học của Bộ Giáo dục và Đào tạo, giúp học sinh đạt được thành tích cao trong các kỳ thi.
+
+Tầm nhìn:
+Chemgenie hướng đến việc trở thành nền tảng luyện thi Hoá học hàng đầu tại Việt Nam và khu vực Đông Nam Á. Với việc tích hợp công nghệ Generative AI, chúng tôi hy vọng có thể cung cấp trải nghiệm học tập cá nhân hoá và sáng tạo, giúp học sinh không chỉ đạt điểm số cao mà còn phát triển tư duy logic và khả năng ứng dụng kiến thức vào thực tiễn.
+
+Giá trị cốt lõi:
+1. Chất lượng giáo dục: Mỗi bài học, tài liệu, và đề thi được biên soạn bởi đội ngũ chuyên gia giàu kinh nghiệm, đảm bảo bám sát chương trình GDPT 2018.
+2. Sáng tạo công nghệ: Chúng tôi tiên phong trong việc ứng dụng Generative AI để tạo ra nội dung học tập thông minh, đa dạng và phong phú. Công nghệ AI giúp tạo các bài giảng, đề thi mẫu, và giải thích chi tiết, cá nhân hoá cho từng học sinh.
+3. Hỗ trợ toàn diện: Chemgenie không chỉ là một nền tảng học tập, mà còn là người đồng hành của học sinh trong suốt quá trình luyện thi. Chúng tôi cung cấp hỗ trợ học tập 24/7, giúp học sinh giải đáp mọi thắc mắc một cách nhanh chóng và hiệu quả.
+4. Phát triển bền vững: Chúng tôi cam kết phát triển các sản phẩm và dịch vụ bền vững, đồng thời đóng góp vào sự phát triển của nền giáo dục Việt Nam thông qua công nghệ số.
+
+Sản phẩm và dịch vụ:
+Chemgenie cung cấp nhiều sản phẩm và dịch vụ hướng đến việc giúp học sinh ôn thi Hoá học theo chương trình GDPT 2018, bao gồm:
+
+- Nền tảng học trực tuyến: Cung cấp khoá học Hoá học chất lượng cao với bài giảng được thiết kế phù hợp cho cả học sinh THCS và THPT. Nội dung được biên soạn và phân chia theo từng chủ đề, giúp học sinh dễ dàng theo dõi và ôn tập.
+
+- Luyện thi Hoá học theo cấp độ: Tài liệu ôn tập và bộ đề thi thử được phân chia theo từng khối lớp 10, 11, 12, giúp học sinh rèn luyện và làm quen với các dạng câu hỏi thường gặp trong kỳ thi THPT Quốc gia và kỳ thi học kỳ.
+
+- Công nghệ Generative AI tích hợp: Với sự hỗ trợ của Generative AI, Chemgenie có thể tự động tạo ra các câu hỏi luyện thi và giải thích bài tập dựa trên kiến thức học sinh đã học. AI không chỉ giúp tạo ra câu hỏi luyện tập mà còn cung cấp giải thích chi tiết, giúp học sinh hiểu rõ từng bài tập.
+
+- Hệ thống đánh giá tiến độ học tập: Chemgenie cung cấp hệ thống theo dõi và đánh giá tiến độ học tập, giúp học sinh theo dõi sự tiến bộ của mình. Các báo cáo chi tiết về kết quả học tập sẽ được gửi đến học sinh mỗi tuần, cùng với các đề xuất cải thiện từ AI.
+
+- Đội ngũ giảng viên và chuyên gia tư vấn: Chemgenie hợp tác với các chuyên gia Hoá học hàng đầu và giáo viên giàu kinh nghiệm để đảm bảo nội dung học tập luôn được cập nhật và bám sát với chương trình học.
+
+- Cộng đồng học tập trực tuyến: Chemgenie không chỉ là một nền tảng học tập, mà còn là một cộng đồng nơi học sinh có thể tương tác, học hỏi lẫn nhau, chia sẻ kinh nghiệm học tập và giải đáp các thắc mắc với giáo viên và chuyên gia.
+
+Thành tựu nổi bật:
+- Chemgenie đã từng bước hỗ trợ cho học sinh trường THPT Nguyễn Chí Thanh trong suốt quá trình ôn luyện và thi THPT Quốc gia, và tiến xa hơn là trên toàn quốc.
+- Đội ngũ phát triển nền tảng đã được các danh hiệu khác từ những nghiên cứu khác liên quan đến giải pháp giáo dục như: Huy chương đồng thiết kế, chế tạo, ứng dụng lần thứ 11 năm 2023; Giải khuyến khích sáng tạo thanh thiếu niên,...
+- Hệ thống AI tạo sinh (Generative AI) của Chemgenie đã được áp dụng thành công trong việc cá nhân hoá lộ trình học tập cho từng học sinh, mang lại hiệu quả vượt trội trong quá trình luyện thi.
+- Đội ngũ phát triển đã tham gia tại nhiều cuộc thi trong nước và toàn quốc như: Solve For Tomorrow của Samsung, Imagine Cup của Microsoft,...
+
+Thông tin liên hệ:
+- Email: fivecreatorsgroup@gmail.com
+- Website: chemgenie.netlify.app
+- Fanpage: facebook.com/NCTSTEMist
+
+Đội ngũ phát triển:
+- Lập trình viên: Trương Thành Đạt
+- Lập trình viên: Trần Duy Nhân
+FAQs:
+1. Chemgenie có hỗ trợ học sinh ôn thi từ lớp 10 không?
+   -> Có, Chemgenie cung cấp tài liệu và đề thi thử phù hợp với từng cấp độ học, bao gồm lớp 10, 11, và 12.
+
+2. Nền tảng có cung cấp giải thích chi tiết cho từng bài tập không?
+   -> Có, mỗi bài tập đều có phần giải thích chi tiết do AI và giảng viên cung cấp, giúp học sinh hiểu rõ hơn về cách giải quyết vấn đề.
+
+3. Làm thế nào để đăng ký tài khoản trên Chemgenie?
+   -> Học sinh có thể đăng ký tài khoản miễn phí trên trang web của chúng tôi bằng cách nhấp vào nút Đăng ký và điền thông tin cá nhân.
+
+4. Chemgenie có cung cấp khoá học miễn phí không?
+   -> Chúng tôi cung cấp một số khoá học và tài liệu miễn phí để giúp học sinh có cái nhìn tổng quan về nền tảng trước khi tham gia các khoá học nâng cao.

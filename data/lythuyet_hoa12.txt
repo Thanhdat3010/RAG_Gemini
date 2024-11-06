@@ -1,0 +1,2617 @@
+LÝ THUYẾT CHỦ ĐỀ 1 : ESTER – LIPID
+A. ESTER
+I. KHÁI NIỆM
+- Khi thay nhóm OH ở nhóm carboxyl của acid carboxylic bằng nhóm OR thì được ester .
+- CTTQ dạng
+( trong đó n là số carbon trong phân tử ester n ≥ 2 , nguyên ; k là tổng số liên kết và số vòng trong phân tử k ≥ 1 , nguyên ; a là số nhóm chức ester a ≥ 1 , nguyên )
++ Ester đơn chức : ; CxHyO2 ( y ≤ 2x ) hoặc RCOOR ’
++ Ester no đơn chức mạch hở : CnH2nO2 ( n ≥ 2 ) hoặc CnH2n+1COOCmH2m+1 ( n ≥ 0 , m ≥ 1 )
+- Tên của ester :
+Tên gốc R ’ + tên gốc acid RCOO ( đuôi at )
+VD :
+CH3COOC2H5 : Ethyl acetate ( ethyl ethanoate ) CH2=CH-COOCH3 : Methyl acrylate ( methyl propenoate )
+HCOO-C2H5 : ethyl formate ( ethyl ethanoate )
+CH3COO-CH=CH2 : vinyl acetate ( vinyl ethanoate )
+C6H5COO-CH3 : methyl benzoate
+CH3COO-CH2-C6H5 : benzyl acetate
+HCOOCH2CH2CH2CH3 : butyl formate
+HCOOCH2CH ( CH3 ) 2 : isobutyl formate
+HCOOCH ( CH3 ) CH2CH3 : sec-butyl formate
+HCOOC ( CH3 ) 3 : tert-butyl formate
+CH3COOCH2CH2CH3 : propyl acetate
+CH3COOCH ( CH3 ) 2 : isopropyl acetate
+CH3CH2COOC2H5 : ethyl propionate
+CH3CH2CH2COOCH3 : methyl butyrate
+( CH3 ) 2CHCOOCH3 : methyl isobutyrate
+- Cấu tạo :
++ Viết các công thức cấu tạo ester no , đơn chức , mạch hở từ C2 đến C4
++ Số cấu tạo acid và ester no , đơn chức , mạch hở ( CnH2nO2 )
+II .
+TÍNH CHẤT VẬT LÝ
+- Đa số ở trạng thái lỏng .
+Những ester có khối lượng phân tử rất lớn có thể ở trạng thái rắn ( như mỡ động vật , sáp ong … )
+- Ít tan hoặc không tan trong nước
+- Nhiệt độ sôi , độ tan trong nước thấp hơn acid và alcohol có M gần bằng nhau :
+acid > alcohol > ester , aldehyde , ketone , hydrocarbon , ... ( so sánh dựa vào phân tử khối )
+- Một số mùi đặc trưng :
++ Benzyl acetate : Mùi hoa nhài
++ Ethyl butyrate , ethyl propionate : Mùi dứa .
++ Ethyl isovalerat : Mùi táo
++ Isoamyl acetate : Mùi chuối
++ Geranyl acetate : Mùi hoa hồng
+III .
+TÍNH CHẤT HÓA HỌC
+1 .
+Phản ứng thủy phân
++ Môi trường acid : Phản ứng thuận nghịch
+RCOOR ’ + H2O RCOOH + R ’ OH
+VD : CH3COOC2H5 + H2O CH3COOH + C2H5OH
++ Môi trường base ( Phản ứng xà phòng hóa , một chiều ) :
+RCOOR ’ + NaOH RCOONa + R ’ OH
+VD : HCOOC2H5 + NaOH HCOONa + C2H5OH
+* Phản ứng thuỷ phân một số ester đặc biệt :
+- Ester đa chức :
++ Ester tạo bởi acid đơn chức và alcohol đa chức
+( RCOO ) nR ’ + nNaOH nRCOONa + R ’ ( OH ) n
+VD : ( CH3COO ) 3C3H5 + 3NaOH 3CH3COONa + C3H5 ( OH ) 3
++ Ester tạo bởi acid đa chức và alcohol đơn chức
+R ( COOR ’ ) n + nNaOH R ( COONa ) n + nR ’ OH
+VD : CH2 ( COOC2H5 ) 2 + 2NaOH CH2 ( COONa ) 2 + 2C2H5OH
++ Ester tạo bởi acid đa chức và alcohol đa chức
+R ( COO ) nR ’ + nNaOH R ( COONa ) n + R ’ ( OH ) n
+VD : CH2 ( COO ) 2C2H4 + 2NaOH CH2 ( COONa ) 2 + C2H4 ( OH ) 2
+- Ester thủy phân tạo aldehyde có dạng sau : RCOO-CH=R ’
+VD : CH3COO-CH=CH2 + NaOH CH3COONa + CH3-CH=O
+- Ester thủy phân tạo ketone có dạng sau : RCOO-C ( R ’ ) =R ’ ’
+VD : CH3COO-C ( CH3 ) =CH2 + NaOH CH3COONa + CH3-CO-CH3
+- Ester thủy phân tạo 2 muối và H2O → ester của acid với phenol ( RCOOC6H5 , RCOOC6H4CH3 , ... )
+VD : CH3COOC6H5 + 2NaOH CH3COONa + C6H5ONa + H2O
+2 .
+Phản ứng đốt cháy ester no , đơn , mạch hở
+CnH2nO2 + O2 nCO2 + nH2O
+- Nếu đốt cháy ester tạo CO2 và H2O với ester no , đơn chức , mạch hở ( CnH2nO2 )
+3 .
+Phản ứng khác
+- Phản ứng cộng : H2 , Br2 , HBr , …
+CH3COOCH=CH2 + Br2 CH3COOCHBr-CH2Br
+- Phản ứng trùng hợp :
+nCH3COOCH=CH2 ( -CH2-CH ( OCOCH3 ) - ) n
+- Phản ứng tráng gương của HCOOR ’ : Ester của formic acid có thể tráng gương tạo 2Ag .
+IV .
+ĐIỀU CHẾ
+- Phản ứng ester hóa từ alcohol và carboxylic acid :
+RCOOH + R ’ OH RCOOR ’ + H2O
+- Phương pháp khác :
+Vinyl acetate
+2C2H4 + 2CH3COOH + O2 2CH3COOCH=CH2 + 2H2O
+B. LIPID
+I. KHÁI NIỆM
+- Lipid là những hợp chất hữu cơ có trong tế bào sống , không hòa tan trong nước , tan nhiều trong dung môi hữu cơ .
+- Lipid gồm : triglyceride ( chất béo ) , sáp , steroid , phospholipid…
+* Nhắc lại :
+- Glycerol : alcohol ba chức CH2OH-CHOH-CH2OH ( C3H5 ( OH ) 3 )
+- Acid béo :
++ là những carboxylic acid đơn chức , có mạch carbon dài không phân nhánh
++ Một số acid béo thường gặp :
+C15H31COOH palmitic acid no 256 g/mol
+C17H35COOH stearic acid no 284 g/mol
+C17H33COOH oleic acid không no 282 g/mol
+C17H31COOH linoleic acid không no 280 g/mol
+- Chất béo là triester của glycerol với acid béo , gọi chung là triglyceride .
++ Công thức cấu tạo :
++ Công thức trung bình :
++ Một số chất béo thường gặp :
+( C15H31COO ) 3C3H5 tripalmitin glyceryl tripalmitate no 806 g/mol
+( C17H35COO ) 3C3H5 tristearin glyceryl tristearate no 890 g/mol
+( C17H33COO ) 3C3H5 triolein glyceryl trioleate không no 884 g/mol
+( C17H31COO ) 3C3H5 trilinolein glyceryl trilinoleate không no 878 g/mol
+- Số đồng phân triester tạo bởi glycerol và hỗn hợp n acid béo :
+II .
+TÍNH CHẤT VẬT LÝ
+- Ở nhiệt độ thường :
++ chất béo ở trạng thái lỏng khi trong phân tử có chủ yếu gốc hydrocarbon không no : triolein ( gốc -C17H33 có 1 liên kết C=C ) , trilinolein ( gốc -C17H31 có 2 liên kết C=C )
++ chất béo ở trạng thái rắn khi trong phân tử có chủ yếu gốc hydrocarbon no : tripalmitin , tristearin
+- Chất béo nhẹ hơn nước và không tan trong nước
+III .
+TÍNH CHẤT HÓA HỌC
+- Phản ứng thủy phân trong môi trường acid :
++ 3H2O 3 + C3H5 ( OH ) 3
+VD : ( C15H31COO ) 3C3H5 + H2O 3 + C3H5 ( OH ) 3
+- Phản ứng thùy phân trong môi trường base ( xà phòng hóa ) :
++ 3NaOH 3+ C3H5 ( OH ) 3
+VD : ( C17H35COO ) 3C3H5 + NaOH 3+ C3H5 ( OH ) 3
+- Phản ứng hydrogen hóa chất béo lỏng :
+Lỏng Rắn
+→ thuận tiện vận chuyển và bảo quản , sản xuất bơ nhân tạo
+- Phản ứng oxi hóa : chất béo tác dụng với oxygen của không khí tạo thành aldehyde có mùi khó chịu → hiện tượng dầu mỡ để lâu bị ôi .
+IV .
+XÀ PHÒNG VÀ CHẤT GIẶT RỬA TỔNG HỢP
+- Xà phòng :
+( RCOO ) 3C3H5 + 3NaOH 3RCOONa + C3H5 ( OH ) 3
++ là hỗn hợp muối sodium hoặc muối potassium của acid béo , có bổ sung thêm chất phụ gia .
++ cấu tạo gồm phần ưa nước ( nhóm carboxylate -COO- ) và phần kị nước ( gốc hydrocarbon mạch dài ) .
++ Cơ chế giặt rửa : phần kị nước quay về phía vết dầu mỡ và thâm nhập vào ; phần ưa nước có xu hướng quay ra ngoài và thâm nhập vào nước → vết dầu mỡ bị phân chia thành các hạt rất nhỏ phân tán vào nước → trôi khỏi bề mặt của vật cần giặt rửa .
+- Chất giặt rửa :
++ không phải là muối sodium của carboxylic acid nhưng có tính năng giặt rửa như xà phòng .
++ gồm phần ưa nước và phần kị nước , có tác dụng làm sạch các chất bẩn bám trên vật rắn mà không gây ra phản ứng hóa học với các chất đó .
++ Phân loại :
+Chất giặt rửa tự nhiên : saponin có trong bồ hòn , bồ kết .
+Chất giặt rửa tổng hợp : được sản xuất từ paraffin dầu mỏ , có thành phần chính là các muối CH3 [ CH2 ] 11OSO3-Na+ hoặc CH3 [ CH2 ] 11C6H4SO3-Na+ .
+- Ưu điểm và nhược điểm :
+Đồng phân Acid ( 2n – 3 ; 3 ≤ n ≤ 6 ) Ester ( 2n – 2 ; 2 ≤n ≤ 4 )
+CH2O2 1 0
+C2H4O2 1 1
+C3H6O2 1 2
+C4H8O2 2 4
+C5H10O2 4 9
+Ưu điểm Nhược điểm
+Xà phòng Bị phân hủy bởi vi sinh vật → ít gây ô nhiễm môi trường Khi dùng với nước cứng ( chứa nhiều Ca2+ và Mg2+ ) làm giảm tác dụng giặt rửa do tạo kết tủa và ảnh hưởng đến vải sợi , làm vải mau mục nát
+Chất giặt rửa tổng hợp - Dùng được cho nước cứng , vì chúng không bị kết tủa bởi ion Ca2+ và Mg2+ .
+- Giá thành thấp .
+Có gốc hydrocarbon phân nhánh hoặc vòng benzene khó bị vi sinh vật phân hủy → gây ô nhiễm môi trường
+Chất giặt rửa tự nhiên - Lành tính với da - Dễ bị phân hủy bởi vi sinh vật → không gây ô nhiễm môi trường - Giá thành cao - Khó sản xuất quy mô công nghiệp
+LÝ THUYẾT CHỦ ĐỀ 4 : POLYMER
+A. POLYMER
+I. KHÁI NIỆM , PHÂN LOẠI VÀ DANH PHÁP
+1 .
+Khái niệm
+- Polymer là những hợp chất có phân tử khối rất lớn do nhiều đơn vị nhỏ ( gọi là mắc xích ) liên kết với nhau .
+VD : Nylon-7 ( –NH– [ CH2 ] 6–CO– ) n do các mắc xích –NH– [ CH2 ] 6–CO– liên kết với nhau tạo nên .
+- Hệ số n được gọi là hệ số polymer hóa hay độ polymer hóa .
+- Các phân tử tạo nên từng mắc xích của polymer được gọi là monomer .
+2 .
+Phân loại
+a ) Theo nguồn gốc
+b ) Theo cách tổng hợp
+c ) Theo cấu trúc
+3 .
+Danh pháp
+- Poly + tên của monomer ( nếu tên monomer gồm 2 từ trở lên hoặc từ hai monomer tạo nên polymer thì tên của monomer phải để ở trong ngoặc đơn ) .
+- Một số polymer có tên riêng ( tên thông thường ) như ( -CF2-CF2- ) n ( teflon ) .
+II .
+TÍNH CHẤT VẬT LÍ
+- Hầu hết polymer là chất rắn , không bay hơi , không có nhiệt độ nóng chảy xác định , một số tan trong các dung môi hữu cơ tạo dung dịch nhớt ( PS tan được trong xăng ) .
+- Đa số polymer nóng chảy tạo chất lỏng nhớt , khi nguội sẽ hóa rắn : chất nhiệt dẻo ( PE , PP , PVC , … ) .
+- Một số polymer khi đun nóng sẽ không nóng chảy mà bị phân hủy : chất nhiệt rắn ( PPF , … ) .
+- Đa số polymer có tính dẻo , một số polymer có tính đàn hồi , một số có tính dai , bền , có thể kéo sợi :
+III .
+TÍNH CHẤT HÓA HỌC
+1 .
+Phản ứng giữ nguyên mạch polymer
+- Các nhóm thế gắn vào mạch polymer có thể tham gia phản ứng mà không làm thay đổi mạch .
+- Polymer có liên kết đôi trong mạch có thể tham gia phản ứng cộng vào liên kết đôi mà không làm thay đổi mạch polymer .
+2 .
+Phản ứng cắt mạch polymer
+- Các polymer có nhóm chức dễ bị thủy phân : tinh bột , cellulose , capron , nylon-6,6 , …
+( -NH- [ CH2 ] 5-CO- ) n + nH2O nH2N- [ CH2 ] 5-COOH
+- Một số polymer bị phân hủy nhiệt thành polymer mạch ngắn hơn và cuối cùng tạo ra monomer ban đầu ( phản ứng depolymer hóa ) .
+3 .
+Phản ứng tăng mạch polymer
+- Ở điều kiện thích hợp , các polymer có thể phản ứng với nhau :
++ tạo thành polymer mạch dài hơn ;
++ tạo thành mạng lưới không gian ( phản ứng khâu mạch ) .
+VD : phản ứng lưu hóa cao su .
+Polymer khâu mạch khó nóng chảy và khó hòa tan → bền hơn polymer chưa khâu mạch .
+IV .
+ĐIỀU CHẾ
+Có thể điều chế polymer bằng phản ứng trùng hợp hoặc trùng ngưng
+1 .
+Phản ứng trùng hợp
+a ) Khái niệm
+- Trùng hợp là quá trình kết hợp nhiều phân tử nhỏ ( monomer ) , giống nhau hay tương tự nhau thành phân tử rất lớn ( polymer ) .
+- Điều kiện cần về cấu tạo của monomer tham gia phản ứng trùng hợp phải có là :
++ Liên kết bội : CH2 = CH2 , CH2 = CH–C6H5 , …
++ Hoặc vòng kém bền :
+b ) Phân loại
+- Trùng hợp chỉ từ một loại monomer tạo homopolymer :
+Poly ( vinyl chloride ) ( PVC )
+- Trùng hợp mở vòng :
+tơ capron
+- Trùng hợp từ hai hay nhiều loại monomer ( gọi là đồng trùng hợp ) tạo copolymer :
+Poly ( butadiene-styrene ) ( Cao su Buna-S )
+2 .
+Phản ứng trùng ngưng
+a ) Khái niệm
+- Trùng ngưng là quá trình kết hợp nhiều phân tử nhỏ ( monomer ) thành phân tử lớn ( polymer ) đồng thời giải phóng những phân tử nhỏ khác ( như H2O ) .
+- Điều kiện cần để có phản ứng trùng ngưng là : các monomer phải có ít nhất hai nhóm chức có khả năng phản ứng để tạo được liên kết với nhau .
+b ) Một số phản ứng trùng ngưng
+ε-aminocaproic acid Nylon – 6
+ω-aminoenantoic acid Nylon – 7
+B. VẬT LIỆU POLYMER
+I. CHẤT DẺO
+1 .
+Khái niệm
+- Chất dẻo là những vật liệu polymer có tính dẻo .
+- Tính dẻo là tính bị biến dạng khi chịu tác dụng của nhiệt , áp lực bên ngoài và vẫn giữ nguyên được sự biến dạng đó khi thôi tác dụng .
+2 .
+Một số polymer dùng làm chất dẻo
+a ) Polyethylene ( PE )
+- PE là chất dẻo mềm , được dùng làm màng mỏng , bình chứa , túi đựng…
+b ) Poly ( vinyl chloride ) ( PVC )
+- PVC là chất dẻo cứng , cách điện tốt , bền với acid , được dùng làm vật liệu điện , ống dẫn nước , da giả…
+c ) Poly ( methyl methacrylate ) ( thủy tinh hữu cơ PLEXIGLAS )
+- Poly ( methyl methacrylate ) là chất dẻo cứng , trong suốt , không vỡ… nên được gọi là thủy tinh hữu cơ .
+Dùng để chế tạo kính máy bay , ô tô , kính bảo hiểm , dùng làm răng giả…
+d ) Poly ( phenol formaldehyde ) ( PPF )
+- PPF có ba dạng :
++ Nhựa Novolak :
+Đun nóng hỗn hợp formaldehyde và phenol lấy dư với xúc tác acid được nhựa novolak mạch không phân nhánh ( cầu nối methylen –CH2– có thể ở vị trí ortho hoặc para ) .
+Nhựa nhiệt dẻo , dễ nóng chảy , tan trong một số dung môi hữu cơ , dùng để sản xuất vecni , sơn…
++ Nhựa Resole :
+Đun nóng hỗn hợp phenol và formaldehyde theo tỉ lệ mol 1 : 1,2 có xúc tác kiềm .
+Nhựa resole không phân nhánh , một số nhân phenol có gắn nhóm –CH2OH ở vị trí số 4 hoặc 2 .
+Nhựa nhiệt rắn , dễ nóng chảy , tan trong nhiều dung môi hữu cơ dùng để sản xuất sơn , keo , nhựa resin .
++ Nhựa Resin ( còn gọi là nhựa Bakelite ) :
+Đun nóng nhựa resole ở 150oC được nhựa resin ( hay nhựa bakelite ) có cấu trúc mạng lưới không gian
+Không nóng chảy , không tan trong nhiều dung môi hữu cơ , dùng sản xuất đồ điện , vỏ máy…
+II .
+VẬT LIỆU COMPOSITE
+- Vật liệu composite là vật liệu tổ hợp từ hai hay nhiều vật liệu khác nhau , tạo nên vật liệu mới có tính chất vượt trội so với các vật liệu thành phần .
++ Vật liệu nền ( polymer ) : có thể dùng nhựa nhiệt dẻo hay nhựa nhiệt rắn ;
++ Vật liệu cốt : dạng sợi ( sợi carbon , sợi vải , ... ) , dạng bột ( bột nhôm , bột silica , ... ) .
+III .
+TƠ
+1 .
+Khái niệm
+- Tơ là những vật liệu polymer hình sợi dài và mảnh với độ bền nhất định , mạch không phân nhánh và xếp song song với nhau .
+2 .
+Phân loại
+IV .
+CAO SU
+1 .
+Khái niệm
+- Cao su là vật liệu polymer có tính đàn hồi .
+- Tính đàn hồi là tính biến dạng khi chịu lực tác dụng bên ngoài và trở lại dạng ban đầu khi lực đó thôi tác dụng .
+- Có hai loại cao su : cao su thiên nhiên và cao su tổng hợp .
+2 .
+Cao su thiên nhiên
+a ) Cấu trúc
+- Cao su thiên nhiên được lấy từ cây cao su , thành phần chính là polyisoprene .
+- Tất cả các mắt xích isoprene đều có cấu hình cis :
+b ) Tính chất và ứng dụng
+- Cao su thiên nhiên lấy từ mủ cây cao su , đàn hồi tốt ( nhờ cấu trúc cis điều hòa ) , không dẫn nhiệt và điện , không thấm khí và nước , không tan trong nước , ethanol… nhưng tan trong xăng và benzene .
+- Cao su thiên nhiên có phản ứng cộng H2 , Cl2 , HCl , … đặc biệt là cộng lưu huỳnh tạo cao su lưu hoá có tính đàn hồi , chịu nhiệt , lâu mòn , khó tan trong dung môi hơn cao su không lưu hóa .
+3 .
+Cao su tổng hợp
+- Cao su buna có tính đàn hồi và độ bền kém cao su thiên nhiên .
+- Cao su isoprene : trùng hợp isoprene có hệ xúc tác đặc biệt , ta được polyisoprene gọi là cao su isoprene , cấu hình cis chiếm ≈ 94 % , gần giống cao su thiên nhiên .
+- Cao su buna – S có tính đàn hồi cao .
+- Cao su buna – N có tính chống dầu tốt .
+- Cao su chloroprene có đặc tính đàn hồi nên được gọi là cao su chloroprene và cao su fluoroprene .
+Chúng bền với dầu mỡ hơn cao su isoprene .
+V. KEO DÁN
+- Keo dán là vật liệu có khả năng kết dính bề mặt hai vật liệu rắn với nhau mà không làm biến đổi bản chất các vật liệu được kết dính .
+- Phân loại :
++ nhựa vá săm
++ keo dán epoxy :
++ keo dán poly ( urea-formaldehyde ) :
+TỔNG KẾT
+MỘT SỐ POLYMER THƯỜNG GẶP
+Thiên nhiên Tổng hợp Nhân tạo ( bán tổng hợp )
+- Có nguồn gốc từ thiên nhiên VD : Cellulose , tinh bột , … - Do con người tổng hợp nên VD : polyethylene , poly ( vinyl chloride ) - Lấy polymer thiên nhiên chế hóa thành polymer mới VD : tơ viscose , tơ cellulose acetate
+Trùng hợp Trùng ngưng
+- Tổng hợp bằng phản ứng trùng hợp VD : polyethylene , poly ( methyl methacrylate ) , … - Tổng hợp bằng phản ứng trùng ngưng VD : nylon-6 , poly ( phenol-formaldehyde ) , …
+Mạch không nhánh Mạch có nhánh Mạch mạng không gian
+polyethylene , amylose… amylopectin , glycogen… cao su lưu hóa , nhựa bakelite…
+Loại tơ Nguồn gốc Ví dụ
+Tơ thiên nhiên Có sẵn trong thiên nhiên , được sử dụng trực tiếp Bông , len , tơ tằm
+Tơ tổng hợp Polymer được tổng hợp bằng phản ứng hóa học Polyamide ( nylon-6,6 , capron ) Polyvinylic ( tơ nitron ) Polyester ( tơ lapsan )
+Tơ bán tổng hợp ( nhân tạo ) Chế biến polymer thiên nhiên bằng phương pháp hóa học Tơ viscose Tơ cellulose acetate
+STT Monomer Công thức cấu tạo polymer Tên gọi , viết tắt Phương pháp tổng hợp Vật liệu polymer
+1 Tạo thành từ các mắc xích α-glucose Tinh bột ( Starch ) Polymer thiên nhiên -
+2 Tạo thành từ các mắc xích β-glucose Cellulose Polymer thiên nhiên TƠ
+3 - Nguồn gốc Cellulose Tơ viscose Polymer bán tổng hợp TƠ
+4 - Nguồn gốc Cellulose Tơ acetate ( Cellulose acetate ) Polymer bán tổng hợp TƠ
+5 CH2=CH2 Ethylene Polyethylene PE Trùng hợp CHẤT DẺO
+6 CF2=CF2 Tetrafluoroethene Teflon Trùng hợp CHẤT DẺO
+7 CH3-CH=CH2 Propylene Polypropylene PP Trùng hợp CHẤT DẺO
+8 CH2=CH-CH=CH2 Buta-1,3-diene Polybutadiene Cao su Buna Trùng hợp CAO SU
+9 CH2=C ( CH3 ) -CH=CH2 Isoprene Polyisoprene Cao su thiên nhiên Trùng hợp CAO SU
+10 CH2=CCl-CH=CH2 Chloroprene Polychloroprene Cao su chloroprene Trùng hợp CAO SU
+11 Styrene Polystyrene PS Trùng hợp CHẤT DẺO
+12 CH2=CH–Cl Vinyl chloride Poly ( vinyl chloride ) PVC Trùng hợp CHẤT DẺO
+13 CH3COOCH=CH2 Vinyl acetate Poly ( vinyl acetate ) PVAc Trùng hợp CHẤT DẺO
+14 Thuỷ phân poly ( vinyl acetate ) ( PVAc ) trong môi trường kiềm : Poly ( vinyl alcohol ) PVA CHẤT DẺO
+15 CH2=CH–CN Acrylonitrile Tơ nitron Orlon Trùng hợp TƠ
+16 Methyl methacrylate Poly ( methyl methacrylate ) PMM Thuỷ tinh hữu cơ Plexiglas Trùng hợp CHẤT DẺO
+17 Buta-1,3-diene Styrene Poly ( butadiene-styrene ) Cao su Buna-S Đồng trùng hợp CAO SU
+18 Buta-1,3-diene CH2=CH-CN Acrylonitrile Poly ( butadiene-acrylonitrile ) Cao su Buna-N Đồng trùng hợp CAO SU
+19 Ethylene oxide Poly ( ethylene oxide ) Trùng hợp CHẤT DẺO
+19 HO-CH2-CH2-OH Ethylene glycol Poly ( ethylene glycol ) Trùng ngưng CHẤT DẺO
+20 Caprolactam Tơ Capron Polycaproamide Trùng hợp TƠ
+20 H2N– [ CH2 ] 5–COOH -aminocaproic acid 6-aminohexanoic acid Nylon 6 Poly ( 6‐aminohexanoic acid ) PA6 Trùng ngưng TƠ
+21 H2N- [ CH2 ] 6-COOH 7-aminoheptanoic acid Nylon 7 Trùng ngưng TƠ
+22 H2N- [ CH2 ] 6-NH2 Hexamethylenediamine HOOC- [ CH2 ] 4-COOH Adipic acid Poly ( hexamethylene adipamide ) Nylon 6,6 Trùng ngưng TƠ
+23 p-HOOC-C6H4-COOH Terephthalic acid HO-CH2-CH2-OH Ethylene glycol Poly ( ethylene terephthalate ) PET Trùng ngưng TƠ
+24 C6H5OH Phenol HCHO Formaldehyde Nhựa Novolak : Nếu dư phenol và xúc tác acid .
+Nhựa Resole : Nếu dư formaldehyde và xúc tác base .
+Poly ( phenol formaldehyde ) PPF Trùng ngưng CHẤT DẺO
+LÝ THUYẾT CHỦ ĐỀ 2 : CARBOHYDRATE
+- Carbohydrate ( glucide , saccharide ) là những hợp chất hữu cơ tạp chức , thường có công thức chung là Cn ( H2O ) m
+- Có ba loại carbohydrate :
++ Monosaccharide : Glucose và Fructose ( Không bị thủy phân )
++ Disaccharide : Saccharose và Maltose ( Thủy phân tạo 2 phân tử monosaccharide )
++ Polysaccharide : Tinh bột và Cellulose ( Thủy phân tạo nhiều phân tử monosaccharide )
+- Thực nghiệm nghiên cứu cấu tạo của Glucose :
++ Khử hoàn toàn glucose thu được n-hexane → glucose có 6 nguyên tử C mạch hở , không phân nhánh
++ Glucose có phản ứng tráng bạc , làm mất màu nước bromine tạo gluconic acid → glucose có nhóm chức aldehyde –CH=O
++ Glucose tác dụng với Cu ( OH ) 2 ở nhiệt độ thường tạo dung dịch xanh lam → Glucose có nhiều nhóm chức –OH
++ Glucose tạo ester chứa 5 gốc CH3COO → Glucose có 5 nhóm –OH
+BẢNG SO SÁNH TÍNH CHẤT HOÁ HỌC
+( + ) có phản ứng , viết tên sản phẩm và hiện tượng ; ( - ) không có phản ứng .
+Carbohydrate Monosaccharide Monosaccharide
+Carbohydrate Glucose Fructose
+Trạng thái tự nhiên - Quá trình quang hợp .
+- Có mặt trong hầu hết bộ phân của cây ( hoa , lá , rễ , … ) .
+- Có trong quả chín ( nhất là quả nho chín ) .
+- Trong máu người lúc đói : 4,4 - 7,2 mmol/L ( hay 80-130 mg/dL ) Có nhiều trong mật ong ( 40 % fructose + 30 % glucose ) và nhiều loại trái cây ( táo , lựu , nho , lê , dứa , xoài ... ) , trong một số loại rau củ ( cà rốt , củ cải đường , ... )
+Công thức phân tử C6H12O6 ( M = 180 g/mol ) → glucose và fructose là đồng phân của nhau C6H12O6 ( M = 180 g/mol ) → glucose và fructose là đồng phân của nhau
+CTCT thu gọn CH2OH [ CHOH ] 4CHO CH2OH [ CHOH ] 3COCH2OH
+Tính tan Chất rắn , tan Chất rắn , tan
+Vị ngọt Maltose < Glucose < Saccharose < Fructose Maltose < Glucose < Saccharose < Fructose
+Đặc điểm cấu tạo - Có nhiều nhóm –OH liên tiếp .
+- Có nhiều nhóm –OH liên tiếp .
+Đặc điểm cấu tạo - Có nhóm -CHO - Không có nhóm –CHO mà có nhóm ketone C=O
+Đặc điểm cấu tạo Chia thành 2 dạng : + Mạch hở : 5 nhóm hydroxy ( OH ) + 1 nhóm aldehyde ( CHO ) + Mạch vòng 6 cạnh ( chủ yếu ) : α và β Chia thành 2 dạng : + Mạch hở : 5 nhóm hydroxy ( OH ) + 1 nhóm ketone ( -CO- ) + Mạch vòng 5 cạnh ( chủ yếu ) : α và β
+Tính chất hoá học 1 .
+Tính chất aldehyde - AgNO3/NH3 ( thuốc thử Tollens ) tạo Ag kết tủa bạc ( 1 glucose tạo 2Ag ) và ammonium gluconate RCHO + 2 [ Ag ( NH3 ) 2 ] OH → RCOONH4 + 2Ag + 3NH3 + H2O - AgNO3/NH3 tạo Ag kết tủa bạc ( tạo 2Ag ) Trong môi trường kiềm , Fructose chuyển thành glucose , tham gia phản ứng tráng bạc : fructose glucose .
+Tính chất hoá học 1 .
+Tính chất aldehyde - Cu ( OH ) 2/OH- , to tạo kết tủa Cu2O đỏ gạch Cu2O và Sodium gluconate RCHO + 2Cu ( OH ) 2 + NaOH RCOONa + Cu2O + 3H2O - Cu ( OH ) 2/OH- , to tạo kết tủa đỏ gạch Cu2O
+Tính chất hoá học 1 .
+Tính chất aldehyde - Làm mất màu nước Br2 tạo Gluconic acid R-CHO + Br2 + H2O → R-COOH + 2HBr - Không làm mất màu nước Br2 → dùng để phân biệt glucose và fructose Lưu ý : Fructose không thể chuyển thành glucose trong môi trường acid ( H+ ) nên không phản ứng với nước Br2 .
+Tính chất hoá học 1 .
+Tính chất aldehyde - Tác dụng chất khử tạo sorbitol C6H12O6 C6H14O6 - Tác dụng chất khử tạo hỗn hợp polyalcohol C6H14O6 ( sorbitol và mannitol )
+2 .
+Tính chất alcohol đa chức - Hoà tan Cu ( OH ) 2 ở nhiệt độ thường tạo dung dịch xanh lam 2C6H12O6 + Cu ( OH ) 2 → Cu ( C6H11O6 ) 2 + 2H2O - Hoà tan Cu ( OH ) 2 ở nhiệt độ thường tạo dung dịch xanh lam 2C6H12O6 + Cu ( OH ) 2 → Cu ( C6H11O6 ) 2 + 2H2O
+3 .
+Phản ứng thủy phân - Không thuỷ phân - Không thuỷ phân
+4 .
+Tính chất của -OH hemiacetal R-OH + CH3OH R-OCH3 + H2O
+5 .
+Tính chất khác - Có phản ứng lên men : C6H12O62C2H5OH + 2CO2↑ Ethanol C6H12O6 2CH3CH ( OH ) COOH Lactic acid
+Carbohydrate Disaccharide Disaccharide
+Carbohydrate Saccharose Maltose
+Trạng thái tự nhiên - Có nhiều trong mía , củ cải đường , hoa thốt nốt - Còn gọi là đường mía .
+- Có nhiều trong một số hạt nảy mầm .
+Chủ yểu được tạo ra trong quá trình thuỷ phân tinh bột .
+- Còn gọi là đường mạch nha .
+Tính tan , vị ngọt Chất rắn có vị ngọt , dễ tan trong nước .
+Chất rắn có vị ngọt , dễ tan trong nước .
+Công thức phân tử C12H22O11 ( M = 342 g/mol ) → Saccharose và Maltose là đồng phân của nhau C12H22O11 ( M = 342 g/mol ) → Saccharose và Maltose là đồng phân của nhau
+CTCT thu gọn Saccharose gồm 1 gốc -glucose + 1 gốc -fructose liên kết -1,2-glycoside qua nguyên tử O → chỉ tồn tại dạng mạch vòng ( không có nhóm -CHO ) Maltose gồm 2 gốc -glucose liên kết -1,4-glycoside qua nguyên tử O → có mạch vòng và mạch hở ( có nhóm –CHO )
+Đặc điểm cấu tạo Có nhiều nhóm –OH liên tiếp .
+Có nhiều nhóm –OH liên tiếp .
+Đặc điểm cấu tạo Gồm hai gốc α-glucose và β-fructose Gồm hai gốc α-glucose
+Đặc điểm cấu tạo Không có -CHO Có 1 nhóm -CHO
+Tính chất hoá học 1 .
+Tính chất aldehyde - Không phản ứng [ Ag ( NH3 ) 2 ] OH ; Cu ( OH ) 2/NaOH , to ; Br2/H2O ; H2 do không có nhóm -CHO .
+- Tuy nhiên , sau khi bị thủy phân tạo hỗn hợp fructose và glucose thì có thể tham gia các phản ứng trên .
+- Có phản ứng [ Ag ( NH3 ) 2 ] OH ; Cu ( OH ) 2/NaOH , to ; Br2/H2O ; H2 do có nhóm -CHO tương tự glucose .
+- Sau khi bị thủy phân tạo glucose thì cũng có thể tham gia phản ứng trên .
+2 .
+Tính chất alcohol đa chức Hoà tan Cu ( OH ) 2 ở nhiệt độ thường tạo dung dịch xanh lam 2C12H22O11 + Cu ( OH ) 2 → Cu ( C12H21O11 ) 2 + 2H2O Hoà tan Cu ( OH ) 2 ở nhiệt độ thường tạo dung dịch xanh lam 2C12H22O11 + Cu ( OH ) 2 → Cu ( C12H21O11 ) 2 + 2H2O
+3 .
+Phản ứng thủy phân Tạo glucose và fructose C12H22O11 + H2O C6H12O6 + C6H12O6 Tạo glucose C12H22O11 + H2O 2C6H12O6
+Carbohydrate Polysaccharide Polysaccharide
+Carbohydrate Tinh bột Cellulose
+Trạng thái tự nhiên Có nhiều trong gạo , ngô , khoai , sắn , … Có nhiều trong gỗ , bông , đay , gai , tre , nứa Gỗ khô khoảng 50 % khối lượng .
+Sợi bông khoảng 90 % khối lượng .
+Tính tan Chất rắn , màu trắng , ít tan trong nước lạnh , tan nhiều trong nước nóng tạo hồ tinh bột Chất rắn , dạng sợi , màu trắng , không tan trong nước kể cả khi đun nóng , tan trong nước Schweizer ( Cu ( OH ) 2 + NH3 )
+Công thức phân tử ( C6H10O5 ) n ( M = 162n g/mol ) → Tinh bột và Cellulose không phải đồng phân do n khác nhau ( C6H10O5 ) n ( M = 162n g/mol ) → Tinh bột và Cellulose không phải đồng phân do n khác nhau
+CTCT thu gọn
+Đặc điểm cấu tạo Gồm nhiều mắt xích α-glucose Gồm nhiều gốc β-glucose
+Đặc điểm cấu tạo - Gồm 2 loại : + Amylose ( mạch không nhánh , xoắn ) : chứa liên kết 1,4-glycoside + Amylopectin ( mạch phân nhánh , xoắn ) : chứa liên kết 1,4-glycoside và 1,6-glycoside Mạch không nhánh , xoắn
+Tính chất hoá học 1 .
+Phản ứng thủy phân Tạo glucose ( C6H10O5 ) n + nH2O → nC6H12O6 ĐK : enzyme hoặc H+ , to Tạo glucose ( C6H10O5 ) n + nH2O → nC6H12O6 ĐK : dd H2SO4 70 %
+2 .
+Tính chất khác - Phản ứng màu với dung dịch iodine : Hồ tinh bột + I2 hợp chất màu xanh tímmất màu xanh tímxuất hiện lại màu xanh tím .
+Giải thích : mạch tinh bột xoắn lại tạo các lỗ rỗng , các lỗ rỗng này hấp phụ I2 tạo nên hợp chất màu xanh tím .
+Khi đun nóng mạch tinh bột duỗi ra không còn lỗ rỗng và I2 được giải phóng nên mất màu xanh tím .
+Khi để nguội lại thì mạch tinh bột xoắn lại và I2 ngưng tụ được hấp phụ lại vào các lỗ rỗng nên xuất hiện màu xanh tím trở lại .
+- Phản ứng quang hợp : 6nCO2 + 5nH2O ( C6H10O5 ) n + 6nO2 - Sự chuyển hoá tinh bột trong cơ thể : ( C6H10O5 ) n ( C6H10O5 ) x C12H22O11 Tinh bột dextrin maltose C6H12O6 glucose Phản ứng HNO3/H2SO4 đặc tạo cellulose trinitrate ( thuốc súng không khói ) hoặc cellulose dinitrate tùy điều kiện : [ C6H7O2 ( OH ) 3 ] n + 3nHNO3 → [ C6H7O2 ( ONO2 ) 3 ] n + 3nH2O [ C6H7O2 ( OH ) 3 ] n + 2nHNO3 → [ C6H7O2 ( OH ) ( ONO2 ) 2 ] n + 2nH2O
+Carbohydrate Tính chất Glucose Fructose Saccharose Maltose Tinh bột Cellulose
+Tính chất của aldehyde + [ Ag ( NH3 ) 2 ] OH ( Tollens ) + Cu ( OH ) 2/OH- , to + nước Br2/H2O + H2 , Ni/to Ag↓ Ammonium gluconate Ag↓ Ammonium gluconate - Ag↓ - -
+Tính chất của aldehyde + [ Ag ( NH3 ) 2 ] OH ( Tollens ) + Cu ( OH ) 2/OH- , to + nước Br2/H2O + H2 , Ni/to Cu2O↓đỏ gạch Sodium gluconate Cu2O↓đỏ gạch Sodium gluconate - Cu2O↓đỏ gạch - -
+Tính chất của aldehyde + [ Ag ( NH3 ) 2 ] OH ( Tollens ) + Cu ( OH ) 2/OH- , to + nước Br2/H2O + H2 , Ni/to Mất màu Gluconic acid - - Mất màu - -
+Tính chất của aldehyde + [ Ag ( NH3 ) 2 ] OH ( Tollens ) + Cu ( OH ) 2/OH- , to + nước Br2/H2O + H2 , Ni/to Sorbitol Hỗn hợp sorbitol và mannitol - + - -
+Tính chất của polyalcohol + Cu ( OH ) 2 , to thường Tạo dd xanh lam Tạo dd xanh lam Tạo dd xanh lam Tạo dd xanh lam - -
+Tính chất của -OH hemiacetal Methyl glucoside - - + - -
+Tính chất của alcohol ( Phản ứng ester hoá ) + HNO3/H2SO4 + + + + + Cellulose trinitrate ( Thuốc súng không khói )
+Phản ứng thuỷ phân + H2O/H+ - - Glucose + Fructose Glucose Glucose Glucose
+Phản ứng màu + I2 - - - - màu xanh tím đặc trưng -
+LÝ THUYẾT CHỦ ĐỀ 5 : PIN ĐIỆN VÀ ĐIỆN PHÂN
+A. PIN ĐIỆN
+I. CẶP OXI HÓA – KHỬ
+- Cặp oxi hóa khử là tập hợp gồm hai chất , chất oxi hóa và chất khử tương ứng ( chất oxi hóa và chất khử liên hợp ) , trong đó chất oxi hóa được đặt phía trước , chất khử tương ứng đặt phía sau và cách nhau bằng một gạch dọc ( Ox/Kh ) .
+VD : Fe2+/Fe , Ag+/Ag , Al3+/Al , 2H+/H2 , Cl2/2Cl- , Fe3+/Fe2+ , Cu2+/Cu , Cl2/2Cl- .
+- Trong một cặp oxi hóa khử thì độ mạnh của chất oxi hóa và của chất khử ngược nhau .
+Nghĩa là nếu chất oxi hóa rất mạnh thì chất khử tương ứng sẽ rất yếu và ngược lại , nếu chất khử rất mạnh thì chất oxi hóa tương ứng sẽ rất yếu .
+VD :
++ Với cặp K+/K thì do K có tính khử rất mạnh nên K+ có tính oxi hóa rất yếu .
++ Với cặp Au3+/Au thì do Au có tính khử rất yếu nên Au3+ có tính oxi hóa rất mạnh .
+II .
+ĐIỆN CỰC
+- Hệ gồm một tấm kim loại nhúng trong dung dịch một muối của kim loại đó được gọi là điện cực .
++ Sơ đồ điện cực :
++ Phản ứng điện cực : Mn+ + ne M
+VD : Thanh kẽm tiếp xúc dung dịch ZnSO4
+Sơ đồ điện cực :
+Phản ứng điện cực : Zn2+ + 2e Zn
+III .
+THẾ ĐIỆN CỰC
+- Hiệu thế cân bằng sinh ra giữa mặt kim loại và lớp dung dịch bao quanh kim loại được gọi là thế điện cực .
+- Điện cực chuẩn so sánh được quốc tế chấp nhận là điện cực hydrogen tiêu chuẩn có thế điện cực ( áp suất khí H2 bằng 1 atm và nồng độ H+ = 1M ) .
+- Thế điện cực của một điện cực bằng hiệu điện thế của nó so với điện cực tiêu chuẩn .
+Muốn xác định thế tương đối của một điện cực nào đó , người ta ghép điện cực đó với điện cực hydrogen chuẩn thành một pin điện .
+- Thế điện cực tiêu chuẩn của một cặp oxi hóa – khử liên hợp chính là sức điện động của một pin ráp bởi điện cực chuẩn của cặp oxi hóa – khử liên hợp đó với điện cực hydrogen tiêu chuẩn .
+- Thế điện cực chuẩn của cặp oxi hóa – khử càng lớn thì tính khử của dạng khử càng yếu , tính oxi hóa của dạng oxi hóa càng mạnh .
+VD1 : Sức điện động của pin bạc - hydrogen
+VD2 : Sức điện động của pin đồng – hydrogen
+Pt ( s ) │H2 ( g , 1 atm ) │H+ ( aq , 1 M ) ║Cu2+ ( aq , 1M ) │Cu ( s )
+IV .
+DÃY ĐIỆN HÓA
+1 .
+Dãy điện hóa của kim loại
+- Nguyên tắc sắp xếp từ trái sang phải :
++ Tính khử kim loại giảm
++ Tính oxi hóa ion kim loại tăng
+K+ Ca2+ Na+ Mg2+ Al3+ Zn2+ Cr3+ Fe2+ Ni2+ Sn2+ Pb2+ H+ Cu2+ Fe3+ Hg2+ Ag+ Pt2+ Au3+
+Tính oxi hóa ion kim loại tăng
+K Ca Na Mg Al Zn Cr Fe Ni Sn Pb H2 Cu Fe2+ Hg Ag Pt Au
+Tính khử kim loại giảm
+Khi Cần Nàng May Áo Záp Cô Phải Nhớ Sang Phố Hỏi Chú Hai Hiệu Á Phi Âu
+2 .
+Ý nghĩa của dãy điện hóa
+- Dự đoán chiều của phản ứng giữa 2 cặp oxi hóa khử xảy ra theo chiều : chất oxi hóa mạnh hơn sẽ oxi hóa chất khử mạnh hơn sinh ra chất khử yếu hơn và chất oxi hóa yếu hơn .
+- Chiều phản ứng :
+OXHmạnh + KHmạnh → KHyếu + OXHyếu ( Quy tắc )
+VD : Xét phản ứng giữa các cặp chất sau :
+a. Fe + Zn ( NO3 ) 2
+b. Cu + AgNO3
+c. Cu + FeCl3
+d. Fe + FeCl3
+e. Fe ( NO3 ) 2 + AgNO3
+V. NGUYÊN TỐ ĐIỆN HÓA
+- Nguyên tố điện hóa hay pin Galvani còn được gọi là nguồn điện hóa học là một hệ điện hóa cho phép biến đổi năng lượng của phản ứng hóa học trên điện cực thành điện năng .
+- Nguyên tố điện hóa gồm hai điện cực bằng kim loại được nhúng vào dung dịch điện phân .
+VD1 : Pin kẽm – đồng
+VD2 : Pin đồng – bạc
++ Điện cực Zn là cực âm ( anode ) xảy ra quá trình nhường electron :
+Zn Zn2+ + 2e
++ Điện cực Cu là cực dương ( cathode ) xảy ra quá trình nhận electron :
+Cu2+ + 2e Cu
++ Đối với toàn bộ nguyên tố , quá trình oxi hóa khử bằng tổng các quá trình xảy ra trên từng điện cực :
+Zn + Cu2+ Zn2+ + Cu
++ Sơ đồ pin :
+Ranh giới phân chia điện cực và dung dịch được ghi bằng một vạch dọc , ranh giới hai dung dịch được ghi bằng hai vạch .
+Anode được viết ở bên trái , cathode ở bên phải .
+Electron chuyển dời từ cực âm ( Zn ) sang cực dương ( Cu ) .
++ Khi đó hiệu thế đo được E được gọi là sức điện động của nguyên tố Galvani .
+Phản ứng trong pin sẽ tự phát xảy ra khi E > 0 thì phản ứng sẽ xảy ra theo chiều thuận .
+Còn ngược lại E < 0 thì phản ứng xảy ra theo chiều nghịch .
+Do đó , dựa vào thế điện cực chuẩn , người ta dự đoán được chiều của phản ứng oxi hóa – khử xảy ra trong dung dịch nước .
+- Sức điện động của nguyên tố Galvanic :
+VD1 :
++ Sức điện động chuẩn của pin kẽm – đồng :
++ Sức điện động chuẩn của pin magnesium - kẽm :
+VD2 : Sn2+ + 2I- Sn + I2 .
+Phản ứng có tự xảy ra hay không ( điều kiện chuẩn ) ?
+Cho
+Hướng dẫn giải
+Theo đề :
+I2 + 2e 2I- Eo = 0,54 V
+Sn2+ + 2e Sn Eo = -0,14 V
+Vì vậy , ,
+Phản ứng : Sn2+ + 2I- Sn + I2 Eo = = -0,14 – 0,54 = -0,68 V
+Vì sức điện động âm , phản ứng trên không xảy ra , phản ứng ngược lại tự điễn biến :
+Sn + I2 Sn2+ + 2I-
+VD3 : Một pin Galvanic hoạt động dựa trên hai bán phản ứng sau
+Cr3+ + 3e Cr Eo = -0,744 V
+Ni2+ + 2e Ni Eo = -0,236 V
+Tính Eo pin .
+Hướng dẫn giải
+Eo = = -0,236 – ( -0,744 ) = 0,508 V .
+B. ĐIỆN PHÂN
+I. SỰ ĐIỆN PHÂN
+- Sự điện phân là quá trình oxi hóa khử xảy ra tại bề mặt các điện cực khi có dòng điện một chiều đi qua dung dịch chất điện li hay chất điện li ở trạng thái nóng chảy .
+- Điện cực nối với cực âm của máy phát điện ( nguồn điện một chiều ) gọi là cực âm hay cathode .
+- Điện cực nối với cực dương của máy phát điện gọi là cực dương hay anode .
+- Tại bề mặt của cathode luôn luôn có quá trình khử xảy ra , là quá trình trong đó chất oxi hóa nhận electron để tạo thành chất khử tương ứng .
+- Tại bề mặt anode luôn luôn có quá trình oxi hóa xảy ra , là quá trình trong đó chất khử cho electron để tạo thành chất oxi hoá tương ứng .
+* Lưu ý : phân biệt điện cực và quá trình trong điện phân với pin điện , ăn mòn điện hóa
+II .
+PHÂN LOẠI
+1 .
+Điện phân nóng chảy
+- Điều chế những kim loại mạnh ( K , Na , Ca , Mg , Al .
+) .
+- Có 3 trường hợp :
++ Điện phân nóng chảy muối halide của kim loại mạnh .
+( MXn )
+2MXn 2M + nX2
+VD1 : Điện phân nóng chảy NaCl .
++ Điện phân nóng chảy oxide kim loại mạnh ( M2On )
+2M2On 4M + nO2
+VD2 : Điện phân nóng chảy Al2O3 .
++ Điện phân nóng chảy base của kim loại mạnh .
+M ( OH ) n
+4M ( OH ) n 4M + nO2 +2n H2O
+VD3 : Điện phân nóng chảy NaOH .
+2 .
+Điện phân dung dịch
+- Điều chế kim loại trung bình và yếu ( đứng sau Al ) .
+Cathode ( - ) Chất Anode ( + )
+Ion dương ( ion kim loại ) Ion dương , ion âm Ion âm ( acid anion )
+H2O H2O H2O
+K+ Ca2+ Na+ Mg2+ Al3+ Zn2+ Cr3+ Fe2+ Ni2+ Sn2+ Pb2+ H+ Cu2+ Fe3+ Hg2+ Ag+ Pt2+ Au3+
+K Ca Na Mg Al Zn Cr Fe Ni Sn Pb H2 Cu Fe2+ Hg Ag Pt Au
+- Một số phương trình điện phân dung dịch cần nhớ :
++ Điện phân dung dịch NaCl : 2NaCl + 2H2O 2NaOH + H2 + Cl2
+Nếu không có màng ngăn xốp giữa cathode với anode thì có phản ứng phụ
+2NaOH + Cl2 → NaCl + NaClO + H2O ( Nước Javel )
++ Điện phân dung dịch CuSO4 : 2CuSO4 + 2H2O 2Cu + 2H2SO4 + O2
++ Điện phân dung dịch AgNO3 : 4AgNO3 + 2H2O 4Ag + O2 + 4HNO3
++ Điện phân dung dịch CuCl2 : CuCl2 Cu + Cl2
+- Tổng hợp phương pháp điều chế của các kim loại :
+- Định luật Faraday :
+→ n chất thoát ra = → n e trao đổi =
+Trong đó :
++ m : khối lượng chất thoát ra ở điện cực
++ A : Khối lượng mol nguyên tử
++ n : Số e cho hoặc nhận
++ I : Cường độ dòng điện ( Ampere )
++ t : Thời gian điện phân ( Giây )
++ F : Hằng số điện phân = 96500
+- Mắc nối tiếp nhiều bình điện phân :
++ I1 = I2 = I3 = ...
++ t1 = t2 = t3 = ...
++ Q = It = const → điện lượng qua mỗi bình như nhau .
+→ Sự thu và nhường e ở mỗi điện cực cùng tên phải như nhau và các chất sinh ra ở các điện cực cùng tên phải tỉ lệ mol như nhau .
+VD : Mắc nối tiếp bình 1 chứa dd CuSO4 và bình 2 chứa dd AgNO3 .
+Ta có : Cathode bình 1 : Cu2+ + 2e → Cu
+Cathode bình 2 : 2Ag+ + 2e → Ag
+→ n Cu2+ = 1/2 nAg+
+Điện phân Pin điện Quá trình
+Anode Cực dương – Anh Cực âm Oxi hóa ( A thì O )
+Cathode Cực âm – Chị Cực dương Khử
+Sơ đồ điện phân Sơ đồ điện phân
+NaCl → Na+ + Cl- NaCl → Na+ + Cl-
+Cathode ( - ) Chất oxi hóa : Na+ Anode ( + ) Chất khử : Cl-
+Quá trình khử Na+ + 1e → Na Quá trình oxi hóa 2Cl- → Cl2 + 2e
+Phương trình điện phân Phương trình điện phân
+2NaCl → 2Na+ + 2Cl- 2Na+ + 2e → 2Na 2Cl- → Cl2 + 2e 2NaCl → 2Na+ + 2Cl- 2Na+ + 2e → 2Na 2Cl- → Cl2 + 2e
+2NaCl 2Na + Cl2 2NaCl 2Na + Cl2
+Sơ đồ điện phân Sơ đồ điện phân
+Al2O3 → 2Al3+ + 3O2- Al2O3 → 2Al3+ + 3O2-
+Cathode ( - ) Chất oxi hóa : Al3+ Anode ( + ) Chất khử : O2-
+Quá trình khử Al3+ + 3e → Al Quá trình oxi hóa 2O2- → O2 + 4e
+Phương trình điện phân Phương trình điện phân
+2Al2O3 → 4Al3+ + 6O2- 4Al3+ + 12e → 4Al 6O2- → 3O2 + 12e 2Al2O3 → 4Al3+ + 6O2- 4Al3+ + 12e → 4Al 6O2- → 3O2 + 12e
+2Al2O3 4Al + 3O2 2Al2O3 4Al + 3O2
+Sơ đồ điện phân Sơ đồ điện phân
+NaOH → Na+ + OH- NaOH → Na+ + OH-
+Cathode ( - ) Chất oxi hóa : Na+ Anode ( + ) Chất khử : OH-
+Quá trình khử Na+ + 1e → Na Quá trình oxi hóa 4OH- → O2 + 4e + 2H2O
+Phương trình điện phân Phương trình điện phân
+4NaCl → 4Na+ + 4OH- 4Na+ + 4e → 4Na 4OH- → O2 + 4e + 2H2O 4NaCl → 4Na+ + 4OH- 4Na+ + 4e → 4Na 4OH- → O2 + 4e + 2H2O
+4NaOH 4Na + O2 + 2H2O 4NaOH 4Na + O2 + 2H2O
+Quá trình khử Quá trình oxi hóa
+Ion kim loại từ Li+  Al3+ : không bị điện phân Anion SO42- , NO3- , CO , PO : không bị điện phân
+Thứ tự cation : ion có tính oxi hóa mạnh bị điện phân trước : Mn+ + ne → M Thứ tự anion : S2- > I- > Br- > Cl- > RCOO- > OH- > H2O S2- → S + 2e 2X- → X2 + 2e ( X = Cl , Br , I ) 4OH- + 4e → O2 + 2H2O
+Sau đó đến H2O bị điện phân : 2H2O + 2e H2 + 2OH- ( pH > 7 ) Sau đó đến H2O bị điện phân : 2H2O → O2 + 4e + 4H+ ( pH < 7 )
+Li K Ba Ca Na Mg Al Mn Zn Cr Fe Ni Sn Pb Cu Hg Ag Pt Au
+Thủy luyện Thủy luyện Thủy luyện Thủy luyện Thủy luyện
+Nhiệt luyện Nhiệt luyện Nhiệt luyện Nhiệt luyện Nhiệt luyện Nhiệt luyện Nhiệt luyện Nhiệt luyện Nhiệt luyện Nhiệt luyện Nhiệt luyện Nhiệt luyện
+Điện phân nóng chảy Điện phân nóng chảy Điện phân nóng chảy Điện phân nóng chảy Điện phân nóng chảy Điện phân nóng chảy Điện phân nóng chảy Điện phân dung dịch Điện phân dung dịch Điện phân dung dịch Điện phân dung dịch Điện phân dung dịch Điện phân dung dịch Điện phân dung dịch Điện phân dung dịch Điện phân dung dịch Điện phân dung dịch Điện phân dung dịch Điện phân dung dịch
+LÝ THUYẾT CHỦ ĐỀ 8 : SƠ LƯỢC VỀ KIM LOẠI CHUYỂN TIẾP DÃY THỨ NHẤT VÀ PHỨC CHẤT
+A. SƠ LƯỢC VỀ KIM LOẠI CHUYỂN TIẾP DÃY THỨ NHẤT
+I. KHÁI QUÁT
+- Cấu hình e của nguyên tử :
+- Cấu hình e của ion :
+- Cation kim loại chuyển tiếp dãy thứ nhất thường có màu đặc trưng :
+- Chuẩn độ Fe2+ bằng KMnO4 : màu tím biến mất khi nhỏ vào dung dịch Fe2+/H+ , khi Fe2+ hết , giọt MnO4- dư sẽ làm dung dịch hóa màu tím nhạt → dừng chuẩn độ .
+10FeSO4 + 2KMnO4 + 8H2SO4 → 5Fe2 ( SO4 ) 3 + K2SO4 + 2MnSO4 + 8H2O
+- Nhận biết Cu2+ , Fe3+ bằng dung dịch base :
+CuSO4 + 2NaOH → Cu ( OH ) 2 ↓ xanh lam + Na2SO4
+FeCl3 + 3NaOH → Fe ( OH ) 3 ↓ nâu đỏ + 3NaCl
+II .
+TÍNH CHẤT VẬT LÍ VÀ ỨNG DỤNG
+1 .
+Tính chất vật lí
+- Khối lượng riêng , độ cứng , to nóng chảy cao và đều cao hơn K , Ca .
+- Độ dẫn điện thấp hơn K và Ca ( trừ Cu ) .
+2 .
+Ứng dụng
+B. SƠ LƯỢC VỀ PHỨC CHẤT
+I. KHÁI NIỆM
+1 .
+Khái niệm
+- Phức chất được tạo thành từ các ion kim loại kết hợp với các ion hoặc phân tử khác .
+Phức chất có thể mang điện hoặc không mang điện .
+VD : [ Fe ( OH2 ) 6 ] 2+ , [ Co ( CN ) 6 ] 3- , [ PtCl2 ( NH3 ) 2 ] , ...
+- Liên kết giữa nguyên tử trung tâm và phối tử là liên kết cho nhận .
+- Một phân tử phức chất bao gồm 2 phần : cầu nội và cầu ngoại .
++ Cầu nội gồm có nguyên tử trung tâm và phối tử .
+Số phối tử trong cầu nội gọi là số phối trí .
+Nguyên tử trung tâm : có thể là cation hay nguyên tử có orbital trống đã nhận cặp e chưa liên kết của phối tử .
+Cầu nội của phức chất có thể là cation : [ Al ( H2O ) 6 ] Cl3 , [ Zn ( NH3 ) 4 ] Cl2 , …
+Cầu nội của phức chất có thể là anion : H2 [ SiF6 ] , K2 [ Zn ( OH ) 4 ] , ...
+Cầu nội của phức chất có thể là phân tử trung hoà về điện , không phân li trong dung dịch : [ Co ( NH3 ) 3Cl3 ] , [ Ni ( CO ) 4 ] , ...
+Phối tử là các phân tử hoặc anion đã cho cặp e chưa liên kết .
+Phối tử có thể là anion : F- , Cl- , I- , OH- , CN- , SCN- , NO2- , S2O32- , EDTA , … .
+Phối tử có thể là phân tử : H2O , NH3 , CO , NO , pyridine , ethylenediamine , … .
+Dựa vào số phối trí mà một phối tử có thể tạo thành xung quanh nguyên tử trung tâm mà có thể chia phối tử thành phối tử một càng và phối tử nhiều càng : Phối tử một càng chỉ có thể tạo một liên kết phối trí với nguyên tử trung tâm : H2O , NH3 , … ; Phối tử hai càng , ba càng , … là phối tử có thể tạo hai , ba , … liên kết phối trí với nguyên tử trung tâm : H2N-CH2-CH2-NH2 , ...
+Cách viết công thức của cầu nội :
+Công thức được đặt trong dấu ngoặc vuông
+Thứ tự : Nguyên tử trung tâm + Phối tử anion + Phối tử trung hòa
+Nếu cầu nội có nhiều phối tử trung hòa , sắp xếp các phối tử theo thứ tự chữ cái trong CÔNG THỨC .
+Điều này làm tương tự đối với phối tử anion .
+Phối tử viết tắt ( như en , dien ) hoặc phối tử gồm nhiều nguyên tử được đặt trong dấu ngoặc đơn
++ Cầu ngoại là phần ion đối nằm ngoài liên kết với cầu nội .
+VD : Khi viết công thức phức chất , nên hướng nguyên tử cho cặp e hóa trị trong phối tử về phía nguyên tử trung tâm .
+Fe2+ + 6H2O [ Fe ( OH2 ) 6 ] 2+
+II .
+DẠNG HÌNH HỌC
+C. SƠ LƯỢC VỀ SỰ HÌNH THÀNH PHỨC CHẤT CỦA ION KIM LOẠI CHUYỂN TIẾP TRONG DUNG DỊCH
+I. PHỨC CHẤT AQUA
+- Sự hình thành phức chất khi muối của các kim loại chuyển tiếp tan trong nước :
++ Điện li : MXn → Mn+ + nX-
++ tạo phức chất aqua : Mn+ ( aq ) + mH2O ( l ) → [ M ( OH2 ) m ] n+ ( aq )
+n : điện tích của cation kim loại M
+m : số phối tử H2O
+[ M ( OH2 ) m ] n+ là công thức tổng quát của phức chất aqua
+VD :
+Cu2+ ( aq ) + 6H2O ( l ) → [ Cu ( OH2 ) 6 ] 2+ ( aq )
+Fe3+ ( aq ) + 6H2O ( l ) → [ Fe ( OH2 ) 6 ] 3+ ( aq )
+II .
+DẤU HIỆU PHẢN ỨNG TẠO PHỨC CHẤT
+- Dấu hiệu : sự biến đổi màu sắc ( phổ biến nhất ) , sự hòa tan , sự kết tủa .
+VD :
+III .
+PHẢN ỨNG THAY THẾ PHỐI TỬ
+- OH- và Cl- thay thế H2O :
+[ Cr ( OH2 ) 6 ] 3+ ( aq ) + 6OH– ( aq ) → [ Cr ( OH ) 6 ] 3+ ( aq ) + 6H2O ( l )
+[ Cu ( OH2 ) 6 ] 2+ ( aq ) + 4Cl– ( aq ) [ CuCl4 ] 2– ( aq ) + 6H2O ( l )
+- NH3 thay thế H2O , Cl- :
+[ Ni ( OH2 ) 6 ] 2+ ( aq ) + 6NH3 ( aq ) → [ Ni ( NH3 ) 6 ] 2+ ( aq ) + 6H2O ( l )
+[ PtCl4 ] 2– ( aq ) + 2NH3 ( aq ) → [ PtCl2 ( NH3 ) 2 ] ( s ) + 2Cl– ( aq )
+IV .
+ỨNG DỤNG
+D. KIẾN THỨC BỔ SUNG – IRON ( SẮT )
+I .
+IRON ( SẮT )
+1 .
+Vị trí , tính chất vật lí
+- Fe ( Z = 26 , M = 56 ) : 1s22s22p63s23p63d64s2 → Fe là nguyên tố d , có 2e ngoài cùng , 8e hoá trị , thuộc chu kì 4 , nhóm VIIIB
+- Fe là kim loại nặng , dễ rèn , màu trắng hơi xám , có tính dẫn điện , dẫn nhiệt tốt và có tính nhiễm từ ( khác với các kim loại khác ) .
+2 .
+Tính chất hoá học
+- Fe là kim loại có tính khử trung bình
+a. Tác dụng với phi kim
+Fe + S FeS
+3Fe + 2O2 Fe3O4
+Fe3O4 : oxide sắt từ , xem như hỗn hợp FeO.Fe2O3
+2Fe + 3Cl2 2FeCl3
+b. Tác dụng với acid
+- Acid loại 1 : H2SO4 loãng và HCl
+Fe + 2HCl FeCl2 + H2
+Fe + H2SO4 loãng FeSO4 + H2
+Phương trình chung tác dụng acid loại 1 : Fe + 2H+ Fe2+ + H2
+- Acid loại 2 : H2SO4 đặc và HNO3
+Fe + 4HNO3 loãng Fe ( NO3 ) 3 + NO + 2H2O
+Fe + 6HNO3 đặc Fe ( NO3 ) 3 + 3NO2 + 3H2O
+2Fe + 6H2SO4 đặc Fe2 ( SO4 ) 3 + 3SO2 + 6H2O
+Phương trình chung tác dụng acid loại 2 : Fe + acid loại 2 → Fe3+ + sản phẩm khử + H2O - Lưu ý :
++ Fe thụ động trong HNO3 đặc nguội và H2SO4 đặc nguội ( Al , Fe , Cr )
++ Đối với phản ứng Fe dư thì Fe + 2Fe3+ → 3Fe2+
+c. Tác dụng với dung dịch muối
+Fe + 2AgNO3 Fe ( NO3 ) 2 + 2Ag
+Fe + CuSO4 FeSO4 + Cu
+3 .
+Điều chế
+- Phương pháp điện phân :
+FeCl2 Fe + Cl2↑
+2FeSO4 + 2H2O 2Fe + O2↑+ 2H2SO4
+- Phương pháp thuỷ luyện :
+FeSO4 + Mg Fe + MgSO4
+- Phương pháp nhiệt luyện ( thường dùng ) :
+FeO + H2 Fe + H2O
+Fe3O4 + 4CO Fe + 4CO2↑
+Fe2O3 + 2Al 2Fe + Al2O3 ( Phản ứng nhiệt nhôm )
+II .
+HỢP CHẤT CỦA SẮT
+1 .
+Hợp chất sắt ( II )
+FeO + 2HCl FeCl2 + H2O
+Fe ( OH ) 2 + H2SO4 FeSO4 + 2H2O
+3FeO + 10HNO3 3Fe ( NO3 ) 3 + NO + 5H2O
+4Fe ( OH ) 2 + O2 + 2H2O 4Fe ( OH ) 3
+2FeCl2 + Cl2 2FeCl3
+10FeSO4 + 2KMnO4 + 8H2SO4 5Fe2 ( SO4 ) 3 + 2MnSO4 + K2SO4 + 8H2O
+2 .
+Hợp chất sắt ( III )
+Fe2O3 + 6HCl 2FeCl3 + 3H2O
+2Fe ( OH ) 3 + 3H2SO4 Fe2 ( SO4 ) 3 + 6H2O
+2FeCl3 + Fe 3FeCl2
+2FeCl3 + Cu 2FeCl2 + CuCl2
+Fe2O3 + 2Al Al2O3 + 2Fe
+9Fe3O4 + 8Al 4Al2O3 + 9Fe
+Lưu ý : đối với Fe3O4
+Fe3O4 + 8HCl FeCl2 + 2FeCl3 + 4H2O
+Fe3O4 + 4H2SO4 FeSO4 + Fe2 ( SO4 ) 3 + 4H2O
+3Fe3O4 + 28HNO3 9Fe ( NO3 ) 3 + NO + 14H2O3 .
+Một số quặng sắt
+Siderite : FeCO3
+Hematite đỏ : Fe2O3 khan
+Hematite nâu : Fe2O3.nH2O
+Pyrite : FeS2
+Magnetite : Fe3O4 ( giàu sắt nhất nhưng hiếm trong tự nhiên )
+4 .
+Hợp kim của sắt
+GANG : là hợp kim của Fe chứa từ 2 – 5 % carbon .
+Trong gang còn có một số tạp chất : Si , P , Mn , S. Gang cứng và giòn hơn sắt .
+- Phân loại : gang trắng và gang xám .
++ Gang xám : chứa nhiều C và S , ít cứng và kém giòn hơn gang trắng , dùng chế tạo máy , ống dẫn nước .
+Gang xám dùng để đúc bệ máy , ống dẫn nước , …
++ Gang trắng : chứa ít C , rất ít Si , chứa nhiều cementite ( Fe3C ) , cứng và giòn , dùng luyện thép .
+Gang trắng dùng để luyện thép
+THÉP : hợp kim của sắt với carbon và một số nguyên tố khác , trong đó carbon chiếm 0,01-2 % .
+- Thép có nhiều tính chất lí , hóa quý hơn sắt .
+Thép được dùng làm vật liệu xây dựng , chế tạo máy , dụng cụ lao động…
+- Phân loại : thép thường và thép đặc biệt .
++ Thép thường : chứa rất ít S , P , dùng làm cốt thép ( trong bê tông ) .
++ Thép đặc biệt : chứa thêm các nguyên tố khác như Si , Mn , Cr , Ni , W , … có tính chất cơ học , vật lý rất tốt .
+Thép không gỉ hay inox ( 74 % Fe , 18 % Cr , 8 % Ni ) dùng chế tạo dụng cụ nhà bếp , dụng cụ y tế , …
+SẢN XUẤT GANG , THÉP
+MÀU CỦA SẮT VÀ HỢP CHẤT
+Fe : trắng xám
+FeO : đen
+Fe2O3 : đỏ
+Fe3O4 : nâu đen
+FeS : đen
+Fe ( OH ) 2 : lục nhạt
+Fe ( OH ) 3 : nâu đỏ
+FeCl2 : tan trong nước tạo dung dịch lục nhạt
+FeCl3 : tan trong nước tạo dung dịch vàng nâu
+III .
+MỘT SỐ PHẢN ỨNG CẦN LƯU Ý
+1 .
+Sắt bị oxi hóa thành hỗn hợp muối Fe ( II ) và Fe ( III )
+- Do sắt có số oxi hóa là +2 và +3 trong hợp chất nên khi Fe tác dụng với chất oxi hóa , tùy thuộc vào tỉ lệ số mol của các chất tham gia phản ứng , có thể tạo thành hỗn hợp 2 loại muối sắt .
+a. Trường hợp Fe phản ứng với AgNO3
+VD : Cho 0,15 mol Fe vào dung dịch chứa 0,4 mol AgNO3
+Fe + 2AgNO3 → Fe ( NO3 ) 2 + 2Ag
+Fe ( NO3 ) 2 + AgNO3 → Fe ( NO3 ) 3 + Ag
+Phương trình ion :
+Fe + 2Ag+ → Fe2+ + 2Ag
+Fe2+ + Ag+ → Fe3+ + Ag
+b. Trường hợp Fe phản ứng với dung dịch HNO3
+VD : Cho x mol bột Fe tác dụng với dung dịch chứa y mol HNO3 .
+xác định tỉ lệ x/y để dung dịch thu được chứa 2 muối Fe ( NO3 ) 3 và Fe ( NO3 ) 2 .
+c. Trường hợp Fe , Cu phản ứng với dung dịch Fe3+
+Fe + 2Fe3+ → 3Fe2+
+Cu + 2Fe3+ → 2Fe2+ + Cu2+
+2 .
+Xác định công thức của oxide sắt
+- Đặt công thức của oxide sắt là FexOy .
+Các trường hợp thường gặp :
+3 .
+Các phản ứng chuyển đổi Fe ( II ) thành Fe ( III ) và ngược lại
+a. Fe ( II ) thành Fe ( III )
+- Các chất oxi hóa mạnh : Cl2 , Br2 , O2 , HNO3 , H2SO4 đặc , Ag+ , KMnO4 oxi hóa các hợp chất Fe ( II ) thành Fe ( III ) .
+2FeCl2 + Cl2 2FeCl3
+FeCl2 + 3AgNO3 dư Fe ( NO3 ) 3 + Ag + 2AgCl
+b. Fe ( III ) thành Fe ( II )
+- Các chất khử : Fe , Cu , CO , I- , H2S , [ H ] , Sn2+ có thể khử hợp chất Fe ( III ) thành Fe ( II )
+2Fe3+ + SO2 + 2H2O 2Fe2+ + + 4H+
+2FeCl3 + H2S 2FeCl2 + S + 2HCl
+2FeCl3 + 2HI 2FeCl2 + I2 + 2HCl
+c. Vài phản ứng tổng quát
+3FexOy + ( 12x-2y ) HNO3 3xFe ( NO3 ) 3 + ( 3x-2y ) NO + ( 6x-y ) H2O
+2FexOy + ( 6x-2y ) H2SO4 xFe2 ( SO4 ) 3 + ( 3x-2y ) SO2 + ( 6x-2y ) H2O
+( 5x-2y ) FeO + ( 16x-6y ) HNO3 ( 5x-2y ) Fe ( NO3 ) 3 + NxOy + ( 8x-3y ) H2O
+E. KIẾN THỨC BỔ SUNG – CHROMIUM
+PHẦN 1 : CHROMIUM
+I. VỊ TRÍ VÀ CẤU TẠO
+- Chromium ( Z = 24 ; M = 52 ) : 1s22s22p63s23p63d54s1 hay [ Ar ] 3d54s1 kim loại chuyển tiếp , thuộc nhóm VIB , chu kì 4 .
+- Số oxi hóa : +1 đến +6 .
+Các số oxi hóa phổ biến : +2 , +3 và +6 .
+- Chromium thể hiện hóa trị thấp là II , III có tính chất của kim loại , còn hóa trị VI có tính chất của phi kim
+- Mạng tinh thể : lập phương tâm khối .
+II .
+TÍNH CHẤT VẬT LÍ
+- Cr có màu trắng ánh bạc , rất cứng ( cứng nhất trong số các kim loại ) , khó nóng chảy ( 18900C ) .
+- Cr là kim loại nặng , có khối lượng riêng 7,2 g/cm3 .
+III .
+TÍNH CHẤT HÓA HỌC
+1 .
+Tác dụng với phi kim
+- Ở nhiệt độ cao , Cr tác dụng được với nhiều phi kim
+2 .
+Tác dụng với nước
+- Trong thực tế Cr không phản ứng với nước vì có màng oxide Cr2O3 bền bảo vệ .
+3 .
+Tác dụng với acid
+- Khi tác dụng với acid loại 1 ( H2SO4 loãng , HCl ) tạo ra muối Cr ( II ) :
+- Khi tác dụng với acid loại 2 ( H2SO4 đặc , HNO3 ) tạo ra muối Cr ( III ) :
+2Cr + 6H2SO4 ( đặc ) Cr2 ( SO4 ) 3 + 3SO2 + 6H2O
+Cr + 6HNO3 ( đặc ) Cr ( NO3 ) 3 + 3NO2 + 3H2O
+Cr + 4HNO3 ( loãng ) Cr ( NO3 ) 3 + NO + 2H2O
+- Cr không phản ứng với HNO3 đặc , nguội và H2SO4 đặc , nguội do bị thụ động .
+4 .
+Tác dụng với dung dịch muối
+- Cr đẩy kim loại yếu hơn ra khỏi dung dịch muối :
+Cr + 2AgNO3 → Cr ( NO3 ) 2 + 2Ag
+IV .
+ỨNG DỤNG
+- Thép chứa 2,8-3,8 % Cr có độ cứng cao , bền , có khả năng chống gỉ .
+- Thép chứa 18 % Cr là thép không gỉ ( thép inox ) .
+- Thép chứa 25-30 % Cr siêu cứng dù ở nhiệt độ cao .
+- Cr dùng để mạ thép .
+Thép mạ Cr bảo vệ kim loại khỏi bị ăn mòn và tạo vẻ đẹp cho đồ vật .
+V. SẢN XUẤT
+- Phương pháp nhiệt nhôm : Cr2O3 được tách ra từ quặng Chromite FeO.Cr2O3 .
+4FeCr2O4 + 8Na2CO3 + 7O2 → 8Na2CrO4 + 2Fe2O3 + 8CO2
+2Na2CrO4 + H2SO4 → Na2Cr2O7 + Na2SO4 + H2O
+Na2Cr2O7 + 2C → Cr2O3 + Na2CO3 + CO
+PHẦN 2 : HỢP CHẤT CỦA CHROMIUM
+I. HỢP CHẤT Cr ( II )
+1 .
+CrO
+- CrO là oxide base , màu đen
+- CrO có tính khử , trong không khí CrO dễ bị oxi hóa thành Cr2O3 .
+2 .
+Cr ( OH ) 2
+- Cr ( OH ) 2 là chất rắn , màu vàng .
+- Cr ( OH ) 2 có tính khử , trong không khí bị oxi hóa thành Cr ( OH ) 3
+- Cr ( OH ) 2 là một base .
+3 .
+Muối Cr ( II )
+- Muối Cr ( II ) có tính khử mạnh .
+II .
+HỢP CHẤT Cr ( III )
+1 .
+Cr2O3
+- Cr2O3 là oxide lưỡng tính , màu lục thẫm , tan trong acid đặc nóng và kiềm đặc nóng .
+- Cr2O3 được dùng tạo màu lục cho đồ sứ , đồ thủy tinh .
+2 .
+Cr ( OH ) 3
+- Cr ( OH ) 3 là hydroxide lưỡng tính , màu lục nhạt ( lục xám ) tan được trong dung dịch acid và dung dịch kiềm .
+- Cr ( OH ) 3 bị phân hủy bởi nhiệt khi đun nóng .
+2Cr ( OH ) 3 → Cr2O3 + 3H2O
+- Cho NaOH đến dư vào dung dịch CrCl3 , sau đó cho vào dung dịch thu được một ít tinh thể Na2O2
++ Ban dầu xuất hiện kết tủa keo màu xanh nhạt , lượng kết tủa tăng dần đến cực đại do phản ứng :
+CrCl3 + 3NaOH → Cr ( OH ) 3↓ + 3NaCl
++ Lượng kết tủa tan dần đến hết trong NaOH dư
+Cr ( OH ) 3 + NaOH → NaCrO2 + 2H2O
++ Cho tinh thể Na2O2 vào dung dịch thu được , thấy dung dịch xuất hiện màu vàng do tạo muối chromate
+2NaCrO2 + 3Na2O2 + 4H2O → 2Na2CrO4 + 4NaOH
+- Phản ứng của Cr ( OH ) 3 lần luợt với Na2O2 , H2O2 , Cl2 , Br2 , NaOCl , PbO2 , KMnO4 trong môi trường kiềm ( Cr3+ bị oxi hóa đến +6 ) .
+Cr ( OH ) 3 +3Na2O2 → 2Na2CrO4 + 2NaOH + 2H2O
+2Cr ( OH ) 3 + 3H2O2 + 4NaOH → 2Na2CrO4 + 8H2O
+2Cr ( OH ) 3 + 3Cl2 + 10NaOH → 2Na2CrO4 + 6NaCl + 8H2O
+2Cr ( OH ) 3 + 3Br2 + 10NaOH → 2Na2CrO4 + 6NaBr + 8H2O
+2 Cr ( OH ) 3 + 3NaOCl + 4NaOH → 2Na2CrO4 + 3NaCl + 5H2O
+2Cr ( OH ) 3 + 3PbO2 + 4NaOH → 2Na2CrO4 + 3PbO + 5H2O
+Cr ( OH ) 3 + 3KMnO4 + 5KOH → K2CrO4 + 3K2MnO4 + 4H2O
+3 .
+Muối Cr ( III )
+- Muối Cr ( III ) có tính khử và tính oxi hóa .
+CrCl3 màu tím , Cr2 ( SO4 ) 3 màu hồng .
+Chú ý : khi vào dung dịch , muối Cr ( III ) có màu tím-đỏ ở nhiệt độ thường và màu lục khi đun nóng .
+- Trong môi trường acid , muối Cr ( III ) có tính oxi hóa bị Zn khử thành muối Cr ( II )
+- Trong môi trường kiềm , muối Cr ( III ) có tính khử và bị chất oxi hóa mạnh oxi hóa thành Cr ( VI ) .
+Phương trình ion :
+- Phèn Cr-K : K2SO4.Cr2 ( SO4 ) 3.24H2O có màu xanh tím , được dùng để thuộc da , làm chất cầm màu trong ngành nhuộm vải .
+III .
+HỢP CHẤT Cr ( VI )
+1 .
+CrO3
+- CrO3 màu đỏ thẫm , là chất oxi hóa rất mạnh .
+Một số chất vô cơ và hữu cơ như S , P , C , NH3 , C2H5OH … bốc cháy khi tiếp xúc với CrO3 , CrO3 bị khử thành Cr2O3 .
+- CrO3 là oxide acid , khi tác dụng với nước tạo thành hỗn hợp chromic acid H2CrO4 và dichromic acid H2Cr2O7 .
+Hai acid này không thể tách ra ở dạng tự do , chỉ tồn tại trong dung dịch .
+Nếu tách ra khỏi dung dịch , chúng bị phân hủy thành CrO3 .
+2 .
+Muối chromate và dichromate
+- Ion chromate có màu vàng , ion dichromate có màu da cam .
++ Trong môi trường acid , chromate chuyển hóa thành dichromate ( vàng sang cam ) .
++ Trong môi trường kiềm dichromate chuyển hóa thành chromate ( cam sang vàng ) .
+Tổng quát :
+- Muối chromate và dichromate có tính oxi hóa mạnh , bị khử thành muối Cr ( III ) .
+- Muối ( NH4 ) 2Cr2O7 bị nhiệt phân theo phản ứng :
+MÀU CỦA Cr VÀ HỢP CHẤT
+Cr : trắng ánh bạc
+CrO : đen
+Cr2O3 : lục thẫm
+CrO3 : đỏ thẫm
+Cr ( OH ) 2 : vàng
+Cr ( OH ) 3 : lục xám
+CrCl2 : xanh lam
+CrCl3 : dạng khan có màu tím , dạng ngậm nước CrCl3.6H2O có màu xanh lục
+K2Cr2O7 : da cam
+K2CrO4 : vàng
+K2SO4.Cr2 ( SO4 ) 3.24H2O hay KCr ( SO4 ) 2.12H2O : xanh tím
+Z Kí hiệu Tên Cấu hình e Chu kì Nhóm Số oxi hóa phổ biến
+21 Sc Scandium 1s22s22p63s23p63d14s2 4 IIIB
+22 Ti Titanium 1s22s22p63s23p63d24s2 4 IVB
+23 V Vanadium 1s22s22p63s23p63d34s2 4 VB
+24 Cr Chromium 1s22s22p63s23p63d54s1 4 VIB +2 , +3 , +6
+25 Mn Manganese 1s22s22p63s23p63d54s2 4 VIIB +2 , +4 , +7
+26 Fe Iron 1s22s22p63s23p63d64s2 4 VIIIB +2 , +3
+27 Co Cobalt 1s22s22p63s23p63d74s2 4 VIIIB
+28 Ni Nickel 1s22s22p63s23p63d84s2 4 VIIIB
+29 Cu Copper 1s22s22p63s23p63d104s1 4 IB +2
+Ion Cấu hình e
+Cr2+ 1s22s22p63s23p63d4
+Cr3+ 1s22s22p63s23p63d3
+Fe2+ 1s22s22p63s23p63d6
+Fe3+ 1s22s22p63s23p63d5
+Cu2+ 1s22s22p63s23p63d9
+Ion Màu sắc Ion Màu sắc
+Ti3+ Tím MnO4- Tím
+Cr2+ Xanh lam Fe2+ Xanh lục olive
+Cr3+ Xanh lục thẫm Fe3+ Vàng nâu
+CrO42- Vàng Co2+ Hồng
+Cr2O72- Cam Ni2+ Xanh lục sáng
+Mn2+ Hồng nhạt Cu2+ Xanh lam
+Cu Độ cứng vừa phải , dẫn điện tốt → dây dẫn điện
+Cr Độ cứng cao , bền với các tác nhân ăn mòn → lớp bảo vệ cho dụng cụ , máy móc , ...
+Fe-Ti Hợp kim không gỉ và chịu được nhiệt độ cao
+Fe-Cr Hợp kim không gỉ và rất cứng
+Dạng hình học Phức chất Minh họa cấu trúc
+Bát diện [ CoF6 ] 3- , [ Co ( NH3 ) 6 ] 3+ , [ Co ( CN ) 6 ] 3- , [ Co ( OH2 ) 6 ] 3+ [ Fe ( OH2 ) 6 ] 2+ , [ Fe ( OH2 ) 6 ] 3+ [ Cu ( OH2 ) 6 ] 2+ [ Cr ( OH2 ) 6 ] 3+ [ Ti ( OH2 ) 6 ] 3+
+Tứ diện [ CoCl4 ] 2- [ Zn ( OH ) 4 ] 2-
+Vuông phẳng [ PtCl4 ] 2- [ PtCl2 ( NH3 ) 2 ]
+Số oxi hoá +2 Số oxi hoá +3
+Tính khử và oxi hóa Tính oxi hóa
+Oxide và hydroxide có tính base Oxide và hydroxide có tính base
+Sản xuất gang Sản xuất thép
+Nguyên liệu - Quặng sắt ( quặng Magnetite , quặng Hematite ) - Than cốc ( than đã được tinh chế ) - Không khí giàu oxygen - Một số chất phụ gia khác như đá vôi CaCO3 , ... - Gang trắng hoặc gang xám , sắt phế liệu - Chất chảy : CaO - Dầu mazut hoặc khí đốt - Khí oxygen
+Nguyên tắc Dùng CO để khử oxide sắt ( các quặng carbonate hay pyrite khi nung nóng có mặt O2 đều biến thành oxide ) Lấy ra khỏi gang phần lớn C , Si , Mn và hầu hết P , S thành oxide rồi biến thành xỉ và tách ra khỏi thép từ sự oxi hóa gang nóng chảy .
+Quá trình phản ứng - Phản ứng tạo thành khí CO : C + O2 CO2 C + CO2 2CO - Dùng CO khử quặng sắt ở phần thân lò , phần giữa thân lò + nhiệt độ khoảng 400oC 3Fe2O3 + CO 2Fe3O4 + CO2 + nhiệt độ 500-600oC Fe3O4 + CO 3FeO + CO2 + nhiệt độ 700-800oC FeO + CO Fe + CO2 Sắt nóng chảy hòa tan một ít carbon và một số nguyên tố khác tạo thành gang .
+- Phản ứng tạo xỉ : ở phần bụng lò , nhiệt độ khoảng 1000oC .
+Đá vôi bị phân hủy thành CaO , kết hợp với SiO2 có trong quặng tạo thành xỉ .
+CaCO3 CaO + CO2 CaO + SiO2 CaSiO3 - Xỉ nhẹ nổi lên trển và được đưa ra ở cửa tháo xỉ .
+Thổi oxi vào gang nóng chảy thì các tạp chất bị oxi hóa : - C và S chuyển thành khí CO2 , SO2 thoát khỏi gang : C + O2 CO2 S + O2 SO2 - Si và P chuyển thành acidic oxide là SiO2 và P2O5 khó bay hơi : Si + O2 SiO2 P + O2 P2O5 SiO2 , P2O5 sẽ tác dụng với CaO tạo CaSiO3 , Ca3 ( PO4 ) 2 .
+Các muối sinh ra dễ nóng chảy , nhẹ hơn thép lỏng , nổi lên trên , được tách ra 3CaO + P2O5 Ca3 ( PO4 ) 2 CaO + SiO2 CaSiO3
+FexOy FeO Fe2O3 Fe3O4
+x/y 1 2/3 3/4
+Hòa tan với H2SO4 ( l ) , HCl Chỉ tạo Fe2+ Chỉ tạo Fe3+ Tạo hỗn hợp Fe2+ và Fe3+
+LÝ THUYẾT CHỦ ĐỀ 3 : HỢP CHẤT CHỨA NITROGEN
+A. AMINE
+I. KHÁI NIỆM
+- Amine là hợp chất hữu cơ được tạo nên khi thay thế một hay nhiều nguyên tử H trong phân tử bằng gốc hydrocarbon .
+- Bậc amine :
+R – NH2 Amine bậc I
+R – NH – R ’ Amine bậc II
+Amine bậc III
+- Công thức amine :
++ Amine : CxHyNz ( x , y , z thuộc N * ; y ≤ 2x + 2 + z ; y chẵn nếu z chẵn ; y lẻ nếu z lẻ ) hoặc CnH2n+2-2k+tNt ( n thuộc N * ; k thuộc N ; t thuộc N * ) .
++ Amine đơn chức : CnH2n+3-2kN hay CxHyN , RN , ...
++ Amine bậc 1 : CnH2n+2-2k-t ( NH2 ) t
++ Amine bậc 1 , đơn chức : CnH2n+1-2kNH2
++ Amine no , đơn chức , mạch hở : CnH2n+3N ( n1 )
+* Độ bất bão hòa k = Số liên kết π + số vòng trong phân tử amine = ( 2x + 2 + t - y ) /2 .
+II .
+DANH PHÁP , ĐỒNG PHÂN
+- Cách gọi tên :
++ tên thường : C6H5NH2 ( aniline )
++ tên gốc – chức : tên gốc hydrocarbon + amine + tên thay thế : Tên của hydrocarbon tương ứng + vị trí nhóm chức + amine
+- Cấu tạo amine no , đơn chức , mạch hở từ C1 đến C4
+- Số lượng cấu tạo amine no , đơn chức , mạch hở
+- Số lượng cấu tạo amine 1 vòng thơm , đơn chức
+III .
+TÍNH CHẤT VẬT LÝ
+- Một số amine có khả năng tan tốt trong nước , do giữa amine và nước có liên kết hydrogen liên phân tử .
+Độ tan trong nước giảm khi số nguyên tử C tăng .
+- Amine thường có nhiệt độ sôi cao hơn hydrocarbon có cùng số C hoặc phân tử khối gần với chúng .
+- Methylamine , dimethylamine , trimethylamine và ethylamine là những chất khí có mùi khó chịu ( giống mùi tanh của cá ) , độc , dễ tan trong nước , các amine đồng đẳng cao hơn là chất lỏng hoặc rắn .
+- Aniline là chất lỏng , nhiệt độ sôi là 184oC , không màu , rất độc , ít tan trong nước , tan trong alcohol và benzene .
+IV .
+TÍNH CHẤT HÓA HỌC
+- Tính base :
++ dung dịch methylamine và nhiều đồng đẳng của nó có khả năng làm xanh giấy quỳ tím hoặc làm hồng phenolphthalein .
+Aniline có tính base rất yếu nên không làm đổi màu chỉ thị :
+CH3NH2 + H2O + OH-
+CH3NH2 + H2SO4 → CH3NH3HSO4
+2CH3NH2 + H2SO4 → ( CH3NH3 ) 2SO4
+CH3NH2 + CH3COOH → CH3NH3OOCCH3
+C6H5NH2 + HCl → C6H5NH3Cl ( muối phenylammonium chloride )
+Lưu ý : muối ammonium là muối tan → ban đầu aniline tách lớp với dung dịch HCl , sau khi lắc ( phản ứng ) thì dung dịch sẽ trở nên đồng nhất .
++ So sánh lực base :
+Gốc đẩy electron làm tăng tính base , gốc hút electron làm giảm tính base :
+C6H5NH2 < NH3 < CH3NH2 < C2H5NH2 < NaOH < C2H5ONa
+Amine có càng nhiều gốc đẩy e thì tính base càng mạnh , amine có càng nhiều gốc hút e thì tính base càng yếu :
+( C6H5 ) 3N < ( C6H5 ) 2NH < C6H5NH2 < NH3 < CH3NH2 < ( CH3 ) 2NH
+Amine no cùng số C nhưng khác bậc :
+Bậc III < Bậc I < Bậc II
+( CH3 ) 3N < CH3CH2CH2NH2 < CH3NHC2H5
++ Tác dụng một số muối :
+FeCl3 + 3C2H5NH2 + 3H2O → Fe ( OH ) 3↓ + 3C2H5NH3Cl
++ Tác dụng Cu ( OH ) 2 tạo phức :
+CuSO4 + 2C2H5NH2 + 2H2O → Cu ( OH ) 2↓ + ( C2H5NH3 ) 2SO4
+4C2H5NH2 + Cu ( OH ) 2 → [ Cu ( NH2C2H5 ) 4 ] ( OH ) 2
+- Tính khử khi tác dụng nitrous acid ( HNO2 tạo thành từ NaNO2 và HCl ) :
++ Alkylamine bậc một , nhiệt độ thường , tạo alcohol và khí nitrogen :
+C2H5NH2 + HONO → C2H5OH + N2 + H2O
++ Aniline , nhiệt độ thấp , tạo muối diazonium :
+C6H5NH2 + HONO + HCl [ C6H5N2 ] +Cl- + 2H2O
+- Phản ứng cháy :
++ Amine no , đơn chức , mạch hở :
++ Amine :
+- Phản ứng thế ở vòng thơm : Aniline tác dụng Br2/H2O
+2,4,6-tribromoaniline
+C6H5NH2 + 3Br2 C6H2Br3NH2 + 3HBr
+V. ĐIỀU CHẾ
+- Alkyl hóa ammonia :
+CH3Br + NH3 → CH3NH2 + HBr
+CH3Br + CH3NH2 → ( CH3 ) 2NH + HBr
+CH3Br + ( CH3 ) 2NH → ( CH3 ) 3N + HBr
+- Khử hợp chất nitro :
+C6H5NO2 + 6 [ H ] C6H5NH2 + 2H2O
+B. AMINO ACID
+I. KHÁI NIỆM
+- Amino acid là hợp chất hữu cơ tạp chức , phân tử chứa đồng thời nhóm amino ( -NH2 ) và nhóm carboxyl ( -COOH ) .
+- Quan trọng nhất là các α – amino acid ( các amino acid có nhóm NH2 gắn vào nguyên tử C số 2 ) .
+- Hầu hết các amino acid thiên nhiên đều là các α – amino acid .
+- Công thức chung :
++ Amino acid : R ( NH2 ) x ( COOH ) y hoặc CnH2n+2-2k-x-y ( NH2 ) x ( COOH ) y .
++ Amino acid có 1 nhóm NH2 và 1 nhóm COOH : R ( NH2 ) ( COOH )
++ Amino acid no , mạch hở có 1-NH2 và 1-COOH : CnH2n+1O2N ( n 2 )
+- Đồng phân :
++ Viết các đồng phân amino acid , no mạch hở , có 1 nhóm NH2 và 1 nhóm COOH từ C2 đến C4
++ Số cấu tạo amino acid no có 1 nhóm NH2 và 1 nhóm COOH ( CnH2n+1NO2 ) : ( n −1 ) !
+( n ≤ 3 )
+C2H5NO2 : 1 cấu tạo ( trong đó có 1 α – Aa )
+C3H7NO2 : 2 cấu tạo ( trong đó có 1 α – Aa )
+C4H9NO2 : 5 cấu tạo ( trong đó có 2 α – Aa )
+II .
+DANH PHÁP
+- Cách nhớ thứ tự các Aa :
+Gửi – Anh – Vài – Gánh – Lúa
+- Thứ tự các kí tự :
+alpha - beta – gamma – delta – epsilon - omega
+- Tác dụng lên chất chỉ thị màu của R ( NH2 ) x ( COOH ) y
++ Nếu x = y thì dung dịch amino acid có môi trường trung tính , quỳ tím không đổi màu + Nếu x > y thì dung dịch amino acid có môi trường base , quỳ tím hóa xanh + Nếu x < y thì dung dịch amino acid có môi trường acid , quỳ tím hóa đỏ
+III .
+TÍNH CHẤT VẬT LÝ
+- Amino acid là những chất rắn ở dạng tinh thể không màu , vị hơi ngọt , nhiệt độ nóng chảy cao , dễ tan trong nước
+- Amino acid tồn tại dạng ion lưỡng cực , dạng này cân bằng với dạng phân tử qua cân bằng sau :
+H2N-R-COOH H3N+-R-COO-
+IV .
+TÍNH CHẤT HÓA HỌC
+1 .
+Tính lưỡng tính và điện di
+- Tác dụng acid tạo muối
++ Phương trình :
+H2N-CH2-COOH + HCl → ClH3N-CH2-COOH
+H2N- [ CH2 ] 4-CH ( NH2 ) COOH + 2HCl → ClH3N- [ CH2 ] 4-CH ( NH3Cl ) COOH
++ Mở rộng :
+R ( NH2 ) x ( COOH ) y a mol HCl d mol
+NaOH b mol + Muối + H2O
+Ba ( OH ) 2 c mol H2SO4 e mol
+Phản ứng trung hòa nên ( 1 nhóm -NH2 xem như 1 OH- )
+ax + b + 2c = d + 2e
+m muối =
+- Tác dụng base tan ( NaOH ) tạo muối
++ Phương trình :
+H2N-CH2-COOH + NaOH → H2N-CH2-COONa + H2O
+HOOC- [ CH2 ] 2-CH ( NH2 ) COOH + 2NaOH → NaOOC- ( CH2 ) 2-CH ( NH2 ) COONa + 2H2O
++ Mở rộng :
+R ( NH2 ) x ( COOH ) y a mol NaOH d mol
+HCl b mol + Muối + H2O
+H2SO4 c mol Ba ( OH ) 2 e mol
+Phản ứng trung hòa nên
+ay + b + 2c = d + 2e
+m muối =
+- Tính điện di của amino acid : Ở pH thấp , Aa tồn tại chủ yếu dưới dạng cation .
+Ở pH cao , Aa tồn tại chủ yếu dưới dạng anion .
+pH thay đổi làm cho amino acid tích điện khác nhau → có khả năng dịch chuyển về các hướng khác nhau dưới tác dụng của điện trường .
+2 .
+Phản ứng ester hóa
+H2N-CH2-COOH + C2H5OH H2N-CH2-COOC2H5 + H2O
+H2N-CH2-COOC2H5 + HCl → ClH3N-CH2-COOC2H5
+3 .
+Phản ứng trùng ngưng
+- Các và - amino acid tham gia phản ứng trùng ngưng .
+nH2N- [ CH2 ] 5-COOH ( -HN- [ CH2 ] 5-CO- ) n + nH2O
+ε-aminocaproic acid nylon-6 ( polycaproamide )
+nH2N- [ CH2 ] 6-COOH ( -HN- [ CH2 ] 6-CO- ) n + nH2O
+ω-aminoenantoic acid nylon-7
+4 .
+Phản ứng cháy
+* Lưu ý
+1 .
+Amino acid thiên nhiên ( hầu hết là α-amino acid ) là cơ sở để kiến tạo nên các loại protein của cơ thể sống
+2 .
+Muối monosodium của glutamic acid được dùng làm mì chính ( hay bột ngọt )
+3 .
+Muối của amino acid
+- Có hai loại muối của amino acid thường gặp là muối của amino acid với acid vô cơ dạng ClNH3-R-COOH và NH2-R-COONa trong đó ClNH3-R-COOH có tính acid còn NH2-R-COONa có tính base .
+Ngoài ra hiếm gặp hơn là muối dạng RCOONH3-R'-COOH có tính lưỡng tính .
+NH2-R-COONa + 2HCl → NH3Cl-R-COOH + NaCl
+NH3Cl-R-COOH + 2NaOH → NH2-R-COONa + NaCl + H2O
+4 .
+Ester của amino acid
+- Ester của amino acid có dạng NH2-R-COOR ' vừa có thể phản ứng trong môi trường acid vừa phản ứng trong môi trường base nhưng đây không phải là chất lưỡng tính :
+NH2-R-COOR ' + HCl → NH3Cl-R-COOR '
+NH2-R-COOR ' + NaOH → NH2-R-COONa + R'OH
+C. PEPTIDE , PROTEIN VÀ ENZYME
+I. KHÁI NIỆM
+- Peptide là hợp chất chứa từ 2 đến 50 gốc α-amino acid liên kết với nhau bởi các liên kết peptide .
++ Oligopeptide gồm các peptide có từ 2 đến 10 gốc α-amino acid .
+Ví dụ nếu có hai gốc thì gọi là dipeptide , ba gốc thì gọi là tripeptide ( các gốc có thể giống hoặc khác nhau ) .
++ Polypeptide gồm các peptide có từ 11 đến 50 gốc α-amino acid .
+Polypeptide là cơ sở tạo nên protein .
++ Số peptide ( có k mắc xích ) tạo thành từ n α-amino acid khác nhau : nk
++ Nếu phân tử peptide chứa k gốc α-amino acid khác nhau thì số đồng phân loại peptide là k !
++ Nếu trong phân tử peptide có i cặp gốc α-amino acid giống nhau thì số đồng phân chỉ còn
+- Protein là loại polypeptide cao phân tử ( > 50 gốc α-amino acid ) có phân tử khối từ vài chục nghìn đến vài triệu , được tạo thành từ một hay nhiều chuỗi polypeptide .
+Gồm hai loại protein đơn giản và protein phức tạp :
++ Protein đơn giản chỉ gồm các chuỗi polypeptide .
++ Protein phức tạp ngoài các chuỗi polypeptide còn có thành phần phi protein khác như phosphoric acid , carbohydrate…
+- Enzyme là những chất hầu hết có bản chất protein , có khả năng xúc tác cho các quá trình hóa học và sinh hóa .
+II .
+DANH PHÁP
+- Liên kết –CO-NH- giữa 2 đơn vị -amino acid gọi là liên kết peptide .
+- Tên của peptide được gọi bằng cách ghép tên các gốc acyl bắt đầu từ amino acid đầu N còn tên amino acid đầu C được giữ nguyên vẹn .
+VD : H2N – CH ( CH3 ) – CO – HN – CH2 – CO – NH – CH ( CH3 ) – COOH tripeptide alanylglyxylalanine
+III .
+TÍNH CHẤT VẬT LÝ
+- Peptide : thường ở thể rắn , có nhiệt độ nóng chảy cao và dễ tan trong nước
+- Protein :
++ không tan như keratin ( tóc , móng , sừng… ) , myosin ( trong cơ ) , fibroin ( hình sợi , trong tơ nhện , tơ tằm ) ;
++ tan như albumin ( hình cầu , trong lòng trắng trứng ) , hemoglobin ( hình cầu , trong máu ) tạo dung dịch keo .
+IV .
+TÍNH CHẤT HÓA HỌC
+- Sự đông tụ protein : khi đun nóng hoặc dưới tác dụng của dung dịch acid , base , hoặc một số muối thì protein sẽ đông tụ tách ra khỏi dung dịch ( lòng trắng trứng , cua )
+- Peptide và protein thủy phân khi đun nóng trong môi trường acid hoặc base .
++ Thủy phân không hoàn toàn tạo chuỗi peptide ngắn hơn
++ Thủy phân hoàn toàn tạo các α-Aa .
+- Khi nhỏ dung dịch HNO3 vào protein thì Aa chứa vòng benzene trong protein tham gia phản ứng để tạo kết tủa vàng , đồng thời protein bị đông tụ .
+- Tripeptide trở lên ( 2 liên kết peptide trở lên ) có phản ứng màu biuret với Cu ( OH ) 2 tạo hợp chất màu tím đặc trưng → Amino acid và dipeptide không có phản ứng này .
+Hợp chất Tên gốc - chức Tên thay thế
+CH3NH2 Methylamine Methanamine
+C2H5NH2 Ethylamine Ethanamine
+( CH3 ) 2NH Dimethylamine N-methylmethanamine
+CH3CH2CH2NH2 Propylamine Propan-1-amine
+CH3CH ( NH2 ) CH3 Isopropylamine Propan-2-amine
+C6H5NH2 Phenylamine Benzenamine
+C6H5NHCH3 Methylphenylamine N-methylbenzenamine
+C2H5NHCH3 Ethylmethylamine N-methylethanamine
+H2N ( CH2 ) 6NH2 Hexamethylenediamine Hexane-1,6-diamine
+CTPT Bậc 1 Bậc 2 Bậc 3
+CH5N CH3NH2 - -
+C2H7N C2H5NH2 CH3-NH-CH3 -
+C3H9N CH3CH2CH2NH2 ( CH3 ) 2CH-NH2 CH3-NH-C2H5 ( CH3 ) 3N
+C4H11N CH3CH2CH2CH2NH2 CH3-CH ( CH3 ) -CH2NH2 CH3-CH2-CH ( CH3 ) -NH2 ( CH3 ) 3C-NH2 C2H5-NH-C2H5 CH3-NH-CH2CH2CH3 CH3-NH-CH ( CH3 ) 2 ( CH3 ) 2N-C2H5
+CTPT Bậc 1 Bậc 2 Bậc 3 Tổng ( 2n-1 ; n ≤ 4 ) Phân tử khối
+CH5N 1 0 0 1 31
+C2H7N 1 1 0 2 45
+C3H9N 2 1 1 4 59
+C4H11N 4 3 1 8 73
+C5H13N 8 6 3 17 87
+CTPT Bậc 1 Bậc 2 Bậc 3 Tổng
+C6H7N 1 C6H5NH2 0 0 1
+C7H9N 4 C6H5CH2NH2 o-CH3-C6H4-NH2 m-CH3-C6H4-NH2 p-CH3-C6H4-NH2 1 C6H5NHCH3 0 5
+Cách viết - Tính số C còn lại khi đã tách NH2 và COOH - Viết tất cả mạch C có thể có dựa vào số C đó - Gắn nhóm -COOH ở tất cả các vị trí có thể có - Gắn nhóm -NH2 ở tất cả các vị trí có thể có trong bước 3 - Bổ sung H .
+C2H5NO2 H2N-CH2-COOH
+C3H7NO2 H2N-CH2-CH2-COOH CH3-CH ( NH2 ) -COOH
+C4H9NO2 H2N-CH2-CH2-CH2-COOH CH3-CH ( NH2 ) -CH2-COOH CH3-CH2-CH ( NH2 ) -COOH H2N-CH2-CH ( CH3 ) -COOH CH3-C ( CH3 ) ( NH2 ) -COOH
+Công thức Tên thường ( Viết tắt ) M Quỳ tím Tên bán hệ thống Tên thay thế
+H2N-CH2-COOH Glycine ( Gly ) 75 Không đổi màu Aminoacetic acid Aminoethanoic acid
+Alanine ( Ala ) 89 Không đổi màu α-aminopropionic acid 2-aminopropanoic acid
+Valine ( Val ) 117 Không đổi màu α-aminoisovaleric acid 2-amino-3-methylbutanoic acid
+Glutamic acid ( Glu ) 147 Hóa đỏ α-aminoglutaric acid 2-aminopentane-1,5-dioic acid
+Lysine ( Lys ) 146 Hóa xanh α , ε-diaminocaproic acid 2,6-diaminohexanoic acid
+LÝ THUYẾT CHỦ ĐỀ 6 : ĐẠI CƯƠNG KIM LOẠI
+A. CẤU TẠO VÀ TÍNH CHẤT VẬT LÍ CỦA KIM LOẠI
+I. VỊ TRÍ
+- Vị trí kim loại :
++ Nhóm IA ( trừ H ) , IIA , IIIA ( trừ B ) , một phần nhóm IVA , VA , VIA .
++ Các nhóm B ( IB → VIIIB ) : kim loại chuyển tiếp .
++ Họ Lanthanum và Actinium ( 2 hàng cuối bảng hệ thống tuần hoàn )
+- Cách nhớ :
+IA : Li Na K Rb Cs Fr
+Lâu Nay Không Rảnh Coi Phim
+IIA : Be Mg Ca Sr Ba Ra
+Bé Mang Cây Súng Bắn Rắn
+- Cấu hình electron :
++ Thứ tự mức năng lượng :
+1s 2s 2p 3s 3p 4s 3d 4p 5s
+Sáng Sớm Pha Sữa Pha Sữa Đi Pha Sữa
++ Cấu hình electron : ( Số e tối đa : s2 , p6 , d10 , f14 )
+- Mối quan hệ giữa cấu hình e và vị trí trong BTH
++ Số hiệu ( Z = số e = số p ) ↔ Số thứ tự ô
++ Số lớp ↔ Chu kỳ
++ Số e lớp ngoài cùng ↔ Số thứ tự nhóm ( nhóm chính ) ↔ Hóa trị cao nhất với oxygen
+- Mối quan hệ cấu hình e của ion và Z
++ Cation : Znguyên tử = eion + điện tích
++ Anion : Znguyên tử = eion – điện tich
+II .
+CẤU TẠO KIM LOẠI
+1 .
+Cấu tạo nguyên tử
+- Nguyên tử kim loại có ít e lớp ngoài cùng ( 1 → 3e ) .
+- Bán kính kim loại thường nhỏ hơn so với phi kim cùng chu kì .
+→ Các e hóa trị ở lớp vỏ ngoài cùng của kim loại chịu lực hút yếu từ hạt nhân .
+2 .
+Cấu tạo tinh thể kim loại
+- Ở điều kiện thường , hầu hết kim loại ở thể rắn và có cấu tạo tinh thể trừ Mecury ( Thủy ngân , Hg , lỏng ) .
+- Lực hút của hạt nhân yếu → e dễ tách khỏi nguyên tử → tạo e hóa trị tự do và cation kim loại → tinh thể gồm các cation sắp xếp theo trật tự nhất định và các e hóa trị chuyển động tự do .
+3 .
+Liên kết kim loại
+- Là lực hút tĩnh điện giữa ion kim loại và electron tự do .
+III .
+TÍNH CHẤT VẬT LÍ
+- Kim loại có những tính chất vật lí chung :
++ Tính dẻo - Tính dẫn điện - Tính dẫn nhiệt - Ánh kim .
++ Nguyên nhân : gây nên bởi sự có mặt của các electron tự do trong mạng tinh thể kim loại .
+- Thứ tự :
++ độ dẫn điện ( giảm dần ) : Ag > Cu > Au > Al > Fe > Cr .
+Nhiệt độ càng cao → độ dẫn điện giảm ( do ion dương cản trở dòng e ) .
++ độ dẫn nhiệt ( giảm dần ) : Ag > Cu > Al > Fe .
++ tính dẻo ( giảm dần ) : Au > Ag > Al > Cu > Sn > Fe .
+- Kim loại :
++ cứng nhất : Chromium ( Cr )
++ mềm nhất : Caesium ( Cs )
++ nhẹ nhất : Lithium ( Li )
++ nặng nhất : Osmium ( Os )
++ nhiệt độ nóng chảy cao nhất : Tungsten ( W )
++ nhiệt độ nóng chảy thấp nhất : Mercury ( Thủy ngân , Hg , thể lỏng )
++ dẫn điện tốt nhất : Silver ( Bạc , Ag )
++ dẻo nhất : Gold ( Vàng , Au )
+- Ứng dụng :
+B. TÍNH CHẤT HÓA HỌC CỦA KIM LOẠI
+- Nguyên nhân : Ít e lớp ngoài cùng + Bán kính lớn + Lực liên kết hạt nhân yếu .
+M → Mn+ + ne
+- Tính chất hóa học chung của kim loại là tính khử ( dễ bị oxi hóa )
+Tính khử = Nhường e = Bị oxi hóa = số oxi hóa tăng
+( Khử cho , tăng –– O nhận , giảm )
+I. TÁC DỤNG VỚI PHI KIM
+2Fe + 3Cl2 2FeCl3
+Cu + Cl2 CuCl2
+Hầu hết kim loại tác dụng với Cl2 trừ Au , Pt
+4Al + 3O2 2Al2O3
+3Fe + 2O2 Fe3O4 ( oxide sắt từ hay Fe ( II , III ) oxide )
+Đa số kim loại tác dụng với O2 trừ Ag , Au , Pt
+Fe + S FeS
+Hg + S → HgS ( to thường , xử lý thủy ngân khi rơi vãi )
+II .
+TÁC DỤNG VỚI NƯỚC
+- Môi trường trung tính :
+→ Cặp oxi hóa khử Mn+/M có Eo < -0,413 V thì kim loại M có thể tác dụng H2O ở to thường .
++ Các kim loại IA và IIA ( trừ Be ) phản ứng được với nước ở to thường tạo base và khí H2 .
++ Mg phản ứng rất chậm ở to thường , phản ứng nhanh hơn khi đun nóng .
++ Các kim loại còn lại không tác dụng nước ở bất kì to nào .
+M + nH2O M ( OH ) n + H2
+2Na + 2H2O 2NaOH + H2
+Ca + 2H2O Ca ( OH ) 2 + H2
++ Cách nhớ : Lí Nano Bán Kim Cương Sỉ ( Li , Na , Ba , K , Ca , Sr )
+III .
+TÁC DỤNG VỚI DUNG DỊCH MUỐI
+- Kim loại mạnh hơn khử ion của kim loại yếu hơn trong dung dịch muối thành kim loại tự do ( Kim loại không tan trong nước và có Eo nhỏ hơn thường tác dụng được với dd muối của kim loại có Eo lớn hơn ) .
+Fe + CuSO4 FeSO4 + Cu
+Cu + 2AgNO3 Cu ( NO3 ) 2 + 2Ag
+- Lưu ý :
++ Cho Na vào dung dịch CuSO4 , các phản ứng xảy ra :
+2Na + 2H2O 2NaOH + H2
+CuSO4 + 2NaOH Cu ( OH ) 2↓ + Na2SO4
++ Hiện tượng : Na tan dần , có khí không màu thoát ra , xuất hiện kết tủa màu xanh lam .
+→ Các kim loại mạnh tác dụng nước sẽ không thể đẩy kim loại yếu hơn ra khỏi muối
+IV .
+TÁC DỤNG VỚI DUNG DỊCH ACID
+1 .
+Dung dịch acid H2SO4 loãng , HCl ( acid loại 1 )
+- Kim loại đứng trước H có phản ứng tạo sản phẩm muối và khí H2 ( Kim loại có Eo < = 0 có thể khử được H+ trong dung dịch H2SO4 loãng và HCl ) .
+Fe + 2HCl FeCl2 + H2
+2 .
+Dung dịch H2SO4 đặc , HNO3 ( acid loại 2 )
+- Hầu hết kim loại phản ứng ( trừ Au , Pt ) tạo sản phẩm muối + sản phẩm khử + nước .
+0 +5 +2 +2
+3Cu + 8HNO3 ( loãng ) 3Cu ( NO3 ) 2 + 2NO + 4H2O
+2 3 ( tỉ lệ tối giản )
+Fe + 4HNO3 ( loãng ) Fe ( NO3 ) 3 + NO ↑ + 2H2O
+Cu + 2H2SO4 ( đặc ) CuSO4 + SO2 ↑ + 2H2O
+- Lưu ý : Al , Fe , Cr không phản ứng với HNO3 đặc nguội và H2SO4 đặc nguội do bị thụ động hoá .
+C. TÁCH KIM LOẠI VÀ TÁI CHẾ KIM LOẠI
+I. TRẠNG THÁI TỰ NHIÊN
+- Kim loại tồn tại trong : Vỏ trái đất ; Nước mặt , nước ngầm ; Cơ thể sinh vật .
+- Al , Fe là các kim loại có hàm lượng cao trong vỏ trái đất .
+II .
+PHƯƠNG TÁCH TÁCH KIM LOẠI
+- Khử ion kim loại thành nguyên tử .
+Mn+ + ne → M
+1 .
+Phương pháp nhiệt luyện
+- Dùng để điều chế những kim loại trung bình và yếu sau Al như Zn , Fe , Sn , Pb , Cu , Ag , Hg .
+- Nguyên tắc : Dùng các chất khử mạnh như : C , CO , H2 , Al để khử các ion kim loại trong oxide ở nhiệt độ cao .
+VD : PbO ( s ) + H2 ( g ) Pb ( l ) + H2O ( g )
+ZnO ( s ) + C ( s ) Zn ( l ) + CO ( g )
+Fe2O3 ( s ) + 3CO ( g ) 2Fe ( l ) + 3CO2 ( g )
+Fe2O3 ( s ) + 2Al ( s ) 2Fe ( l ) + Al2O3 ( l ) ( Phản ứng nhiệt nhôm ) Hàn đường ray xe lửa
+2 .
+Phương pháp thủy luyện
+- Dùng để điều chế những kim loại yếu ( Cu , Ag , Hg … )
+- Nguyên tắc : Dùng kim loại có tính khử mạnh hơn để khử ion kim loại yếu hơn trong dung dịch muối
+VD : Fe + CuSO4 → Cu + FeSO4
+3 .
+Phương pháp điện phân
+- Dùng để điều chế những kim loại mạnh ( IA , IIA , Al ) từ các hợp chất ở trạng thái nóng chảy .
+2NaCl ( l ) 2Na ( l ) + Cl2 ( g )
+MgCl2 ( l ) Mg ( l ) + Cl2 ( g )
+2Al2O3 ( l ) 4Al ( l ) + 3O2 ( g )
+- Phương pháp này tốn nhiều năng lượng .
+III .
+TÁI CHẾ KIM LOẠI
+- Là quá trình thu kim loại từ các phế liệu kim loại .
+- Các công đoạn tái chế :
+D. HỢP KIM – SỰ ĂN MÒN KIM LOẠI
+I. HỢP KIM
+- Hợp kim là vật liệu kim loại chứa 1 kim loại cơ bản và một số kim loại khác hoặc phi kim .
+- Hợp kim thường khó bị oxi hóa và có một số tính chất thích hợp để ứng dụng trong đời sống .
+- Tính chất hóa học của hợp kim thường tương tự các đơn chất thành phần tạo hợp kim .
+- Tính chất vật lí và cơ học của hợp kim thường khác nhiều so với các đơn chất thành phần .
+- Một số hợp kim phổ biến :
+II .
+ĂN MÒN KIM LOẠI
+- Sự ăn mòn kim loại là sự phá hủy kim loại hoặc hợp kim do tác dụng của các chất trong môi trường xung quanh .
+M Mn+ + ne
+1 .
+Ăn mòn hóa học
+- Ăn mòn hóa học là quá trình oxi hóa - khử , trong đó các electron của kim loại được chuyển trực tiếp đến các chất trong môi trường .
++ 2Fe + 3Cl2 2FeCl3
++ Zn + 2HCl ZnCl2 + H2
++ Trang sức bằng bạc bị oxi hóa bởi O2 trong không khí khi có mặt H2S tạo Ag2S màu đen .
++ Chi tiết máy bằng kim loại bị ăn mòn do tác dụng trực tiếp O2 hay hơi nước ở nhiệt độ cao .
+2 .
+Ăn mòn điện hóa học
+- Ăn mòn điện hóa là quá trình oxi hóa – khử , trong đó kim loại bị ăn mòn do tác dụng của dung dịch chất điện li và tạo nên dòng electron chuyển dời từ cực âm đến cực dương .
+- Điều kiện xảy ra ăn mòn điện hóa : thỏa cả 3 điều kiện
++ 2 điện cực khác nhau
++ 2 điện cực tiếp xúc với nhau ( trực tiếp hoặc gián tiếp thông qua dây dẫn )
++ 2 điện cực phải đặt trong môi trường chất điện li ( không khí ẩm cũng được xem là môi trường điện li )
+VD1 : Ăn mòn điện hóa trong pin Zn-Cu
+- Khi chưa nối dây dẫn , H2 thoát ra ở bề mặt thanh Zn → ăn mòn hóa học .
+- Khi nối dây dẫn , hình thành pin điện hóa :
++ Cực âm ( anode ) = kim loại mạnh hơn = quá trình oxi hóa = kim loại bị ăn mòn .
+Electron theo dây dẫn sang điện cực đồng .
+Zn ( s ) → Zn2+ ( aq ) + 2e
++ Cực dương ( cathode ) = kim loại yếu hơn ( hoặc phi kim ) = quá trình khử
+2H+ ( aq ) + 2e → H2 ( g )
+Tóm lại : Nếu ăn mòn điện hóa thì kim loại mạnh hơn bị ăn mòn trước
+VD2 : Ăn mòn điện hóa gang , thép trong không khí ẩm
++ Cực âm ( anode ) : Fe ( s ) → Fe2+ ( aq ) + 2e
++ Cực dương ( cathode ) : O2 ( g ) + 2H2O ( l ) + 4e → 4OH– ( aq )
++ Fe2+ tiếp tục bị oxi hóa tạo ra gỉ sắt Fe2O3.nH2O màu đỏ nâu
+III .
+CHỐNG ĂN MÒN KIM LOẠI
+1 .
+Phương pháp phủ bề mặt
+- Bôi , sơn , mạ , tráng… .
+bằng vật liệu bền với môi trường .
+VD :
++ tráng kẽm lên bề mặt của tấm thép mỏng → sản xuất tôn lợp nhà ;
++ mạ Chromium lên bề mặt thép → chế tạo dụng cụ y tế .
+2 .
+Phương pháp điện hóa
+- Nối kim loại cần bảo vệ với một kim loại có tính khử mạnh hơn .
+VD : để bảo vệ vỏ tàu biển làm bằng thép , người ta gắn những lá kẽm ( Zn ) vào mặt ngoài của vỏ tàu ( phần chìm dưới nước ) .
+Cấu hình electron Số electron lớp ngoài cùng Vị trí
+Na ( Z = 11 ) : 1s22s22p63s1 1 Chu kì 3 , nhóm IA
+K ( Z = 19 ) : 1s22s22p63s23p64s1 1 Chu kì 4 , nhóm IA
+Mg ( Z = 12 ) : 1s22s22p63s2 2 Chu kì 3 , nhóm IIA
+Ca ( Z = 20 ) : 1s22s22p63s23p64s2 2 Chu kì 4 , nhóm IIA
+Al ( Z = 13 ) : 1s22s22p63s23p1 3 Chu kì 3 , nhóm IIIA
+Fe ( Z = 26 ) : 1s22s22p63s23p63d64s2 2 Chu kì 4 , nhóm VIIIB
+Cr ( Z = 24 ) : 1s22s22p63s23p63d54s1 1 Chu kì 4 , nhóm VIB
+Fe Dẻo Rèn để làm vật dụng
+Au Dẻo Kéo sợ thành chỉ để khâu trang trí
+Au , Ag Dẻo Chế tác thành đồ trang sức có nhiều kiểu dáng
+Cu Dẻo Đúc tượng , sản xuất gia dụng , đồ trang trí
+Al Dẻo Khung cửa , lon , hộp
+Cu Dẫn điện Lõi dây điện
+Al Dẫn điện Dây dẫn điện cao thế
+Al Dẫn nhiệt Dụng cụ nhà bếp , giấy nhôm bọc thực phẩm , vật liệu tản nhiệt
+Au , Ag Ánh kim Trang sức , vật trang trí , tiền kim loại
+Ag , Al Ánh kim Tráng lên thủy tinh để làm gương soi
+Pb , Cd , Sn tonc thấp Dây chảy trong cầu chì
+W tonc cao Dây tóc bóng đèn
+Cr Cứng Mạ bên ngoài để bảo vệ sản phẩm , hạn chế mài mòn
+KL hoạt động hóa học mạnh KL Trung bình và yếu
+H2SO4 đặc , to H2SO4 đặc , to S , SO2 SO2 ( mùi hắc )
+HNO3 Loãng , to NH4NO3 , N2 , N2O , NO NO ( không màu , dễ hóa nâu trong không khí )
+HNO3 Đặc , to NO2 ( nâu đỏ ) NO2 ( nâu đỏ )
+THÀNH PHẦN CHÍNH TÊN THÀNH PHẦN CHÍNH TÊN
+Fe2O3 Hematite ( hoặc haematite ) CaSO4.nH2O Gypsum
+Fe3O4 Magnetite Ca3 ( PO4 ) 2 Phosphorite
+FeCO3 Siderite CaCO3.MgCO3 Dolomite
+FeS2 Pyrite CaF2 Fluorite
+NaCl Table salt ; Halite MgCO3 Magnesite
+KCl Sylvite Al2O3.2H2O Bauxite
+KCl.NaCl Sylvinite Na3AlF6 ( hoặc AlF3.3NaF ) Cryolite
+KCl.MgCl2.6H2O Carnallite ( hoặc carnalite ) FeO.Cr2O3 ( hoặc Fe ( CrO2 ) 2 ; FeCr2O4 ) Chromite
+NaHCO3 Baking soda CuFeS2 Chalcopyrite
+CaCO3 Calcite ZnS Sphalerite
+Thép thường Fe-C hàm lượng C thấp hơn gang vật liệu xây dựng , giao thông , cơ khí
+Thép cứng Fe-C-Mn cứng , khó mài mòn gàu xúc đào đất , đường ray
+Thép không gỉ Fe-C-Cr-Ni Inox dao , kéo , dụng cụ phẫu thuật
+Gang Fe-C hàm lượng C cao hơn thép nên cứng , giòn chế tạo ống dẫn nước cấp , nồi , chảo , khuôn đúc , ...
+Duralumin ( Dural ) Al-Cu-Mg-Mn , ... nhẹ , cứng , bền sử dụng trong hàng không để chế tạo cánh máy bay ; quốc phòng để chế tạo áo giáp , khiên bảo vệ ; chế tạo ô tô , ...
+LÝ THUYẾT CHỦ ĐỀ 7 : NGUYÊN TỐ NHÓM IA VÀ NHÓM IIA
+A. NGUYÊN TỐ NHÓM IA
+I. VỊ TRÍ
+II .
+TÍNH CHẤT VẬT LÍ
+- Màu trắng bạc .
+- Nhiệt độ nóng chảy và nhiệt độ sôi thấp ; giảm từ Li đến Cs .
+- Mạng tinh thể lập phương tâm khối ( rỗng hơn so với lập phương tâm diện và lục phương ) .
+- Bán kính nguyên tử R lớn nhất trong 1 chu kì → liên kết kim loại yếu .
+- Cấu tạo tinh thể rỗng , lực liên kết kim loại yếu → Độ cứng thấp ; Khối lượng riêng nhỏ d < 5 g/cm3 .
+III .
+TÍNH CHẤT HÓA HỌC
+- Bán kính lớn , độ âm điện nhỏ , năng lượng ion hoá thấp , rất thấp .
+→ tính khử mạnh , tăng từ Li đến Cs : M → M+ + e
+1 .
+Tác dụng với phi kim
+4Na + O2 2Na2O
+6Li + N2 → 2Li3N
+2Na + Cl2 2NaCl
+2 .
+Tác dụng với nước
+2Na + 2H2O → 2NaOH + H2
+3 .
+Tác dụng với dung dịch acid
+2Na + 2HCl → 2NaCl + H2
+2Na + H2SO4 → Na2SO4 + H2
+4 .
+Tác dụng với dung dịch muối
+- Khi cho Na tác dụng với dung dịch muối CuSO4 :
+2Na + 2H2O → 2NaOH + H2
+2NaOH + CuSO4 → Na2SO4 + Cu ( OH ) 2 kết tủa xanh lam
+IV .
+ỨNG DỤNG
+- Các kim loại Na và K dùng làm chất trao đổi nhiệt trong một vài loại lò phản ứng hạt nhân .
+- Kim loại Cs dùng chế tạo tế bào quang điện .
+- Hợp kim Li-Al siêu nhẹ dùng trong kỹ nghệ hàng không .
+- Chế tạo hợp kim có nhiệt độ nóng chảy thấp dùng trong thiết bị báo cháy .
+- Điều chế một số kim loại hiếm bằng phương pháp nhiệt luyện .
+- Dùng nhiều trong tổng hợp hữu cơ .
+V. ĐIỀU CHẾ
+- Trong tự nhiên , kim loại kiềm chỉ tồn tại ở dạng hợp chất .
+- Cách bảo quản : ngâm trong dầu hỏa hoặc bình khí hiếm .
+- Một số quặng chứa kim loại kiềm :
++ Halite : NaCl
++ Sylvinite : KCl.NaCl
++ Carnalite : KCl.MgCl2.6H2O
+- Phương pháp thường dùng để điều chế kim loại kiềm là điện phân nóng chảy muối halide hoặc hydroxide của kim loại kiềm trong điều kiện không có không khí .
+2NaCl 2Na + Cl2
+2NaOH 2Na + O2 + H2O
+B. MỘT SỐ HỢP CHẤT QUAN TRỌNG CỦA KIM LOẠI KIỀM
+I .
+SODIUM HYDROXIDE
+1 .
+Tính chất
+- Chất rắn màu trắng , hút ẩm mạnh , tan tốt trong nước và quá trình tan tỏa nhiều nhiệt .
+- NaOH còn gọi là kiềm hay xút ăn da .
+- Tính base mạnh :
++ Làm đổi màu chất chỉ thị : làm quỳ tím hóa xanh , phenolphthalein hóa hồng .
++ Tác dụng acidic oxide :
+CO2 + NaOH → NaHCO3
+CO2 + 2NaOH → Na2CO3 + H2O
++ Tác dụng acid :
+HCl + NaOH → NaCl + H2O
++ Tác dụng dung dịch muối :
+CuSO4 + 2NaOH → Cu ( OH ) 2↓ + Na2SO4
+xanh lam
+NH4Cl + NaOH → NaCl + NH3 + H2O
+Al2 ( SO4 ) 3 + 6NaOH → 2Al ( OH ) 3↓ + 3Na2SO4
+keo trắng
+Al ( OH ) 3 + NaOH → NaAlO2 + 2H2O
+NaHCO3 + NaOH → Na2CO3 + H2O
+NaHSO4 + NaOH → Na2SO4 + H2O
++ Tác dụng với một số phi kim :
+Cl2 + 2NaOH → NaCl + NaClO + H2O
+3Cl2 + 6NaOH đặc 5NaCl + NaClO3 + 3H2O
++ Dung dịch NaOH có khả năng hoà tan : Al , Al2O3 , Al ( OH ) 3
+NaOH + Al + H2O → NaAlO2 + H2
+2NaOH + Al2O3 → 2NaAlO2 + H2O
+NaOH + Al ( OH ) 3 → NaAlO2 + 2H2O
++ Tương tự , NaOH có thể tác dụng với kim loại Zn , Pb và oxide , hydroxide của chúng .
+2 .
+Ứng dụng
+- Sản xuất xà phòng , giấy , tơ nhân tạo , tinh dầu thực vật và các sản phẩm chưng cất dầu mỏ , chế phẩm nhuộm và dược phẩm nhuộm , làm khô khí và là thuốc thử rất thông dụng trong phòng thí nghiệm .
+3 .
+Điều chế
+- Trong phòng thí nghiệm , điều chế lượng nhỏ , độ tinh khiết cao : 2Na + 2H2O → 2NaOH + H2
+- Trong công nghiệp :
++ Dùng phương pháp điện phân dung dịch NaCl có màng ngăn .
+2NaCl + 2H2O 2NaOH + H2 + Cl2
++ Dung dịch sau điện phân có thành phần chính là NaOH còn lẫn NaCl .
++ Cô đặc dung dịch , NaCl có độ tan thấp hơn nên kết tinh trước , tách ra khỏi dung dịch .
++ Tiếp tục cô đặc sẽ thu được NaOH rắn .
+II .
+SODIUM HYDROCARBONATE VÀ SODIUM CARBONATE
+III .
+SODIUM CHLORIDE
+1 .
+Trạng thái tự nhiên
+- NaCl là hợp chất rất phổ biến trong thiên nhiên ( có trong nước biển , nước của hồ nước mặn , khoáng vật Halite gọi là muối mỏ ) .
+- Cô đặc nước biển bằng cách đun nóng hoặc phơi nắng tự nhiên , người ta có thể kết tinh muối ăn .
+2 .
+Tính chất
+- Là hợp chất ion , không có màu và hoàn toàn trong suốt .
+- Nhiệt độ nóng chảy và nhiệt độ sôi cao , dễ tan trong nước
+- Phản ứng với một số muối : NaCl + AgNO3 → NaNO3 + AgCl↓ trắng
+- Ở trạng thái rắn khan , NaCl phản ứng với H2SO4 đậm đặc ( phản ứng sản xuất HCl ) :
+NaCl + H2SO4 NaHSO4 + HCl
+2NaCl + H2SO4 Na2SO4 + 2HCl
+IV .
+PHÂN BIỆT CÁC ION KIM LOẠI
+- Nhúng đầu que đốt bằng Platinum ( Pt ) vào dung dịch M+ , sau đó đưa lên ngọn lửa đèn khí :
++ Li+ : ngọn lửa có màu đỏ tía .
++ Na+ : ngọn lửa có màu vàng .
++ K+ : ngọn lửa có màu tím .
+BÀI TẬP
+Câu 1 : Trong các muối sau , muối nào dễ bị nhiệt phân ?
+A. LiCl .
+B. NaNO2 .
+C. KHCO3 .
+D. KBr .
+Câu 2 : Điện phân muối chloride của một kim loại kiềm nóng chảy thu được 0,9916 lít khí ( đkc ) ở anode và 1,84 gam kim loại ở cathode .
+Công thức hoá học của muối là
+A. LiCl .
+B. NaCl .
+C. KCl .
+D. RbCl .
+Câu 3 : Cho a gam hỗn hợp 2 muối Na2CO3 và NaHSO3 có số mol bằng nhau tác dụng với dung dịch H2SO4 loãng dư .
+Khí sinh ra được dẫn vào dung dịch Ba ( OH ) 2 dư thu được 41,4 gam kết tủa .
+Giá trị của a là
+A .20 .
+B .21 .
+C. 22 .
+D. 23 .
+Câu 4 : Cho 3 gam hỗn hợp gồm Na và kim loại kiềm M tác dụng với nước .
+Để trung hoà dung dịch thu được cần 800 ml dung dịch HCl 0,25M .
+Kim loại M là
+A. Li .
+B. Cs .
+C. K. D. Rb .
+Câu 5 : Cho 3,9 gam K tác dụng với nước thu được 100 ml dung dịch .
+Nồng độ mol của dung dịch KOH thu được là
+A .
+0,1M .
+B .
+0,5M .
+C. 1M .
+D. 0,75M .
+Câu 6 : Cho 6,2 gam hỗn hợp 2 kim loại kiềm tác dụng hết với nước thấy có 2,479 lít H2 ( đkc ) bay ra .
+Cô cạn dung dịch thì khối lượng chất rắn khan thu được là
+A .
+9,4 gam .
+B .
+9,5 gam .
+C. 9,6 gam .
+D. 9,7 gam .
+Câu 7 : Hoà tan hoàn toàn 5,2 gam hai kim loại kiềm ở 2 chu kì liên tiếp vào nước thu được 2,479 lít khí H2 ( đkc ) .
+Hai kim loại đó là
+A. Li và Na .
+B. Na và K. C. K và Rb .
+D. Rb và Cs .
+C. NGUYÊN TỐ NHÓM IIA
+I. VỊ TRÍ
+- Kim loại kiềm thổ thuộc nhóm IIA của bảng tuần hoàn ; trong một chu kì , kiềm thổ đứng sau kim loại kiềm .
+II .
+TÍNH CHẤT VẬT LÝ
+- Kim loại kiềm thổ có màu trắng bạc hoặc xám nhạt .
+- Khối lượng riêng tương đối nhỏ .
+- Nhiệt độ nóng chảy , nhiệt độ sôi cao hơn kim loại IA nhưng thấp so với các kim loại khác và biến đổi không theo một chiều .
+- Độ cứng thấp nhưng cứng hơn kim loại kiềm ; độ cứng giảm dần từ Be → Ba ( Be cứng nhất có thể vạch được thủy tinh ; Ba chỉ hơi cứng hơn chì ) .
+- Mạng tinh thể : Be , Mg , ( lục phương ) , , Sr ( lập phương tâm diện ) , Ba ( lập phương tâm khối )
+III .
+TÍNH CHẤT HOÁ HỌC
+Các kim loại kiềm thổ có tính khử mạnh , yếu hơn so với kim loại kiềm .
+Tính khử của các kim loại kiềm thổ tăng từ Be → Ba : M → M2+ + 2e
+1 .
+Tác dụng với phi kim
+- Khi đốt nóng trong không khí , các kim loại kiềm thổ đều bốc cháy tạo oxide , phản ứng tỏa nhiều nhiệt .
+2Mg + O2 2MgO
+Ca + Cl2 CaCl2
+2 .
+Tác dụng với nước
+- Ca , Sr , Ba tác dụng với nước ở nhiệt độ thường tạo dung dịch base , Mg tác dụng nhanh khi đun nóng , Be không tác dụng với nước ở bất kì nhiệt độ nào .
+M + 2H2O → M ( OH ) 2 + H2
+3 .
+Tác dụng với acid
+a. H2SO4 ( loãng ) , HCl
+Mg + 2HCl → MgCl2 + H2
+Mg + H2SO4 → MgSO4 + H2
+b. HNO3 , H2SO4 đặc
+4Mg + 10HNO3 ( loãng ) → 4Mg ( NO3 ) 2 + NH4NO3 + 3H2O
+Mg + 4HNO3 ( đặc ) → Mg ( NO3 ) 2 + 2NO2 + 2H2O
+IV .
+ỨNG DỤNG VÀ ĐIỀU CHẾ
+1 .
+Ứng dụng
+- Be : làm chất phụ gia để chế tạo hợp kim có tính đàn hồi cao , bền , chắc , không bị ăn mòn .
+- Ca : dùng làm chất khử để tách oxygen , lưu huỳnh ra khỏi thép , làm khô chất hữu cơ .
+- Mg : tạo hợp kim có tính cứng , nhẹ , bền để chế tạo máy bay , tên lửa , ôtô… ; tổng hợp nhiều hợp chất hữu cơ ; bột Mg trộn với chất oxi hóa dùng để chế tạo pháo sáng , máy ảnh .
+2 .
+Điều chế kim loại kiềm thổ
+- Trong tự nhiên , kim loại kiềm thổ chỉ tồn tại dạng ion M2+ trong các hợp chất .
+- Một số quặng chứa kim loại kiềm thổ :
++ Calcite : đá vôi , đá phấn chứa CaCO3
++ Gypsum : thạch cao sống CaSO4.2H2O ; thạch cao nung CaSO4.H2O hay 2CaSO4.H2O ; thạch cao khan CaSO4
++ Phosphorite : Ca3 ( PO4 ) 2
++ Apatite : Ca5F ( PO4 ) 3 hay 3Ca3 ( PO4 ) 2.CaF2
++ Dolomite : CaCO3.MgCO3 ( đá bạch vân ) .
++ Fluorite : CaF2 .
++ Magnesite : MgCO3 .
+- Điều chế bằng phương pháp điện phân muối nóng chảy :
+CaCl2 Ca + Cl2↑
+MgCl2 Mg + Cl2↑
+BÀI TẬP
+Câu 1 : Cho 2 gam một kim loại thuộc nhóm IIA tác dụng hết với dung dịch HCl tạo ra 5,55 gam muối chloride .
+Kim loại đó là kim loại nào sau đây ?
+A .
+Be .
+B .
+Mg. C. Ca .
+D. Ba .
+Câu 2 : Ở trạng thái cơ bản , nguyên tử kim loại kiềm thổ có số electron hoá trị là
+A .
+1e .
+B .
+2e .
+C. 3e .
+D. 4e .
+Câu 3 : Để oxi hoá hoàn toàn một kim loại M hoá trị II thành oxide phải dùng một lượng oxygen bằng 40 % lượng kim loại đã dùng .
+Kim loại M là
+A. Zn .
+B .
+Mg. C. Ca .
+D. Ba .
+Câu 4 : Nung hỗn hợp muối carbonate của hai kim loại kế tiếp nhau trong nhóm IIA tới khối lượng không đổi thu được 2,479 lít CO2 ( đkc ) và 4,64 gam hỗn hợp hai oxide .
+Hai kim loại đó là
+A. Mg và Ca .
+B .
+Be và Mg. C. Ca và Sr. D. Sr và Ba .
+Câu 5 : Cho 18,4 gam hỗn hợp hai muối carbonate của hai kim loại thuộc nhóm IIA ở hai chu kì liên tiếp tác dụng hết với dung dịch HCl .
+Cô cạn dung dịch sau khi phản ứng thu được 20,6 gam muối khan .
+Hai kim loại đó là
+A .
+Be và Mg. B. Mg và Ca .
+C. Ca và Sr. D. Sr và Ba .
+D. MỘT SỐ HỢP CHẤT QUAN TRỌNG CỦA KIM LOẠI KIỀM THỔ
+I. CALCIUM OXIDE
+- CaO còn gọi là vôi sống .
+- Tác dụng với nước , tỏa nhiệt :
+CaO + H2O → Ca ( OH ) 2
+- Với acid , acidic oxide :
+CaO + 2HCl → CaCl2 + H2O
+CaO + CO2 → CaCO3
+II .
+HYDROXIDE M ( OH ) 2 CỦA CÁC KIM LOẠI KIỀM THỔ
+1 .
+Tính chất
+- Các hydroxide M ( OH ) 2 khan đều là chất rắn , màu trắng .
+- Tính tan : Be ( OH ) 2 ; Mg ( OH ) 2 rất ít tan trong nước ; Ca ( OH ) 2 tương đối ít tan ; Các hydroxide còn lại tan nhiều trong nước .
+- Độ bền nhiệt của hydroxide tăng từ Be → Ba : Mg ( OH ) 2 bị phân hủy ở 150oC ; Ca ( OH ) 2 , Sr ( OH ) 2 và Ba ( OH ) 2 khó phân hủy hơn .
+Mg ( OH ) 2 MgO + H2O
+- Tính base : Be ( OH ) 2 và Mg ( OH ) 2 là base yếu ; Ca ( OH ) 2 , Sr ( OH ) 2 , Ba ( OH ) 2 là base mạnh .
+- Ca ( OH ) 2 ( calcium hydroxide , vôi tôi , dung dịch trong suốt là nước vôi trong )
++ tác dụng acid :
+Ca ( OH ) 2 + 2HCl → CaCl2 + H2O
++ tác dụng acidic oxide :
+Ca ( OH ) 2 + CO2 → CaCO3↓ + H2O
+Ca ( OH ) 2 + 2CO2 → Ca ( HCO3 ) 2
++ tác dụng muối :
+Ca ( OH ) 2 + Na2CO3 → CaCO3 + 2NaOH
+2 .
+Ứng dụng
+- Hợp chất hydroxide kim loại kiềm thổ Ca ( OH ) 2 ứng dụng rộng rãi hơn cả : trộn vữa xây nhà , khử chua đất trồng , sản xuất calcium oxychloride dùng để tẩy trắng và khử trùng .
+III .
+CALCIUM CARBONATE VÀ CALCIUM HYDROCARBONATE
+IV .
+MUỐI SULFATE
+1 .
+Tính chất
+- BeSO4 và MgSO4 tan nhiều trong nước ; CaSO4 và SrSO4 tan ít trong nước ; BaSO4 không tan .
+- Muối calcium sulfate tạo thành 3 loại thạch cao :
++ CaSO4.2H2O : thạch cao sống trong tự nhiên , bền ở nhiệt độ thường .
++ CaSO4.H2O hoặc 2CaSO4.H2O : thạch cao nung
++ CaSO4 : thạch cao khan .
+2 .
+Ứng dụng
+- Thạch cao nung có thể kết hợp với nước tạo thành thạch cao sống và khi đông cứng thì giãn nở thể tích , do vậy thạch cao rất ăn khuôn .
+Thạch cao nung thường được đúc tượng , đúc các mẫu chi tiết tinh vi dùng trang trí nội thất , làm phấn viết bảng , bó bột khi gãy xương…
+- Thạch cao sống dùng để sản xuất xi măng .
+V. MUỐI NITRATE
+- Muối nitrate của các nguyên tố nhóm IIA bị phân hủy khi đun nóng , độ bền nhiệt tăng từ Mg ( NO3 ) 2 đến Ba ( NO3 ) 2 .
+2M ( NO3 ) 2 ( s ) 2MO ( s ) + 4NO2 ( g ) + O2 ( g )
+VI .
+PHÂN BIỆT CÁC ION KIM LOẠI
+- Khi đốt đơn chất M ( Ca , Mg , Ba ) hoặc nhúng đầu que đốt bằng Platinum ( Pt ) vào dung dịch M2+ ( Ca2+ , Mg2+ , Ba2+ ) , sau đó đưa lên ngọn lửa đèn khí :
++ Ca : màu đỏ da cam
++ Sr : màu đỏ son
++ Ba : màu lục
+E. NƯỚC CỨNG
+1 .
+Khái niệm
+- Nước cứng là nước có chứa nhiều cation Ca2+ , Mg2+ .
+- Nước chứa ít hoặc không chứa các ion trên được gọi là nước mềm .
+2 .
+Phân loại
+Căn cứ vào thành phần các anion gốc acid có trong nước cứng , người ta chia nước cứng ra 3 loại :
+a ) Nước cứng tạm thời ( chứa ion Ca2+/Mg2+ ; HCO3- )
+- Tính cứng tạm thời của nước cứng là do các muối Ca ( HCO3 ) 2 , Mg ( HCO3 ) 2 gây ra .
+Ca ( HCO3 ) 2 → Ca2+ + 2HCO3-
+- Gọi là tạm thời vì độ cứng sẽ mất đi khi đun sôi : M ( HCO3 ) 2 MCO3 + CO2 + H2O
+b ) Nước cứng vĩnh cửu ( chứa ion Ca2+/Mg2+ ; Cl-/SO42- )
+- Tính cứng vĩnh cửu của nước là do các muối CaCl2 , MgCl2 , CaSO4 , MgSO4 gây ra , gọi là vĩnh cửu vì khi đun nóng muối đó sẽ không phân hủy .
+c ) Nước có tính cứng toàn phần ( chứa ion Ca2+/Mg2+ ; HCO3- và Cl-/SO42- )
+- Là nước có cả tính cứng tạm thời và vĩnh cửu .
+- Nước tự nhiên thường có cả tính cứng tạm thời và vĩnh cửu .
+3 .
+Tác hại của nước cứng
+* Về mặt đời sống thường ngày
+- Giặt áo quần bằng xà phòng ( sodium stearate C17H35COONa ) trong nước cứng sẽ tạo ra muối không tan là calcium stearate ( C17H35COO ) 2Ca , chất này bám trên vải sợi , làm cho quần áo mau mục nát .
+2C17H35COONa + MCl2 → ( C17H35COO ) 2M + 2NaCl
+- Nước cứng làm cho xà phòng có ít bọt , giảm khả năng tẩy rửa .
+- Làm cho thực phẩm lâu chín và giảm mùi vị do phản ứng của các ion và các chất trong thực phẩm .
+* Về mặt sản xuất công nghiệp
+- Khi đun nóng , ở đáy nồi hay ống dẫn nước nóng sẽ gây ra lớp cặn đá kém dẫn nhiệt làm hao tổn chất đốt , gây nổ nồi hơi và tắc nghẽn ống dẫn nước nóng ( không an toàn ) .
+- Làm hỏng nhiều dung dịch cần pha chế .
+Việc làm mềm nước cứng trước khi dùng có‎ ‎‎ý nghĩa rất quan trọng .
+4 .
+Các phương pháp làm mềm nước cứng
+Nguyên tắc làm mềm nước cứng : giảm nồng độ các cation Ca2+ , Mg2+ trong nước cứng .
+a. Phương pháp kết tủa
+* Đối với nước có tính cứng tạm thời
+- Đun sôi nước có tính cứng tạm thời trước khi dùng , muối hydrocarbonate chuyển thành muối carbonate không tan :
+M ( HCO3 ) 2 MCO3↓ + CO2↑ + H2O
+→ Lọc bỏ kết tủa được nước mềm .
+- Dùng một khối lượng vừa đủ dung dịch Ca ( OH ) 2 , dung dịch Na2CO3 hoặc Na3PO4 để chuyển muối hydrocarbonate thành muối carbonate kết tủa .
+Lọc bỏ chất không tan , được nước mềm :
+M ( HCO3 ) 2 + Ca ( OH ) 2 → CaCO3↓+ MCO3↓ + 2H2O
+M ( HCO3 ) 2 + Na2CO3 → MCO3↓ + 2NaHCO3
+3MCl2 + 2Na3PO4 → M3 ( PO4 ) 2↓ + 6NaCl
+* Đối với nước có tính cứng vĩnh cửu , toàn phần
+- Dùng dung dịch Na2CO3 và dung dịch Na3PO4 để làm mềm nước cứng :
+M2+ + CO32- → CaCO3↓
+3M2+ + 2PO43- → Ca3 ( PO4 ) 2↓
+TỔNG KẾT : PHƯƠNG PHÁP KẾT TỦA LÀM MỀM NƯỚC CỨNG
+b. Phương pháp trao đổi ion
+- Phương pháp trao đổi ion được dùng phổ biến để làm mềm nước .
+Phương pháp này dựa trên khả năng trao đổi ion của các hạt zeolite ( các Aluminosilicate kết tinh , có trong tự nhiên hoặc được tổng hợp , trong tinh thể có chứa những lỗ trống nhỏ ) hoặc nhựa trao đổi ion .
+VD : cho nước cứng đi qua chất trao đổi ion là các hạt zeolite thì Na+ của zeolite rời khỏi mạng tinh thể , đi vào trong nước nhường chỗ cho các ion Ca2+ và Mg2+ bị giữ lại trong mạng tinh thể silicate → sau thời gian sử dụng , khả năng giữ M2+ giảm → vật liệu cần tái chế hoặc thay mới .
+BÀI TẬP
+Câu 1 .
+Nước cứng là nước chứa nhiều :
+A. Muối CaCl2 B. Muối CaSO4 C. Muối Ca ( HCO3 ) 2 D. Ion Ca2+ , Mg2+
+Câu 2 .
+Một dung dịch chứa các ion : 0,01 mol Ca2+ , 0,02 mol Mg2+ , 0,04 mol K+ , 0,065 mol HCO3- , 0,015 mol Cl- và 0,02 mol NO3- .
+Dung dịch A thuộc loại nước cứng
+A. Vĩnh cửu B. toàn phần C. tạm thời D. cả A , B , C .
+Câu 3 .
+Một dung dịch chứa các ion : 0,03 mol Ca2+ , 0,02 mol Mg2+ , 0,01 mol Na+ , 0,04 mol HCO3- , 0,02 mol Cl- và 0,025 mol SO42- .
+Dung dịch A thuộc loại nước cứng
+A. Vĩnh cửu B. toàn phần C. tạm thời D. cả A , B , C .
+Câu 4 .
+Một cốc nước có chứa các ion : Na+ ( 0,02 mol ) , Mg2+ ( 0,02 mol ) , Ca2+ ( 0,04 mol ) , Cl- ( 0,02 mol ) , HCO3- ( 0,10 mol ) và SO42- ( 0,01 mol ) .
+Đun sôi cốc nước trên cho đến khi phản ứng xảy ra hoàn toàn thì nước trong cốc :
+A. có tính cứng toàn phần B. có tính cứng vĩnh cửu
+C. là nước mềm D. có tính cứng tạm thời .
+ĐÁP ÁN BÀI TẬP TRẮC NGHIỆM CÁC PHẦN
+A .
+1A 2C 3C 4A 5D 6D B .
+1C 2B 3B 4A 5C 6C 7B
+C. 1C 2B 3C 4A 5B E. 1D 2B 3B 4B
+KIẾN THỨC BỔ SUNG CÓ LIÊN QUAN
+A. ALUMINIUM ( NHÔM )
+I. VỊ TRÍ VÀ CẤU TẠO
+- Al ( Z = 13 ) : 1s22s22p63s23p1 , hay [ Ne ] 3s23p1 thuộc chu kì 3 , nhóm IIIA .
+- Mạng tinh thể : lập phương tâm diện .
+II .
+TÍNH CHẤT VẬT LÍ
+- Kim loại màu trắng bạc , mềm , dễ kéo sợi và dát mỏng .
+- Nhẹ ( 2,7g/cm3 ) , nóng chảy ở 660oC .
+- Dẫn điện và nhiệt tốt .
+III .
+TÍNH CHẤT HÓA HỌC
+Al có tính khử mạnh .
+Al Al3+ + 3e
+1 .
+Tác dụng với phi kim
+- Al tác dụng mãnh liệt với các phi kim , điển hình là với các halogen , oxygen , lưu huỳnh…
+- Bột Al tự bốc cháy khi tiếp xúc với khí chlorine :
+2Al + 3Cl2 2AlCl3
+- Phản ứng với oxi : bột Al cháy trong không khí cho ngọn lửa sáng chói và phát ra một nhiệt lượng lớn tạo ra aluminium oxide và một lượng nhỏ nitride :
+4Al + 3O2 2Al2O3
+2Al + N2 2AlN
+2 .
+Tác dụng với oxide kim loại ( phản ứng nhiệt nhôm )
+- Ở nhiệt độ cao , Al khử được nhiều oxide kim loại sau Al như ( Fe2O3 , Cr2O3 , CuO… ) thành kim loại .
+2Al + Fe2O3 2Fe + Al2O3
+2Al + Cr2O3 2Cr + Al2O3
+3 .
+Tác dụng với nước
+2Al + 6H2O 2Al ( OH ) 3 ↓ + 3H2
+- Phản ứng nhanh chóng ngừng lại vì lớp Al ( OH ) 3 không tan trong nước đã ngăn cản không cho Al tiếp xúc với nước .
+4 .
+Tác dụng với acid
+a. H2SO4 ( loãng ) , HCl
+- Al khử H+ thành H2
+2Al + 6HCl 2AlCl3 + 3H2
+2Al + 3H2SO4 Al2 ( SO4 ) 3 + 3H2
+b. H2SO4 ( đặc ) , HNO3
+- Al khử trong HNO3 ở dung dịch loãng hoặc đặc , nóng và trong H2SO4 ở dung dịch đặc , nóng xuống số oxi hóa thấp hơn
+Al + 4HNO3loãng Al ( NO3 ) 3 + NO + 2H2O
+2Al + 6H2SO4đặc Al2 ( SO4 ) 3 + 3SO2 + 6H2O
+- Al không tác dụng với H2SO4 đặc , nguội và HNO3 đặc , nguội .
+Những acid này đã oxi hóa bề mặt kim loại tạo thành một màng oxide có tính trơ , làm cho Al thụ động .
+Al thụ động sẽ không tác dụng với các dung dịch HCl , H2SO4 loãng .
+5 .
+Tác dụng với dung dịch kiềm
+- Al bị hòa tan trong dung dịch kiềm như NaOH , Ca ( OH ) 2 , …
+2Al + 2NaOH + H2O 2NaAlO2 + 3H2
+Sodium aluminate
+Lưu ý :
+- Al tác dụng được acid và base nhưng không được gọi là lưỡng tính .
+Chỉ có oxide và hydroxide của Al mới được gọi là lưỡng tính .
+Tương tự cho Zn và ester .
+- Các chất lưỡng tính ( tác dụng được với acid và kiềm theo phản ứng acid – base ) :
+* VÔ CƠ
++ H2O
++ Oxide lưỡng tính : Al2O3 , Cr2O3 , BeO , ZnO , PbO , SnO
++ Hydroxide lưỡng tính : Al ( OH ) 3 , Cr ( OH ) 3 .
+Zn ( OH ) 2 , Sn ( OH ) 2 , Pb ( OH ) 2 , Be ( OH ) 2
++ Các muối acid của acid yếu : HSO3- , HCO3- , HS- , H2PO4- , HPO42- , H2PO3- ...
++ Các muối tạo bởi acid yếu và base yếu : ( NH4 ) 2CO3 , NH4HCO3 , ( NH4 ) 2SO3 , …
+* HỮU CƠ
++ Amino acid ( H2N ) xR ( COOH ) y : tất cả các loại amino acid đều là chất lưỡng tính
+NH2CH2COOH , CH3-CH ( NH2 ) -COOH , HO-C6H5-CH2-CH ( NH2 ) -COOH
++ Peptide , protein
++ Dạng HOOC-R-COONa ( thay Na = Ca , Ba , K … tương tự )
+HOOC-CH2-COONa , HOOC- ( CH2 ) 4-COONa…
++ Dạng H2N-R-COONH3Cl
++ Muối ammonium R-COONH4 :
+R-COONH4 + HCl → R-COOH + NH4Cl
+R-COONH4 + NaOH → R-COONa + NH3 + H2O
++ Muối alkylammonium R-COONH3-R ’ :
+CH3-COONH3-CH3 , …
+IV .
+SẢN XUẤT
+- Điện phân nóng chảy Al2O3 với cryolite :
+2Al2O3 4Al + 3O2
+- Al2O3 lấy từ quặng bauxite Al2O3.2H2O ( thường lẫn SiO2 , Fe2O3 và một số tạp chất khác )
+- Vai trò của cryolite 3NaF.AlF3 ( Na3AlF6 ) :
++ Giảm nhiệt độ nóng chảy của Al2O3 ( 20500C 9000C ) Tiết kiệm năng lượng
++ Hỗn hợp chất lỏng dẫn điện tốt hơn .
++ Cryolite nhẹ , nổi lên ngăn cản Al nóng chảy sinh ra tác dụng với không khí .
+B. MỘT SỐ HỢP CHẤT QUAN TRỌNG CỦA ALUMINIUM
+I. ALUMINIUM OXIDE ( Al2O3 )
+1 .
+Tính chất vật lí
+- Al2O3 là chất rắn màu trắng , chịu nhiệt rất tốt , rất cứng , không tan trong nước .
+2 .
+Tính chất hóa học
+- Tính lưỡng tính : vừa tác dụng với dung dịch kiềm , vừa tác dụng với dung dịch acid .
+Al2O3 + 6HCl → 2AlCl3 + 3H2O
+Al2O3 + 2NaOH → 2NaAlO2 + H2O
+3 .
+Điều chế
+- Trong công nghiệp , Al2O3 được điều chế bằng cách nung Al ( OH ) 3 ở nhiệt độ cao :
+2Al ( OH ) 3 Al2O3 + 3H2O
+II .
+ALUMINIUM HYDROXIDE ( Al ( OH ) 3 )
+1 .
+Tính chất
+- Là hợp chất màu trắng , kết tủa keo , không tan trong nước , không bền nhiệt .
+- Dễ bị nhiệt phân thành aluminium oxide :
+2Al ( OH ) 3 Al2O3 + 3H2O
+- Tính lưỡng tính :
+Al ( OH ) 3 + 3HCl → AlCl3 + 3H2O
+Al ( OH ) 3 + NaOH → NaAlO2 + 2H2O
+* CÁCH NHẬN BIẾT ION Al3+ TRONG DUNG DỊCH : Cho từ từ dung dịch NaOH đến dư , xuất hiện kết tủa keo trắng tăng dần đến cực đại , sau đó kết tủa tan dần tạo dung dịch trong suốt .
+Al3+ + 3OH– → Al ( OH ) 3
+Al ( OH ) 3 + OH– dư → AlO2– + 2H2O
+2 .
+Điều chế
+- Muối Al tác dụng với dung dịch ammonia :
+AlCl3 + 3NH3 + 3H2O → Al ( OH ) 3 ↓+ 3NH4Cl
+III .
+ALUMINIUM SULFATE VÀ PHÈN CHUA
+- Aluminium sulfate Al2 ( SO4 ) 3 là chất bột màu trắng , bị phân hủy nhiệt trên 770oC .
+Aluminium sulfate kết hợp với kim loại kiềm tạo thành loại muối gọi là phèn nhôm , quan trọng nhất là phèn chua :
+K2SO4.Al2 ( SO4 ) 3.24H2O hay KAl ( SO4 ) 2.12H2O
+- Nếu thay K+ bằng Na+ , Li+ hay NH4+ sẽ tạo muối kép khác ( phèn nhôm ) .
+- Phèn chua được dùng để thuộc da , công nghiệp giấy , chất cầm màu trong nhuộm vải , làm trong nước .
+BÀI TẬP TỰ LUẬN
+Tính khối lượng kết tủa thu được trong các trường hợp sau :
+a. Cho từ từ 150 ml dung dịch NaOH 1M vào 100 ml dung dịch AlCl3 1M
+b. Cho từ từ 270 ml dung dịch NaOH 1M vào 100 ml dung dịch AlCl3 1M
+c. Cho từ từ 320 ml dung dịch NaOH 1M vào 100 ml dung dịch AlCl3 1M
+d. Cho từ từ 440 ml dung dịch NaOH 1M vào 100 ml dung dịch AlCl3 1M
+e. Cho từ từ 650 ml dung dịch NaOH 1M vào 100 ml dung dịch Al2 ( SO4 ) 3 1M
+f. Cho từ từ 360 ml dung dịch NaOH 1M vào 50 ml dung dịch Al2 ( SO4 ) 3 1M
+g. Cho từ từ 160 ml dung dịch Ba ( OH ) 2 1M vào 100 ml dung dịch AlCl3 1M
+h. Cho từ từ 220 ml dung dịch Ba ( OH ) 2 1M vào 100 ml dung dịch AlCl3 1M
+i. Cho từ từ 180 ml dung dịch Ba ( OH ) 2 1M vào 50 ml dung dịch Al2 ( SO4 ) 3 1M
+j. Cho từ từ 240 ml dung dịch Ba ( OH ) 2 1M vào 50 ml dung dịch Al2 ( SO4 ) 3 1M
+k. Cho từ từ 200 ml dung dịch hỗn hợp NaOH 1M và Ba ( OH ) 2 0,5M vào 120 ml dd AlCl3 1M
+l. Cho từ từ 150 ml dung dịch hỗn hợp NaOH 1M và Ba ( OH ) 2 0,5M vào 200 ml dd AlCl3 1M
+m. Cho từ từ 450 ml dd hỗn hợp NaOH 1M và Ba ( OH ) 2 0,5M vào 200 ml dd Al2 ( SO4 ) 3 1M
+n. Cho từ từ 650 ml dd hỗn hợp NaOH 1M và Ba ( OH ) 2 0,5M vào 200 ml dd Al2 ( SO4 ) 3 1M
+Đáp số : 3,9-7,02-6,24-0-11,7-3,12-6,24-0-38,07-34,95-6,24-7,8-75,825-99,125
+BÀI TẬP TRẮC NGHIỆM
+Câu 1 : Có 3 chất rắn : Mg , Al , Al2O3 đựng trong 3 lọ mất nhãn .
+Chỉ dùng một thuốc thử nào sau đây có thể nhận biết được mỗi chất ?
+A. dung dịch HCl .
+B. dung dịch H2SO4 .
+C. dung dịch CuSO4 .
+D. dung dịch NaOH .
+Câu 2 : Hợp chất nào sau đây tác dụng với dung dịch NaOH ( theo tỉ lệ mol 1:1 ) cho sản phẩm NaAlO2 ?
+A. Al2 ( SO4 ) 3 .
+B. AlCl3 .
+C. Al ( NO3 ) 3 .
+D. Al ( OH ) 3 .
+Câu 3 : Dãy nào dưới đây gồm các chất vừa tác dụng được với dung dịch acid vừa tác dụng được với dung dịch kiềm ?
+A. AlCl3 và Al2 ( SO4 ) 3 .
+B. Al ( NO3 ) 3 và Al ( OH ) 3 .
+C. Al2 ( SO4 ) 3 và Al2O3 .
+D. Al ( OH ) 3 và Al2O3 .
+Câu 4 : Biến đổi hoá học nào sau đây là do Al ( OH ) 3 có tính acid ?
+A. Al ( OH ) 3 ( r ) → Al3+ ( dd ) .
+B. Al ( OH ) 3 ( r ) → Al2O3 ( r ) .
+C. Al ( OH ) 3 ( r ) →AlO2- .
+D. Al ( OH ) 3 ( r ) → Al2O3 → Al ( r ) .
+Câu 5 : Hoà tan hoàn toàn 10 gam hỗn hợp gồm Al và Al2O3 trong dung dịch NaOH dư thu được 7,437 lít khí H2 ( đkc ) .
+Phần trăm khối lượng của Al trong hỗn hợp là
+A .
+48 % .
+B .
+50 % .
+C. 52 % .
+D. 54 % .
+Câu 6 : Cho 3,42gam Al2 ( SO4 ) 3 tác dụng với 25 ml dung dịch NaOH tạo ra được 0,78 gam kết tủa .
+Nồng độ mol của NaOH đã dùng là ?
+A .
+1,2M B .
+2,8M C. 1,2 M và 4M D. 1,2M hoặc 2,8M
+Câu 7 : Cho 150 ml dung dịch NaOH 7M tác dụng với 100 ml dung dịch Al2 ( SO4 ) 3 1M .
+Xác định nồng độ mol/l NaOH trong dung dịch sau phản ứng .
+A .
+1M B .
+2M C. 3M D. 4M
+Câu 8 : Trong một cốc đựng 200ml dung dịch AlCl3 2M .
+Rót vào cốc V ml dung dịch NaOH có nồng độ a mol/lít , ta được một kết tủa ; đem sấy khô và nung đến khối lượng không đổi được 5,1g chất rắn .
+Nếu V = 200 ml thì a có giá trị nào ?
+A .
+2M B .
+1,5M hay 3M C. 1M hay 1,5M D. 1,5M hay 7,5M
+Câu 9 : Hoà tan a ( g ) hỗn hợp bột Mg - Al bằng dung dịch HCl thu được 19,832 lit khí H2 ( đkc ) .
+Cùng lượng hỗn hợp trên hoà tan trong dung dịch NaOH dư thu được 14,874 lít khí H2 ( đkc ) .
+Giá trị của a là
+A .
+3,9 B .
+7,8 C. 11,7 D. 15,6
+Câu 10 : Trộn 10,8 gam bột nhôm với 34,8g bột Fe3O4 rồi tiến hành phản ứng nhiệt nhôm thu được hỗn hợp A. Hòa tan hết A bằng HCl thu được 11,8992 lít H2 ( đkc ) .
+Hiệu suất phản ứng nhiệt nhôm và thể tích dung dịch HCl 2M cần dùng là
+A .
+80 % và 1,08 lít B .
+20 % và 10,8 lít C. 60 % và 10,8 lít D. 40 % và 1,08 lít
+Câu 11 : Nung hỗn hợp A gồm Al , Fe2O3 được hỗn hợp B ( hiệu suất 100 % ) .
+Hòa tan hết B bằng HCl dư được 2,479 lít khí ( đkc ) , cũng lượng B này nếu cho phản ứng với dung dịch NaOH dư thấy còn 8,8 gam rắn C. Khối lượng các chất trong A là ?
+A. mAl = 2,7g , mFe2O3 = 1,12g B. mAl = 5,4g , mFe2O3 = 1,12g
+C. mAl = 2,7g , mFe2O3 = 11,2g D. mAl = 5,4g , mFe2O3 = 11,2g
+Câu 12 : Hỗn hợp A gồm 0,56g Fe và 16g Fe2O3 , m ( mol ) Al rồi nung ở nhiệt độ cao không có không khí được hỗn hợp D. Nếu cho D tan trong H2SO4 loãng được V ( lít ) khí nhưng nếu cho D tác dụng với NaOH dư thì thu được 0,25V lít khí .
+Giá trị của m là ?
+A .
+0,1233 B .
+0,2466 C. 0,12 D. 0,3699
+Câu 13 : Có 26,8g hỗn hợp bột nhôm và Fe2O3 .
+Tiến hành nhiệt nhôm cho tới hoàn toàn rồi hòa tan hết hỗn hợp sau phản ứng bằng dung dịch HCl được 12,395 lít H2 ( đkc ) .
+Khối lượng các chất trong hỗn hợp ban đầu là
+A. mAl = 10,8g ; m= 1,6g B. mAl = 1,08g ; m= 16g
+C. mAl = 1,08g ; m= 16g D. mAl = 10,8g ; m= 16g
+ĐÁP ÁN : 1D 2D 3D 4A 5D 6D 7A 8D 9D 10A 11C 12B 13D
+C. NHẬN BIẾT CÁC CHẤT VÔ CƠ , HỮU CƠ
+I. PHƯƠNG PHÁP PHÂN BIỆT CÁC CHẤT VÔ CƠ
+1 .
+Nhận biết chất khí
+2 .
+Nhận biết ion dương ( cation )
+3 .
+Nhận biết ion âm ( anion )
+II .
+PHƯƠNG PHÁP PHÂN BIỆT CÁC CHẤT HỮU CƠ
+1 .
+Lý thuyết chung
+- Các bước tiến hành :
++ Chiết ( trích mẫu thử ) các hóa chất cần nhận biết vào các ống nghiệm và ( đánh số thứ tự )
++ Chọn thuốc thử thích hợp ( tuỳ theo yêu cầu đề bài : thuốc thử tuỳ chọn , hạn chế hay không dùng thuốc thử nào khác ) .
++ Cho vào các ống nghiệm ghi nhận các hiện tượng xảy ra và rút ra kết luận .
++ Viết phương trình hóa học minh hoạ .
+- Các dạng bài tập thường gặp :
++ Nhận biết các hoá chất ( rắn , lỏng , khí ) riêng biệt .
++ Nhận biết các chất đựng trong các lọ mất nhãn riêng biệt .
++ Xác định sự có mặt của các chất ( hoặc các ion ) trong cùng một dung dịch .
++ Tuỳ theo yêu cầu của bài tập mà trong mỗi dạng có thể gặp 1 trong các trường hợp sau :
+Nhận biết với thuốc thử tự do ( không hạn chế thuốc thử )
+Nhận biết với thuốc thử hạn chế ( thông thường chỉ dùng 1 thuốc thử và không được dùng thêm các hóa chất khác )
+Nhận biết không được dùng thuốc thử bên ngoài ( thông thường dạng này chúng ta kẻ bảng vừa nhận biết hóa chất vừa lấy chất đó làm thuốc thử ) .
+2 .
+Nhận biết các chất hữu cơ chi tiết
+D. HÓA HỌC VỚI KINH TẾ , XÃ HỘI , MÔI TRƯỜNG
+I. VẤN ĐỀ NĂNG LƯỢNG VÀ NHIÊN LIỆU
+1 .
+Vấn đề về năng lượng và về nhiên liệu
+- Các nguồn năng lượng , nhiên liệu hoá thạch như dầu mỏ , than đá , khí tự nhiên… không phải là vô tận mà có giới hạn và ngày càng cạn kiệt .
+- Khai thác và sử dụng năng lượng hoá thạch còn là một trong những nguyên nhân chủ yếu gây nên ô nhiễm môi trường và làm thay đổi khí hậu toàn cầu .
+2 .
+Giải quyết vấn đề năng lượng và nhiên liệu
+- Điều chế khí metan trong lò biogas .
+- Điều chế ethanol từ cracking dầu mỏ để thay thế xăng , dầu .
+- Sản xuất ra chất thay cho xăng từ nguồn nguyên liệu vô tận là không khí và nước .
+- Sản xuất khí than khô và khí than ướt từ than đá và nước .
+- Năng lượng được sản sinh ra trong các lò phản ứng hạt nhân được sử dụng cho mục đích hoà bình .
+- Năng lượng thuỷ điện , năng lượng gió , năng lượng mặt trời , năng lượng địa nhiệt , thuỷ triều…
+- Năng lượng điện hoá trong pin điện hoá hoặc accu .
+II .
+VẤN ĐỀ VẬT LIỆU
+1 .
+Vấn đề về vật liệu
+- Cùng với sự phát triển của các ngành kinh tế và khoa học kĩ thuật , nhu cầu của nhân loại về các vật liệu mới với những tính năng vật lí và hoá học , sinh học mới ngày càng cao .
+2 .
+Giải quyết vấn đề về vật liệu
+- Vật liệu có nguồn gốc vô cơ .
+- Vật liệu có nguồn gốc hữu cơ .
+- Vật liệu mới : vật liệu nano ; vật liệu quang điện tử ; vật liệu composite .
+III .
+HOÁ HỌC VÀ VẤN ĐỀ THỰC PHẨM
+1 .
+Vấn đề lương thực , thực phẩm
+- Dân số thế giới ngày càng tăng .
+- Diện tích trồng trọt ngày càng bị thu hẹp .
+- Vấn đề vi phạm vệ sinh an toàn thực phẩm .
+2 .
+Giải quyết vấn đề về lương thực , thực phẩm
+Nghiên cứu và sản xuất các chất hoá học có tác dụng bảo vệ , phát triển thực vật , động vật :
+- Sản xuất các loại phân bón hoá học .
+- Tổng hợp hoá chất có tác dụng diệt trừ cỏ dại .
+- Tổng hợp hoá chất diệt nấm bệnh , …
+- Sản xuất những hoá chất bảo quản lương thực và thực phẩm .
+- Nghiên cứu chế biến thức ăn tổng hợp .
+IV .
+HOÁ HỌC VÀ VẤN ĐỀ MAY MẶC
+1 .
+Vấn đề may mặc
+- Dân số thế giới gia tăng không ngừng , vì vậy tơ sợi tự nhiên không thể đáp ứng đủ nhu cầu về số lượng cũng như chất lượng .
+- Nhu cầu của con người không chỉ mặc ấm , mà còn mặc đẹp , hợp thời trang .
+2 .
+Giải quyết vấn đề may mặc
+- Góp phần sản xuất ra tơ , sợi hoá học có nhiều ưu điểm nổi bật .
+- Sản xuất nhiều loại phẩm nhuộm .
+- Các vật liệu cơ bản để chế tạo các thiết bị chuyên dụng trong nhà máy dệt và trong ngành dệt may .
+V. HOÁ HỌC VÀ VẤN ĐỀ SỨC KHỎE CON NGƯỜI
+1 .
+Dược phẩm
+- Góp phần nghiên cứu thành phần hoá học của một số dược liệu tự nhiên .
+- Nghiên cứu ra các loại vaccine .
+- Phòng chống những căn bệnh , nạn dịch của thế kỉ .
+- Thuốc tránh thai .
+- Thuốc bổ dưỡng cơ thể .
+2 .
+Chất gây nghiện , chất ma tuý và cách phòng chống ma tuý
+- Dưới dạng những viên thuốc tân dược , bột trắng dùng để hít , viên để uống , dung dịch để tiêm chích .
+- Một số chất gây nghiện : Heroin , Cocaine , Nicotine , thuốc lắc ( Ecstasy ) , Seduxen , Mekoluxen , …
+- Nghiện ma tuý sẽ dẫn đến rối loạn tâm , sinh lí , như rối loạn tiêu hoá , rối loạn chức năng thần kinh , rối loạn tuần hoàn , hô hấp .
+Tiêm chích ma tuý có thể gây trụy tim mạch dễ dẫn đến tử vong .
+- Hoá học đã nghiên cứu ma tuý , sử dụng chúng như là một loại thuốc chữa bệnh .
+- Luôn nói không với ma tuý .
+VI .
+HÓA HỌC VÀ VẤN DỀ Ô NHIỄM MÔI TRƯỜNG
+- Ô nhiễm không khí : Không khí bị ô nhiễm thường có chứa quá mức cho phép nồng độ các khí CO2 , CH4 và một số khí độc khác , thí dụ CO , NH3 , SO2 .
++ Khí gây hiệu ứng nhà khí : CO2 , CH4
++ Khí gây mưa acid : SO2 , NOx
++ Khí gây thủng tầng ozone : CFC ( Chlorofluorocarbon - Freon )
+- Ô nhiễm nước : Nước ô nhiễm thường có chứa chất thải hữu cơ , vi sinh vật gây bệnh , các chất dinh dưỡng thực vật , các chất hữu cơ tổng hợp , các hoá chất vô cơ , các chất phóng xạ , chất độc hoá học , …
+- Ô nhiễm môi trường đất : Đất bị ô nhiễm có chứa độc tố , chất có hại cho cây trồng vượt quá nồng độ được quy định .
+- Nhận biết môi trường bị ô nhiễm :
++ Quan sát qua mùi , màu sắc , …
++ Xác định chất ô nhiễm bằng các thuốc thử .
++ Bằng dụng cụ đo : nhiệt kế , sắc kí , máy đo pH .
+BÀI TẬP
+Câu 1 .
+Nhiên liệu nào sau đây thuộc loại nhiên liệu sạch đang được nghiên cứu sử dụng thay thế một số nhiên liệu khác gây ô nhiễm môi trường ?
+A .
+Than đá B. Xăng , dầu .
+B. Khí butan D. Khí hydrogen .
+Câu 2 .
+Người ta đã sản xuất khí methane thay thế một phần cho nguồn nguyên liệu hoá thạch bằng cách nào sau đây ?
+A. Lên men các chất thải hữu cơ như phân gia súc trong lò biogas .
+B. Thu khí methane từ khí bùn ao .
+C. Lên men ngũ cốc .
+D. Cho hơi nước đi qua than nóng đỏ trong lò .
+Câu 3 .
+Một trong những hướng con người đã nghiên cứu để tạo ra nguồn năng lượng nhân tạo to lớn để sử dụng cho mục đích hoà bình , đó là :
+A. Năng lượng mặt trời B. Năng lượng thuỷ điện .
+C. Năng lượng gió .
+D. Năng lượng hạt nhân .
+Câu 4 .
+Loại thuốc nào sau đây thuộc loại gây nghiện cho con người ?
+A. Penixilin , Amoxilin .
+B. Vitamin C , glucose .
+C. Seduxen , moocphin .
+D. Thuốc cảm Pamin , Panadol .
+Câu 5 .
+Cách bảo quản thực phẩm ( thịt , cá… ) bằng cách nào sau đây được coi là an toàn ?
+A. Dùng formol , nước đá .
+B. Dùng phân đạm , nước đá .
+C. Dùng nước đá hay ướp muối rồi sấy khô .
+D. dùng nước đá khô , formol .
+Câu 6 .
+Trường hợp nào sau đây được coi là không khí sạch ?
+A. Không khí chứa 78 % N2 , 21 % O2 , 1 % hỗn hợp CO2 , H2O , H2 .
+B. Không khí chứa 78 % N2 , 18 % O2 , 4 % hỗn hợp CO2 , H2O , HCl .
+C. Không khí chứa 78 % N2 , 20 % O2 , 2 % hỗn hợp CO2 , CH4 và bụi .
+D. Không khí chứa 78 % N2 , 16 % O2 , 6 % hỗn hợp CO2 , H2O , H2 .
+Câu 7 .
+Trường hợp nào sau đây được coi là nước không bị ô nhiễm ?
+A. Nước ruộng lúa chứa khoảng 1 % thuốc trừ sâu và phân bón hoá học .
+B. Nước thải nhà máy có chứa nồng độ lớn các ion kim loại nặng như Pb2+ , Cd2+ , Hg2+ , Ni2+ .
+C. Nước thải từ các bệnh viện , khu vệ sinh chứa các khuẩn gây bệnh .
+D. Nước từ các nhà máy nước hoặc nước giếng khoan không chứa các độc tố như arsenic , sắt… quá mức cho phép .
+Câu 8 .
+Sau bài thực hành hoá học , trong một số chất thải dạng dung dịch , chứa các ion : Cu2+ , Zn2+ , Fe3+ , Pb2+ , Hg2+… Dùng chất nào sau đây để xử lí sơ bộ các chất thải trên ?
+A. Nước vôi dư .
+B. HNO3 .
+C. Giấm ăn .
+D. Ethanol .
+Câu 9 .
+Khí nào sau đây gây ra hiện tượng mưa acid ?
+A. CH4 .
+B. NH3 .
+C. SO2 .
+D. H2 .
+Câu 10 .
+Chất khí CO ( carbon monoxide ) có trong thành phần loại khí nào sau đây ?
+A. Không khí .
+B. Khí tự nhiên .
+C. Khí dầu mỏ .
+D. Khí lò cao .
+Câu 11 .
+Trong công nghệ xử lí khí thải do quá trình hô hấp của các nhà du hành vũ trụ hay thuỷ thủ trong tàu ngầm người ta thường dùng hoá chất nào sau đây ?
+A. Na2O2 rắn .
+B. NaOH rắn .
+C. KClO3 rắn .
+D. Than hoạt tính .
+Câu 12 .
+Nhiều loại sản phẩm hoá học được điều chế từ muối ăn trong nước biển như : HCl , nước Javel , NaOH , Na2CO3 .
+Tính khối lượng NaCl cần thiết để sản xuất 15 tấn NaOH .
+Biết hiệu suất của quá trình là 80 % .
+A .
+12,422 tấn .
+B .
+17,55 tấn .
+C. 15,422 tấn .
+D. 27,422 tấn .
+Câu 13 .
+Ethyl alcohol là sản phẩm trung gian từ đó sản xuất được cao su nhân tạo , tơ sợi tổng hợp .
+Có thể điều chế ethyl alcohol bằng 2 cách sau :
+- Cho khí ethylene ( lấy từ cracking dầu mỏ ) hợp nước có xúc tác .
+- Cho lên men các nguyên liệu chứa tinh bột .
+Hãy tính lượng ngũ cốc chứa 65 % tinh bột để sản xuất được 2,3 tấn ethyl alcohol .
+Biết rằng hao hụt trong quá trình sản xuất là 25 % .
+A .
+5,4 tấn .
+B .
+8,30 tấn .
+C. 1,56 tấn .
+D. 1,0125 tấn .
+Câu 14 .
+Tính khối lượng dung dịch CuSO4 5 % thu được từ 0,15 tấn nguyên liệu chứa 80 % CuS .
+Hiệu suất của quá trình là 80 % .
+A .
+1,2 tấn .
+B .
+2,3 tấn .
+C. 3,2 tấn .
+D. 4,0 tấn .
+Câu 15 .
+Để đánh giá độ nhiễm bẩn không khí của một nhà máy , người ta tiến hành như sau :
+Lấy 2 lít không khí rồi dẫn qua dung dịch Pb ( NO3 ) 2 dư thì thu được 0,3585 mg chất kết tủa màu đen .
+a. Hãy cho biết hiện tượng đó chứng tỏ trong không khí đã có khí nào trong các khí sau đây ?
+A. H2S .
+B. CO2 .
+C. NH3 .
+D. SO2 .
+b. Tính hàm lượng khí đó trong không khí , coi hiệu suất phản ứng là 100 % .
+( Nên biết thêm : hàm lượng cho phép là 0,01 mg/l ) .
+A .
+0,0250 mg/l .
+B .
+0,0253 mg/l .
+C. 0,0255 mg/l .
+D. 0,0257 mg/l .
+Câu 16 .
+Nhiên liệu nào sau đây thuộc loại nhiên liệu sạch đang được nghiên cứu sử dụng thay thế một số nhiên liệu khác gây ô nhiễm môi trường ?
+A .
+Than đá .
+B. Xăng , dầu .
+C. Khí butane ( gas ) .
+D. Khí hydrogen .
+Câu 17 .
+Người ta đã sản xuất khí methane thay thế một phần cho nguồn nhiên liệu hoá thạch bằng cách nào sau đây ?
+A. Lên men các chất thải hữu cơ như phân gia súc trong hầm biogas .
+B. Thu khí metan từ khí bùn ao .
+C. Lên men ngũ cốc .
+D. Cho hơi nước qua than nóng đỏ trong lò .
+Câu 18 .
+Một trong những hướng con người đã nghiên cứu để tạo ra nguồn năng lượng nhân tạo to lớn sử dụng trong mục đích hoà bình , đó là :
+A. Năng lượng mặt trời .
+B. Năng lượng thuỷ điện .
+C. Năng lượng gió .
+D. Năng lượng hạt nhân .
+Câu 19 .
+Loại thuốc nào sau đây thuộc loại gây nghiện cho con người ?
+A. Penixilin , amoxilin .
+B. Vitamin C , glucose .
+C. Seduxen , moocphin .
+D. Thuốc cảm pamin , paradol .
+Câu 20 .
+Cách bảo quản thực phẩm ( thịt , cá… ) bằng cách nào sau đây được coi là an toàn ?
+A. Dùng formol , nước đá .
+B. Dùng phân đạm , nước đá .
+C. Dùng nước đá và nước đá khô .
+D. Dùng nước đá khô , formol .
+Câu 21 .
+Phân bón , thuốc trừ sâu , thuốc kích thích sinh trưởng , … có tác dụng giúp cây phát triển tốt , tăng năng suất cây trồng nhưng lại có tác dụng phụ gây ra những bệnh hiểm nghèo cho con người .
+Sau khi bón phân hoặc phun thuốc trừ sâu , thuốc kích thích sinh trưởng cho một số loại rau , quả , thời hạn tối thiểu thu hoạch để sử dụng bảo đảm an toàn thường là :
+A .
+1 – 2 ngày .
+B .
+2 – 3 ngày .
+C. 12 – 15 ngày .
+D. 30 – 35 ngày .
+Câu 22 .
+Trường hợp nào sau đây được coi là không khí sạch ?
+A. Không khí chứa 78 % N2 ; 21 % O2 ; 1 % hỗn hợp CO2 , H2O , H2 .
+B. Không khí chứa 78 % N2 ; 18 % O2 ; 4 % hỗn hợp CO2 , SO2 , HCl .
+C. Không khí chứa 78 % N2 ; 20 % O2 ; 2 % hỗn hợp CH4 , bụi và CO2 .
+D. Không khí chứa 78 % N2 ; 16 % O2 ; 3 % hỗn hợp CO2 , 1 % CO , 1 % SO2 .
+Câu 23 .
+Trường hợp nào sau đây được coi là nước không bị ô nhiễm ?
+A. Nước ruộng lúa có chứa khoảng 1 % thuốc trừ sâu và phân bón hoá học .
+B. Nước thải nhà máy có chứa nồng độ lớn các ion kim loại nặng như Pb2+ , Cd2+ , Hg2+ , Ni2+ .
+C. Nước thải từ các bệnh viện , khu vệ sinh chứa các khuẩn gây bệnh .
+D. Nước sinh hoạt từ các nhà máy hoặc nước giếng khoan không có chứa các đọc tố như arsenic , sắt , … quá mức cho phép .
+Câu 24 .
+Môi trường không khí , đất , nước xung quanh một số nhà máy hoá chất thường bị ô nhiễm nặng bởi khí độc , ion kim loại nặng và các hoá chất .
+Biện pháp nào sau đây không thể chống ô nhiễm môi trường ?
+A. Có hệ thống sử lí chất thải trước khi xả ra ngoài hệ thống không khí , sông , hồ , biển .
+B. Thực hiện chu trình khép kín để tận dụng chất thải một cách hiệu quả .
+C. Thay đổi công nghệ sản xuất , sử dụng nhiên liệu sạch .
+D. Xả chất thải trực tiếp ra không khí , sông và biển lớn .
+Câu 25 .
+Sau bài thực hành hoá học , trong một số chất thải ở dạng dung dịch , có chứa các ion : Cu2+ , Zn2+ , Fe3+ , Pb2+ , Hg2+…Dùng chất nào sau đây để xử lí sơ bộ các chất thải trên ?
+A. Nước vôi dư .
+B. HNO3 .
+C. Giấm ăn .
+D. Ethanol .
+Câu 26 .
+Để đánh giá độ nhiễm bẩn không khí của một nhà máy , người ta tiến hành như sau : Lấy 2 lít không khí rồi dẫn qua dung dịch Pb ( NO3 ) 2 dư thì thu được chất kết tủa màu đen .
+Hãy cho biết hiện tượng đó chứng tỏ trong không khí đã có khí nào trong các khí sau ?
+A. H2S .
+B. CO2 .
+C. SO2 .
+D. NH3 .
+Câu 27 .
+Carbon monooxide có trong thành phần chính của loại khí nào sau đây ?
+A. Không khí .
+B. Khí thiên nhiên .
+C. Khí mỏ dầu .
+D. Khí lò cao .
+Câu 28 .
+Ngành sản xuất nào sau đây không thuộc về công nghiệp silicate ?
+A. Đồ gốm .
+B. Ximăng .
+C. Thuỷ tinh thường .
+D. Thuỷ tinh hữu cơ .
+Câu 29 .
+Sự thiếu hụt nguyên tố ( ở dạng hợp chất ) nào sau đây gây bệnh loãng xương ?
+A. Sắt .
+B. Kẽm .
+C. Calcium .
+D. Phosphorus .
+Câu 30 .
+Bổ sung vitamin A cho cơ thể có thể ăn gấc vì trong quả gấc chín có chứa :
+A. vitamin A .
+B. β-carotene ( thuỷ phân tạo vitamin A ) .
+C. ester của vitamin A. D. enzyme tổng hợp vitamin A .
+Câu 31 .
+Khí nào sau đây gây ra hiện tượng mưa acid ?
+A. CO2 .
+B. CH4 .
+C. SO2 .
+D. NH3 .
+Câu 32 .
+Trong khí thải công nghiệp thường có chứa các khí SO2 , NO2 , HF .
+Có thể dùng chất nào ( rẻ tiền ) sau đây để loại bỏ các chất khí đó ?
+A. Ca ( OH ) 2 .
+B. NaOH .
+C. NH3 .
+D. HCl .
+Câu 33 .
+Không khí trong phòng thí nghiệm bị nhiễm bẩn bởi khí Cl2 .
+Để khử độc , có thể xịt vào không khí dung dịch nào sau đây ?
+A. HCl .
+B. NH3 .
+C. H2SO4 loãng .
+D. NaCl .
+Câu 34 .
+Các tác nhân hoá học gây ô nhiễm môi trường gồm
+A. các kim loại nặng : Hg , Pb , Sb… .
+B. các anion : NO3- , PO43- , SO42-
+C. thuốc bảo vệ thực vật , phân bón hóc học .
+D. cả A , B , C .
+Câu 35 .
+Trong số các nguồn năng lượng sau đây , nhóm các nguồn năng lượng nào được coi là năng lượng “ sạch ” ?
+A. Điện hạt nhân , năng lượng thuỷ triều .
+B. Năng lượng gió , năng lượng thuỷ triều .
+C. Năng lượng nhiệt điện , năng lượng địa điện .
+D. Năng lượng mặt trời , năng lượng hạt nhân .
+Câu 36 .
+Việt Nam có mỏ quặng sắt rất lớn ở Thái Nguyên nên đã xây dựng khu liên hợp gang thép tại đây .
+Khu sản xuất được xây dựng ở gần khu vực khai thác mỏ là do :
+A. tiện vận chuyển nguyên liệu làm cho chi phí sản xuất thấp .
+B. không thể bảo quản được quặng sắt lâu dài sau khi khai thác .
+C. chỉ có thể xây dựng nhà máy sản xuất gang thép tại Thái Nguyên .
+D. có thể bảo quản quặng sắt khi vận chuyển , nhưng điều kiện khí hậu ở nơi khác không đảm bảo .
+Câu 37 .
+Trong số các vật liệu sau , vật liệu nào có nguồn gốc hữu cơ ?
+A. Gốm , sứ .
+B. Xi măng .
+C. Chất dẻo .
+D. Đất sét nặn .
+Câu 38 .
+Người ta hút thuốc lá nhiều thường mắc các bệnh nguy hiểm về đường hô hấp .
+Chất gây hại chủ yếu có trong thuốc lá là :
+A. becberin .
+B. nicotin .
+C. axit nicotinic .
+D. moocphin .
+Câu 39 .
+Khí biogaz sản xuất từ chất thải chăn nuôi được sử dụng làm nguồn nhiên liệu trong sinh hoạt ở nông thôn .
+Tác dụng của việc sử dụng khí biogas là
+A. phát triển chăn nuôi .
+B. đốt lấy nhiệt và giảm thiểu ô nhiễm môi trường .
+C. giải quyết công ăn việc làm ở khu vực nông thôn .
+D. giảm giá thành sản xuất dầu , khí .
+Câu 40 .
+Hiện tượng trái đất nóng lên do hiệu ứng nhà kính chủ yếu là do chất nào sau đây ?
+A. Khí chlorine .
+B. Khí carbonic .
+C. Khí carbon oxide .
+D. Khí HCl .
+Câu 41 .
+Mưa acid chủ yếu là do những chất sinh ra trong quá trình sản xuất công nghiệp nhưng không được xử lí triệt để .
+Đó là những chất nào sau đây ?
+A. SO2 , NO2 .
+B. H2S , Cl2 .
+C. NH3 , HCl .
+D. CO2 , SO2 .
+Câu 42 .
+Nguyên nhân của sự suy giảm tầng ozone chủ yếu là do :
+A. khí CO2 .
+B. mưa acid .
+C. chlorine và các hợp chất của chlorine .
+D. quá trình sản xuất gang thép .
+Câu 43 .
+Người ta xử lí nước bằng nhiều cách khác nhau , trong đó có thể thêm chlorine và phèn chua ( K2SO4.Al2 ( SO4 ) 3.24H2O ) .
+Vì sao phải thêm phèn chua vào nước ?
+A. Để làm nước trong .
+B. Để khử trùng nước .
+C. Để loại bỏ lượng dư fluoride ion .
+D. Để loại bỏ các rong , tảo .
+Câu 44 .
+Cá cần có oxygen để tăng trưởng tốt .
+Chúng không thể tăng trưởng tốt nếu quá ấm .
+Lí do cho hiện tượng trên là :
+A. Bơi lội trong nước ấm cần nhiều cố gắng hơn .
+B. Oxi hoà tan kém hơn trong nước ấm .
+C. Phản ứng hoá học xảy ra nhanh hơn khi nhiệt độ tăng .
+D. Trong nước ấm tạo nhiều carbon dioxide hơn .
+Câu 45 .
+Một chất có chứa nguyên tố oxygen , dùng để làm sạch nước và có tác dụng bảo vệ các sinh vật trên Trái Đất không bị bức xạ cực tím .
+Chất này là :
+A. ozone .
+B. oxygen .
+C. sulfur dioxide .
+D. carbon dioxide .
+Câu 46 .
+Không khí bao quanh hành tinh chúng ta là vô cùng thiết yếu cho sự sống , nhưng thành phần của khí quyển luôn thay đổi .
+Khí nào trong không khí có sự biến đổi nồng độ nhiều nhất ?
+A. Hơi nước .
+B .
+Oxygen .
+C. Carbon dioxide .
+D. Nitrogen .
+Câu 47 .
+Dãy gồm các chất và thuốc đều có thể gây nghiện cho con người là
+A. penixilin , paradol , cocain .
+B. heroin , seduxen , erythromixin
+C. cocain , seduxen , cafein .
+D. ampixilin , erythromixin , cafein
+Câu 48 .
+Trong số các chất sau : ethanol , nicotin , cafein , moocphin , seduxen , meprobamat , amphetamin , hassish .
+Những chất gây nghiện là :
+A. Ethanol , nicotin , cafein , moocphin .
+B. moocphin , hassish , seduxen , meprobamat .
+C. seduxen , nicotin , meprobamat , amphetamin .
+D. Tất cả các chất trên .
+Câu 49 .
+Trong nước ngầm thường tồn tại ở dạng ion trong iron ( II ) hydrogencarbonate và iron ( II ) sulfate .
+Hàm lượng sắt trong nước cao làm cho nước có mùi tanh , để lâu có màu vàng gây ảnh hưởng xấu đến sức khỏe của con người nên cần phải loại bỏ .
+Ta có thể dùng các phương pháp nào sau đây để loại bỏ sắt ra khỏi nước sinh hoạt ?
+A. Sục chlorine vào bể nước mới hút từ giếng khoan lên với liều lượng thích hợp .
+B. Dùng giàn phun mưa hoặc bể tràn để cho nước mới hút từ giếng khoan lên được tiếp xúc nhiều với không khí rồi lắng , lọc .
+C. Sục không khí giàu oxygen vào nước mới hút từ giếng khoan lên .
+D. A , B , C đúng .
+Câu 50 .
+Hơi thuỷ ngân rất độc , bởi vậy khi làm vỡ nhiệt kế thuỷ ngân thì chất bột được dùng để rắc lên thuỷ ngân rồi gom lại là :
+A. vôi sống .
+B. cát .
+C. lưu huỳnh .
+D. muối ăn
+ĐÁP ÁN
+1D 11A 21C 31C 41A
+2A 12D 22A 32A 42C
+3D 13B 23D 33B 43A
+4C 14C 24D 34D 44B
+5C 15A , C 25A 35B 45A
+6A 16D 26A 36A 46C
+7D 17A 27D 37C 47C
+8A 18D 28D 38B 48D
+9C 19C 29C 39B 49B
+10D 20C 30B 40B 50C
+Cách nhớ Nguyên tố Số Z Nguyên tử khối Cấu hình e đầy đủ Cấu hình e thu gọn Cấu hình e lớp ngoài cùng Cấu hình e lớp ngoài cùng
+Lâu Li Lithium 3 7 1s22s1 [ He ] 2s1 ns1 ns1
+Nay Na Sodium 11 23 1s22s22p63s1 [ Ne ] 3s1 ns1 ns1
+Không K Potassium 19 39 1s22s22p63s23p64s1 [ Ar ] 4s1 ns1 ns1
+Rảnh Rb Rubidium 37 85,5 [ Kr ] 5s1 ns1 ns1
+Coi Cs Caesium 55 133 [ Xe ] 6s1 ns1 ns1
+Phim Fr Francium Nguyên tố phóng xạ Nguyên tố phóng xạ Nguyên tố phóng xạ Nguyên tố phóng xạ Nguyên tố phóng xạ
+Tính chất NaHCO3 Sodium hydrogencarbonate Na2CO3 Sodium carbonate
+Tính tan Sodium hydrogencarbonate ( Baking soda ) là tinh thể màu trắng , ít tan Sodium carbonate ( hay soda ) là chất bột màu trắng , hút ẩm .
+Dễ tan trong nước và tỏa nhiều nhiệt .
+Nhiệt phân 2NaHCO3 → Na2CO3 + CO2 + H2O Không bị nhiệt phân
+Với acid , base NaHCO3 + NaOH → Na2CO3 + H2O NaHCO3 + HCl → NaCl + CO2 + H2O → ion HCO3- lưỡng tính HCO3- + OH- → CO32- + H2O HCO3- + H+ → CO2 + H2O Na2CO3 + 2HCl → 2NaCl + CO2 + H2O Phản ứng trao đổi tạo kết tủa : Ca ( OH ) 2 + Na2CO3 → CaCO3 + 2NaOH CO32- + 2H+ → CO2 + H2O Ca2+ + CO32- → CaCO3
+Thuỷ phân HCO3- + H2O H2CO3 + OH- pH > 7 ( Làm quỳ tím hóa xanh ) CO32- + H2O HCO3- + OH- HCO3- + H2O H2CO3 + OH- pH > 7 ( Làm quỳ tím hóa xanh )
+Ứng dụng - NaHCO3 dùng trong y khoa chữa bệnh đau dạ dày do thừa acid .
+- Trong công nghiệp thực phẩm làm bột nở gây xốp cho các loại bánh .
+- Điều chỉnh vị chua của nước giải khát .
+- Nguyên liệu sản xuất thủy tinh , xà phòng , giấy dệt và điều chế muối khác .
+- Tẩy sạch vết mỡ bám trên chi tiết máy trước khi sơn , tráng kim loại .
+- Làm mềm nước cứng .
+Điều chế Na2CO3 + CO2 + H2O → 2NaHCO3 Phương pháp Solvay : NaCl ( aq ) + CO2 ( aq ) + NH3 ( aq ) + H2O ( l ) NaHCO3 ( s ) + NH4Cl ( aq ) 2NaHCO3 ( s ) Na2CO3 ( s ) + CO2 ( g ) + H2O ( g ) Tái sử dụng NH3 : 2NH4Cl ( aq ) + CaO ( s ) → 2NH3 ( g ) + CaCl2 ( aq ) + H2O ( l )
+Cách nhớ Nguyên tố Số Z Nguyên tử khối Cấu hình e đầy đủ Cấu hình e thu gọn Cấu hình e lớp ngoài cùng Cấu hình e lớp ngoài cùng
+Bé Be Beryllium 4 9 1s22s2 [ He ] 2s2 ns2 ns2
+Mang Mg Magnesium 12 24 1s22s22p63s2 [ Ne ] 3s2 ns2 ns2
+Cây Ca Calcium 20 40 1s22s22p63s23p64s2 [ Ar ] 4s2 ns2 ns2
+Súng Sr Strontium 38 88 [ Kr ] 5s2 ns2 ns2
+Bắn Ba Barium 56 137 [ Xe ] 6s2 ns2 ns2
+Rắn Ra Radium Nguyên tố phóng xạ Nguyên tố phóng xạ Nguyên tố phóng xạ Nguyên tố phóng xạ Nguyên tố phóng xạ
+Tính chất CaCO3 Calcium carbonate Ca ( HCO3 ) 2 Calcium hydrocarbonate
+Tính tan Chất rắn , màu trắng , không tan trong nước .
+Tan trong nước
+Với acid , base CaCO3 + 2HCl → CaCl2 + CO2 + H2O CaCO3 + NaOH → Không phản ứng Ca ( HCO3 ) 2 + 2HCl → CaCl2 + 2CO2 + 2H2O Ca ( HCO3 ) 2 + Ca ( OH ) 2 → 2CaCO3↓ + 2H2O → Ion HCO3- lưỡng tính
+Nhiệt phân Bị phân hủy ở nhiệt độ cao : CaCO3 CaO + CO2 Độ bền nhiệt tăng từ MgCO3 đến BaCO3 Bị phân hủy khi đun nóng nhẹ : Ca ( HCO3 ) 2 CaCO3 + CO2 + H2O
+Phản ứng CO32- , PO43- Không Ca2+ + CO32- → CaCO3↓ trắng 3Ca2+ + 2PO43-→ Ca3 ( PO4 ) 2↓ trắng
+Với CO2 CaCO3 không tan + CO2 + H2O Ca ( HCO3 ) 2 tan Chiều thuận : Giải thích sự xâm thực của nước mưa đối với đá vôi tạo hang động .
+Chiều nghịch : Giải thích sự tạo thành thạch nhũ trong hang động .
+CaCO3 không tan + CO2 + H2O Ca ( HCO3 ) 2 tan Chiều thuận : Giải thích sự xâm thực của nước mưa đối với đá vôi tạo hang động .
+Chiều nghịch : Giải thích sự tạo thành thạch nhũ trong hang động .
+Nước cứng Đun sôi Ca ( OH ) 2 , NaOH , … Na2CO3 , K2CO3 , … Na3PO4 , K3PO4 , …
+Tạm thời
+Vĩnh cửu
+Toàn phần
+Khí Thuốc thử Hiện tượng Phản ứng
+SO2 Quỳ tím ẩm Hóa hồng
+SO2 dd Br2 , dd KMnO4 Mất màu SO2 + Br2 + 2H2O 2HBr + H2SO4 SO2 + 2KMnO4 + 2H2O 2H2SO4 + 2MnSO4 + K2SO4
+SO2 Nước vôi trong Làm đục SO2 + Ca ( OH ) 2 CaSO3 + H2O
+NH3 Quỳ tím ẩm Hóa xanh
+NH3 Phenolphthalein Hóa hồng
+NH3 Khí HCl Tạo khói trắng NH3 + HCl NH4Cl
+CO2 Nước vôi trong Làm đục CO2 + Ca ( OH ) 2 CaCO3 + H2O
+CO2 Quỳ tím ẩm Hóa hồng
+CO2 Que đóm tắt vì không duy trì sự cháy Que đóm tắt vì không duy trì sự cháy
+N2 Que đóm tắt vì không duy trì sự cháy Que đóm tắt vì không duy trì sự cháy
+CO CuO , to Bột đen → Bột đỏ CuO + H2 → H2O +Cu
+H2S Quỳ tím ẩm Hóa hồng
+H2S O2 Kết tủa vàng 2H2S + O2 2S + 2H2O
+H2S Cl2 Kết tủa vàng H2S + Cl2 S + 2HCl
+H2S SO2 Kết tủa vàng 2H2S + SO2 3S + 2H2O
+H2S FeCl3 Kết tủa vàng H2S + 2FeCl3 2FeCl2 + S + 2HCl
+H2S KMnO4 Kết tủa vàng 3H2S+2KMnO42MnO2+3S+2KOH+2H2O 5H2S+2KMnO4+3H2SO42MnSO4+5S+K2SO4+8H2O
+H2S Pb ( NO3 ) 2 Kết tủa đen H2S + Pb ( NO3 ) 2 PbS+ 2HNO3
+Cl2 Quỳ tím ẩm Dung dịch KI pha hồ dung dịch Hóa đỏ rồi mất màu Xuất hiện màu xanh tím đặc trưng Cl2 + 2KI 2KCl +I2
+O2 Que đóm Bùng cháy
+H2 Que đóm CuO , to H2 cháy với lửa xanh Bột đen → Bột đỏ 2H2 + O2 → 2H2O CuO + H2 → H2O +Cu
+HCl NH3 dd AgNO3 Khói trắng xuất hiện Có kết tủa trắng NH3 + HCl NH4Cl AgNO3 + HCl AgCl + HNO3
+Ion Thuốc thử Hiện tượng Phản ứng
+Li+ Đốt trên ngọn lửa vô sắc Ngọn lửa màu đỏ tía
+Na+ Đốt trên ngọn lửa vô sắc Ngọn lửa màu vàng
+K+ Đốt trên ngọn lửa vô sắc Ngọn lửa màu tím
+Ca2+ Đốt trên ngọn lửa vô sắc Ngọn lửa màu cam
+Sr2+ Đốt trên ngọn lửa vô sắc Ngọn lửa màu đỏ son
+Ba2+ Đốt trên ngọn lửa vô sắc Ngọn lửa màu lục
+Ba2+ dd , dd trắng Ba2+ + BaSO4 Ba2+ + BaCO3
+Cu2+ dd NH3 xanh , tan trong dd NH3 dư Cu ( OH ) 2 + 4NH3 [ Cu ( NH3 ) 4 ] ( OH ) 2
+Mg2+ dd kiềm trắng Mg2+ + 2OH Mn ( OH ) 2
+Fe2+ dd kiềm lục nhạt , hóa nâu ngoài không khí Fe2+ + 2OH Fe ( OH ) 2 2Fe ( OH ) 2 + O2 + 2H2O 2Fe ( OH ) 3
+Fe3+ dd kiềm nâu đỏ Fe3+ + 3OH Fe ( OH ) 3
+Zn2+ dd kiềm keo trắng tan trong kiềm dư Zn2+ + 2OH Zn ( OH ) 2 Zn ( OH ) 2 + 2OH ZnO22- + 2H2O
+Al3+ dd kiềm keo trắng tan trong kiềm dư Al3+ + 3OH Al ( OH ) 3 Al ( OH ) 3 + OH + 2H2O
+Cu2+ dd kiềm xanh Cu2+ + 2OH Cu ( OH ) 2
+NH dd kiềm NH3 + OH NH3 + H2O
+Ion Thuốc thử Hiện tượng Phản ứng
+AgNO3 trắng Cl + Ag+ AgCl ( hóa đen ngoài ánh sáng )
+Br- AgNO3 vàng nhạt Br + Ag+ AgBr
+I- AgNO3 vàng đậm I + Ag+ AgI
+BaCl2 trắng + Ba2+ BaCO3 ( tan trong HCl )
+BaCl2 trắng + Ba2+ BaSO3 ( tan trong HCl )
+BaCl2 trắng + Ba2+ BaSO4 ( không tan trong HCl )
+Pb ( NO3 ) 2 đen S2 + Pb2+ PbS
+HCl Sủi bọt khí + 2H+ CO2 + H2O ( không mùi )
+HCl Sủi bọt khí + 2H+ SO2 + H2O ( mùi hắc )
+HCl Sủi bọt khí + 2H+ H2S ( mùi trứng thối )
+Đun nóng Sủi bọt khí 2 CO2 + + H2O
+Đun nóng Sủi bọt khí mùi hắc 2 SO2 + + H2O
+PO43- AgNO3 vàng PO43- + 3Ag+ Ag3PO4
+Vụn Cu , H2SO4 Dung dịch màu xanh và khí không màu hóa nâu trong không khí + H+ HNO3 3Cu + 8HNO3 2Cu ( NO3 ) 2 + 2NO + 4H2O 2NO + O2 2NO2
+Chất Thuốc thử Hiện tượng Phản ứng
+Alkane Cl2 , ánh sáng Sản phẩm sau phản ứng làm hồng giấy quỳ ẩm CnH2n+2 + Cl2 CnH2n+1Cl + HCl
+Alkene dd Br2 Mất màu CnH2n + Br2 CnH2nBr2
+Alkene dd KMnO4 Mất màu 3CnH2n + 2KMnO4 + 4H2O 3CnH2n ( OH ) 2 + 2MnO2 + 2KOH
+Alkene Khí O2 Sản phẩm cho phản ứng tráng gương 2CH2 = CH2 + O2 CH3CHO
+Alkadiene dd Br2 Mất màu CnH2n2 + 2Br2 CnH2nBr4
+Alkyne dd Br2 Mất màu CnH2n2 + 2Br2 CnH2nBr4
+Alkyne dd KMnO4 Mất màu 3CHCH+8KMnO4 + 4H2O 3HOOCCOOH + 8MnO2+8KOH
+Alkyne AgNO3/NH3 ( có liên kết 3 đầu mạch ) Kết tủa màu vàng nhạt RCCH + [ Ag ( NH3 ) 2 ] OH RCCAg + 2NH3 + H2O HCCH + 2 [ Ag ( NH3 ) 2 ] OH AgCCAg + 4NH3 + 2H2O
+Toluene dd KMnO4 , t0 Mất màu
+Styrene dd KMnO4 Mất màu C6H5-CH=CH2 + Br2 → C6H5-CHBr-CH2Br 3C6H5CH = CH2 + 2KMnO4 + 4H2O 3C6H5CHOHCH2OH + 2MnO2 + 2KOH
+Hợp chất có H linh động : acid , alcohol , phenol Na , K không màu 2R OH + 2Na 2R ONa + H2 2R COOH + 2Na 2R COONa + H2 2C6H5 OH + 2Na 2C6H5 ONa + H2
+Alcohol bậc I CuO ( đen ) t0 Cu ( đỏ ) , Sản phẩm cho phản ứng tráng gương RCH2OH + CuO RCH=O + Cu + H2O R-CHO + 2 [ Ag ( NH3 ) 2 ] OH → R-COONH4 + 2Ag + 3NH3 + H2O
+Alcohol bậc II CuO ( đen ) t0 Cu ( đỏ ) , Sản phẩm không tráng gương RCHOHR + CuO RCOR + Cu + H2O
+Alcohol đa chức Cu ( OH ) 2 , nhiệt độ thường dung dịch màu xanh lam
+Aniline nước bromine Tạo kết tủa trắng 2,4,6-tribromoaniline
+Phenol nước bromine Tạo kết tủa trắng 2,4,6-tribromophenol
+Aldehyde AgNO3/NH3 ( Thuốc thử Tollens ) Ag R-CHO + 2 [ Ag ( NH3 ) 2 ] OH → R-COONH4 + 2Ag + 3NH3 + H2O CH2OH ( CHOH ) 4CHO + 2 [ Ag ( NH3 ) 2 ] OH CH2OH ( CHOH ) 4COONH4 + 2Ag + 3NH3 + H2O HCOOH + 2 [ Ag ( NH3 ) 2 ] OH ( NH4 ) 2CO3 + 2Ag + 2NH3 + H2O HCOOR + 2 [ Ag ( NH3 ) 2 ] OH NH4OCOOR + 2Ag + 3NH3 + H2O
+Aldehyde Cu ( OH ) 2 NaOH , t0 đỏ gạch RCHO + 2Cu ( OH ) 2 + NaOH RCOONa + Cu2O + 3H2O
+Aldehyde dd bromine Mất màu RCHO + Br2 + H2O RCOOH + 2HBr
+Aldehyde Aldehyde no hay không no đều làm mất màu nước Br2 vì đây là phản ứng oxi hóa khử .
+Muốn phân biệt aldehyde no và không no dùng dd Br2 trong CCl4 , môi trường CCl4 thì Br2 không thể hiện tính oxi hóa nên chỉ phản ứng cộng vào liên kết π ( C=C ) với aldehyde không no Aldehyde no hay không no đều làm mất màu nước Br2 vì đây là phản ứng oxi hóa khử .
+Muốn phân biệt aldehyde no và không no dùng dd Br2 trong CCl4 , môi trường CCl4 thì Br2 không thể hiện tính oxi hóa nên chỉ phản ứng cộng vào liên kết π ( C=C ) với aldehyde không no Aldehyde no hay không no đều làm mất màu nước Br2 vì đây là phản ứng oxi hóa khử .
+Muốn phân biệt aldehyde no và không no dùng dd Br2 trong CCl4 , môi trường CCl4 thì Br2 không thể hiện tính oxi hóa nên chỉ phản ứng cộng vào liên kết π ( C=C ) với aldehyde không no
+Carboxylic acid Quì tím Hóa đỏ
+Carboxylic acid CO2 2R COOH + Na2CO3 2R COONa + CO2 + H2O
+Amino acid Hóa xanh Hóa đỏ Không đổi Số nhóm NH2 > số nhóm COOH Số nhóm NH2 < số nhóm COOH Số nhóm NH2 = số nhóm COOH
+Amine Quì tím Hóa xanh Trừ amine có N liên kết trực tiếp với vòng benzene
+Protein dd HNO3 chuyển sang màu vàng
+Protein Cu ( OH ) 2/OH- chuyển sang màu tím
+Glucose Cu ( OH ) 2 dd xanh lam 2C6H12O6 + Cu ( OH ) 2 Cu ( C6H11O6 ) 2 + 2H2O
+Glucose Cu ( OH ) 2 NaOH , t0 đỏ gạch CH2OH ( CHOH ) 4 CHO + 2Cu ( OH ) 2 + NaOH CH2OH ( CHOH ) 4 COONa + Cu2O + 3H2O
+Glucose AgNO3/NH3 ( Tollens ) Ag trắng CH2OH ( CHOH ) 4CHO + 2 [ Ag ( NH3 ) 2 ] OH CH2OH ( CHOH ) 4COONH4 + 2Ag + 3NH3 + H2O
+Glucose dd Br2 Mất màu CH2OH ( CHOH ) 4CHO + Br2 + H2O CH2OH ( CHOH ) 4COOH + 2HBr
+Saccharose C12H22O11 Thuỷ phân Sản phẩm tham gia phản ứng tráng gương C12H22O11 + H2O C6H12O6 + C6H12O6 Glucose Fructose
+Saccharose C12H22O11 Vôi sữa Vẩn đục C12H22O11 + Ca ( OH ) 2 C12H22O11.CaO + H2O
+Saccharose C12H22O11 Cu ( OH ) 2 dd xanh lam C12H22O11 + Cu ( OH ) 2 Cu ( C12H22O11 ) 2 + 2H2O
+Maltose C12H22O11 Cu ( OH ) 2 dd xanh lam 2C12H22O11 + Cu ( OH ) 2 Cu ( C12H21O11 ) 2 + 2H2O
+Maltose C12H22O11 AgNO3/NH3 ( Tollens ) Ag trắng R-CHO + 2 [ Ag ( NH3 ) 2 ] OH → R-COONH4 + 2Ag + 3NH3 + H2O
+Maltose C12H22O11 Thuỷ phân Sản phẩm tham gia phản ứng tráng gương C12H22O11 + H2O 2C6H12O6 ( Glucose )
+Tinh bột ( C6H10O5 ) n Thuỷ phân , H+ , t0 Sản phẩm tham gia phản ứng tráng gương ( C6H10O5 ) n + nH2O nC6H12O6 ( Glucose )
+Tinh bột ( C6H10O5 ) n Dung dịch iodine Tạo dung dịch màu xanh tím , khi đun nóng màu xanh tím biến mất , khi để nguội màu xanh tím lại xuất hiện .
+Tạo dung dịch màu xanh tím , khi đun nóng màu xanh tím biến mất , khi để nguội màu xanh tím lại xuất hiện .

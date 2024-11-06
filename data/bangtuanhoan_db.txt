@@ -1,0 +1,1796 @@
+﻿BẢNG TUẦN HOÀN NGUYÊN TỐ HÓA HỌC:
+1. Nguyên tố Hydrogen
+- Tên nguyên tố (theo IUPAC): Hydrogen
+- Kí hiệu: H
+- Số hiệu nguyên tử: 1
+- Độ âm điện: 2.20
+- Nguyên tử khối: 1.008 u
+- Độ nóng chảy: -259.16°C
+- Độ sôi: -252.87°C
+- Cấu hình electron: 1s¹
+- Ứng dụng: Ở điều kiện tiêu chuẩn, Hydrogen tồn tại ở trạng thái
+
+khí. Hydrogen rất đa dạng, bao gồm sản xuất amoniac thông qua
+quy trình Haber, làm nhiên liệu cho tên lửa và tàu vũ trụ, cũng
+như trong hàn và cắt kim loại (hydrogen hàn). Nguyên tố này
+được Henry Cavendish phát hiện vào năm 1766.
+
+2. Nguyên tố Helium
+- Tên nguyên tố (theo IUPAC): Helium
+- Kí hiệu: He
+- Số hiệu nguyên tử: 2
+- Độ âm điện: Không xác định
+- Nguyên tử khối: 4.002602 u
+- Độ nóng chảy: -272.20°C (0.95 K) (dưới áp suất cao)
+- Độ sôi: -268.93°C (4.22 K)
+- Cấu hình electron: 1s²
+- Ứng dụng: Helium được biết đến với tính chất không màu, không
+
+mùi, và là một trong những yếu tố hiếm khí quý. Nó được sử
+dụng phổ biến trong các ứng dụng làm lạnh như máy MRI (hình
+ảnh cộng hưởng từ), máy bay phản lực, và các dàn thiên văn
+học. Đặc biệt, Helium làm việc hiệu quả trong môi trường cực
+thấp nhiệt độ và áp suất.
+
+3. Nguyên tố Lithium
+- Tên nguyên tố (theo IUPAC): Lithium
+- Kí hiệu: Li
+- Số hiệu nguyên tử: 3
+- Độ âm điện: 0.98
+- Nguyên tử khối: 6.94 u
+- Độ nóng chảy: 180.54°C (453.69 K)
+- Độ sôi: 1342°C (1615 K)
+
+
+
+- Cấu hình electron: [He] 2s¹
+- Ứng dụng: Lithium là một trong những nguyên tố nhẹ và có tính
+
+ổn định hóa học cao. Nó là thành phần chính của pin lithium-ion,
+một loại pin sạc lại phổ biến trong thiết bị di động, máy tính xách
+tay, và xe điện. Ngoài ra, Lithium cũng được sử dụng trong công
+nghệ y tế, đặc biệt là trong điều trị bệnh lưỡng cực và các bệnh
+thần kinh khác.
+
+4. Beryllium
+- Tên nguyên tố (theo IUPAC): Beryllium
+- Kí hiệu: Be
+- Số hiệu nguyên tử: 4
+- Độ âm điện: 1.57
+- Nguyên tử khối: 9.0122 u
+- Độ nóng chảy: 1287°C (1560 K)
+- Độ sôi: 2469°C (2742 K)
+- Cấu hình electron: [He] 2s²
+- Ứng dụng: Beryllium là một kim loại nhẹ, cứng và có tính dẫn
+
+điện cao. Nó được sử dụng rộng rãi trong các hợp kim đặc biệt
+như hợp kim nhôm-beryllium với đặc tính cơ học và bền vững
+cao. Beryllium cũng được áp dụng trong công nghiệp hàng không
+vũ trụ và y học, mặc dù nó cũng là một chất độc và cần được xử
+lý cẩn thận.
+
+5. Boron
+- Tên nguyên tố (theo IUPAC): Boron
+- Kí hiệu: B
+- Số hiệu nguyên tử: 5
+- Độ âm điện: 2.04
+- Nguyên tử khối: 10.81 u
+- Độ nóng chảy: 2076°C (2349 K)
+- Độ sôi: 3927°C (4200 K)
+- Cấu hình electron: [He] 2s² 2p¹
+- Ứng dụng: Boron là nguyên tố nhẹ, có tính chất kim loại phi kim.
+
+Nó được sử dụng trong sản xuất thủy tinh chịu nhiệt, các chất
+chống cháy và các hợp chất dẻo. Boron cũng có ứng dụng trong
+y học hạt nhân và công nghệ vật liệu để tạo ra các vật liệu nhẹ và
+cứng.
+
+6. Carbon
+- Tên nguyên tố (theo IUPAC): Carbon
+- Kí hiệu: C
+- Số hiệu nguyên tử: 6
+
+
+
+- Độ âm điện: 2.55
+- Nguyên tử khối: 12.011 u
+- Độ nóng chảy: 3550°C (3823 K) (dưới áp suất cao)
+- Độ sôi: 4027°C (4300 K) (dưới áp suất cao)
+- Cấu hình electron: [He] 2s² 2p²
+- Ứng dụng: Carbon là nguyên tố cơ bản của tất cả các hợp chất
+
+hữu cơ và không hữu cơ. Nó có tính chất đa dạng và quan trọng
+trong các ngành công nghiệp, từ sản xuất nhựa và sợi carbon
+đến kim loại từ quá trình luyện gang và thép. Carbon cũng là
+thành phần chính của nhiều sản phẩm tiêu dùng hàng ngày như
+thuốc lá và vật liệu xây dựng.
+
+7. Nitrogen
+- Tên nguyên tố (theo IUPAC): Nitrogen
+- Kí hiệu: N
+- Số hiệu nguyên tử: 7
+- Độ âm điện: 3.04
+- Nguyên tử khối: 14.007 u
+- Độ nóng chảy: -210.0°C (63.15 K)
+- Độ sôi: -195.79°C (77.36 K)
+- Cấu hình electron: [He] 2s² 2p³
+- Ứng dụng: Nitrogen là nguyên tố khí không màu, không mùi, rất
+
+quan trọng trong cuộc sống hàng ngày và công nghiệp. Nó được
+sử dụng rộng rãi như một chất bảo quản thực phẩm và trong các
+quá trình công nghiệp như hàn kim loại. Nitrogen là thành phần
+chính của khí nitơ, được sử dụng để bảo vệ môi trường không
+khí ẩm trong các ứng dụng công nghiệp và y tế.
+
+8. Oxygen
+- Tên nguyên tố (theo IUPAC): Oxygen
+- Kí hiệu: O
+- Số hiệu nguyên tử: 8
+- Độ âm điện: 3.44
+- Nguyên tử khối: 15.999 u
+- Độ nóng chảy: -218.79°C (54.36 K)
+- Độ sôi: -182.96°C (90.20 K)
+- Cấu hình electron: [He] 2s² 2p⁴
+- Ứng dụng: Oxygen là nguyên tố cần thiết cho sự sống qua quá
+
+trình hô hấp. Nó được sử dụng rộng rãi trong y tế để cung cấp
+oxy cho bệnh nhân, trong công nghiệp để oxy hóa và làm mát, và
+trong sản xuất oxi lỏng. Oxygen cũng là một thành phần quan
+
+
+
+trọng của nhiều hợp chất hóa học và được sử dụng để tạo ra
+nhiều sản phẩm hàng ngày.
+
+9. Fluorine
+- Tên nguyên tố (theo IUPAC): Fluorine
+- Kí hiệu: F
+- Số hiệu nguyên tử: 9
+- Độ âm điện: 3.98
+- Nguyên tử khối: 18.998 u
+- Độ nóng chảy: -219.67°C (53.48 K)
+- Độ sôi: -188.11°C (85.04 K)
+- Cấu hình electron: [He] 2s² 2p⁵
+- Ứng dụng: Fluorine là nguyên tố khí có tính chất vô cực mạnh.
+
+Nó được sử dụng trong công nghiệp và hóa học để sản xuất các
+hợp chất fluorua quan trọng như hydrofluoric acid và các polymer
+fluorua. Fluorine cũng có ứng dụng trong công nghệ chế tạo và
+trong y học, ví dụ như trong chẩn đoán hình ảnh y tế.
+
+10. Neon
+- Tên nguyên tố (theo IUPAC): Neon
+- Kí hiệu: Ne
+- Số hiệu nguyên tử: 10
+- Độ âm điện: Không xác định
+- Nguyên tử khối: 20.180 u
+- Độ nóng chảy: -248.59°C (24.56 K)
+- Độ sôi: -246.08°C (27.07 K)
+- Cấu hình electron: [He] 2s² 2p⁶
+- Ứng dụng: Neon là một trong những khí hiếm, không màu, không
+
+mùi và không phản ứng. Nó được sử dụng chủ yếu trong đèn
+neon để tạo ánh sáng màu sắc và trong các ứng dụng quảng
+cáo. Neon cũng được sử dụng trong công nghiệp để làm mát và
+trong nghiên cứu về plasma.
+
+11. Sodium
+- Tên nguyên tố (theo IUPAC): Sodium
+- Kí hiệu: Na
+- Số hiệu nguyên tử: 11
+- Độ âm điện: 0.93
+- Nguyên tử khối: 22.990 u
+- Độ nóng chảy: 97.72°C (370.87 K)
+- Độ sôi: 883°C (1156 K)
+- Cấu hình electron: [Ne] 3s¹
+
+
+
+- Ứng dụng: Sodium là một kim loại mềm, có tính khử mạnh và có
+mặt rộng rãi trong thiên nhiên dưới dạng muối. Nó được sử dụng
+rộng rãi như một chất điện giải trong nước, trong sản xuất xà
+phòng và trong các quá trình hàn kim loại. Sodium cũng là thành
+phần chính của muối ăn và có vai trò quan trọng trong sự cân
+bằng điện giải trong cơ thể con người.
+
+12. Magnesium
+- Tên nguyên tố (theo IUPAC): Magnesium
+- Kí hiệu: Mg
+- Số hiệu nguyên tử: 12
+- Độ âm điện: 1.31
+- Nguyên tử khối: 24.305 u
+- Độ nóng chảy: 650°C (923 K)
+- Độ sôi: 1091°C (1363 K)
+- Cấu hình electron: [Ne] 3s²
+- Ứng dụng: Magnesium là một kim loại nhẹ, có tính năng tương tự
+
+như calcium và là thành phần chính của hợp kim
+nhôm-magnesium. Nó được sử dụng trong sản xuất hợp kim
+nhôm-magnesium, các sản phẩm hợp kim và trong y học như
+một chất bổ sung dinh dưỡng và để điều trị các rối loạn liên quan
+đến magnesium.
+
+13. Aluminium
+- Tên nguyên tố (theo IUPAC): Aluminium
+- Kí hiệu: Al
+- Số hiệu nguyên tử: 13
+- Độ âm điện: 1.61
+- Nguyên tử khối: 26.982 u
+- Độ nóng chảy: 660.32°C (933.47 K)
+- Độ sôi: 2470°C (2743 K)
+- Cấu hình electron: [Ne] 3s² 3p¹
+- Ứng dụng: Aluminum là kim loại nhẹ, có độ bền và dẻo dai cao.
+
+Nó được sử dụng rộng rãi trong ngành công nghiệp vì khả năng
+chống ăn mòn và dễ gia công cao. Aluminum là thành phần chính
+của nhiều hợp kim, bao gồm cả hợp kim nhôm-magnesium và
+hợp kim nhôm-kẽm-magnesium.
+
+14. Silicon
+- Tên nguyên tố (theo IUPAC): Silicon
+- Kí hiệu: Si
+- Số hiệu nguyên tử: 14
+- Độ âm điện: 1.90
+
+
+
+- Nguyên tử khối: 28.085 u
+- Độ nóng chảy: 1414°C (1687 K)
+- Độ sôi: 3265°C (3538 K)
+- Cấu hình electron: [Ne] 3s² 3p²
+- Ứng dụng: Silicon là nguyên tố bán dẫn quan trọng trong công
+
+nghệ điện tử. Nó được sử dụng trong sản xuất chất bán dẫn, vi
+mạch tích hợp và solar cells. Silicon cũng là thành phần chính
+của thủy tinh và các vật liệu chịu nhiệt khác do khả năng chịu
+nhiệt và cơ học tốt của nó.
+
+15. Phosphorus
+- Tên nguyên tố (theo IUPAC): Phosphorus
+- Kí hiệu: P
+- Số hiệu nguyên tử: 15
+- Độ âm điện: 2.19
+- Nguyên tử khối: 30.974 u
+- Độ nóng chảy: 44.15°C (317.3 K) (trắng)
+- Độ sôi: 280.5°C (553.7 K) (trắng)
+- Cấu hình electron: [Ne] 3s² 3p³
+- Ứng dụng: Phosphorus là nguyên tố quan trọng trong sinh học và
+
+nông nghiệp. Nó được sử dụng trong phân bón nhân tạo để cải
+thiện sự phát triển của cây trồng. Ngoài ra, phosphorus cũng có
+ứng dụng trong các sản phẩm hóa chất như chất tạo màu và chất
+chống cháy.
+
+16. Sulfur
+- Tên nguyên tố (theo IUPAC): Sulfur
+- Kí hiệu: S
+- Số hiệu nguyên tử: 16
+- Độ âm điện: 2.58
+- Nguyên tử khối: 32.06 u
+- Độ nóng chảy: 115.21°C (388.36 K)
+- Độ sôi: 444.6°C (717.8 K)
+- Cấu hình electron: [Ne] 3s² 3p⁴
+- Ứng dụng: Sulfur là một nguyên tố không kim loại, có mùi khó
+
+chịu và là thành phần chính của nhiều hợp chất hữu cơ và không
+hữu cơ. Nó được sử dụng trong sản xuất axit sulfuric, phân bón
+và thuốc trừ sâu. Sulfur cũng có ứng dụng trong sản xuất cao su
+vulcanized để làm cho cao su bền hơn và chịu nhiệt tốt hơn.
+
+17. Chlorine
+- Tên nguyên tố (theo IUPAC): Chlorine
+- Kí hiệu: Cl
+
+
+
+- Số hiệu nguyên tử: 17
+- Độ âm điện: 3.16
+- Nguyên tử khối: 35.45 u
+- Độ nóng chảy: -101.5°C (171.65 K)
+- Độ sôi: -34.04°C (239.11 K)
+- Cấu hình electron: [Ne] 3s² 3p⁵
+- Ứng dụng: Chlorine là một khí màu lục, có mùi khó chịu và có
+
+tính khử mạnh. Nó được sử dụng rộng rãi trong sản xuất hóa
+chất như thuốc trừ sâu, chất tẩy rửa và trong xử lý nước để diệt
+khuẩn. Chlorine cũng là thành phần chính của natri clorua (muối)
+được sử dụng rộng rãi trong thực phẩm và y tế.
+
+18. Argon
+- Tên nguyên tố (theo IUPAC): Argon
+- Kí hiệu: Ar
+- Số hiệu nguyên tử: 18
+- Độ âm điện: Không xác định
+- Nguyên tử khối: 39.948 u
+- Độ nóng chảy: -189.3°C (83.87 K)
+- Độ sôi: -185.8°C (87.3 K)
+- Cấu hình electron: [Ne] 3s² 3p⁶
+- Ứng dụng: Argon là một trong những khí hiếm, không màu,
+
+không mùi và không phản ứng. Nó được sử dụng trong hàn kim
+loại, trong điện tử để bảo vệ các môi trường không khí ẩm và
+trong các ứng dụng lắp đặt điện tử.
+
+19. Potassium
+- Tên nguyên tố (theo IUPAC): Potassium
+- Kí hiệu: K
+- Số hiệu nguyên tử: 19
+- Độ âm điện: 0.82
+- Nguyên tử khối: 39.098 u
+- Độ nóng chảy: 63.38°C (336.53 K)
+- Độ sôi: 759°C (1032 K)
+- Cấu hình electron: [Ar] 4s¹
+- Ứng dụng: Potassium là một kim loại mềm, có tính khử mạnh và
+
+là nguyên tố thiết yếu cho sự sống của các tế bào và cơ thể con
+người. Nó được sử dụng rộng rãi trong sản xuất phân bón kali,
+trong các hợp chất dược phẩm và trong các ứng dụng điện hóa
+như pin.
+
+20. Calcium
+- Tên nguyên tố (theo IUPAC): Calcium
+
+
+
+- Kí hiệu: Ca
+- Số hiệu nguyên tử: 20
+- Độ âm điện: 1.00
+- Nguyên tử khối: 40.078 u
+- Độ nóng chảy: 842°C (1115 K)
+- Độ sôi: 1484°C (1757 K)
+- Cấu hình electron: [Ar] 4s²
+- Ứng dụng: Calcium là một kim loại kiềm mềm, có tính chất hóa
+
+học quan trọng trong cơ thể động vật và thực vật. Nó được sử
+dụng rộng rãi trong xây dựng và xây dựng, trong sản xuất thép và
+kim loại từ quá trình luyện gang, và cũng là thành phần chính của
+xương và răng.
+
+21. Scandium
+- Tên nguyên tố (theo IUPAC): Scandium
+- Kí hiệu: Sc
+- Số hiệu nguyên tử: 21
+- Độ âm điện: 1.36
+- Nguyên tử khối: 44.956 u
+- Độ nóng chảy: 1541°C (1814 K)
+- Độ sôi: 2836°C (3109 K)
+- Cấu hình electron: [Ar] 3d¹ 4s²
+- Ứng dụng: Scandium là một kim loại nhẹ, có tính chất cơ học và
+
+nhiệt động học tốt. Nó được sử dụng trong các hợp kim đặc biệt
+như hợp kim nhôm-scandium để cải thiện độ cứng và độ dẻo dai
+của kim loại.
+
+22. Titanium
+- Tên nguyên tố (theo IUPAC): Titanium
+- Kí hiệu: Ti
+- Số hiệu nguyên tử: 22
+- Độ âm điện: 1.54
+- Nguyên tử khối: 47.867 u
+- Độ nóng chảy: 1668°C (1941 K)
+- Độ sôi: 3287°C (3560 K)
+- Cấu hình electron: [Ar] 3d² 4s²
+- Ứng dụng: Titanium là một kim loại nhẹ, rất chịu nhiệt và có tính
+
+chất chống ăn mòn tốt. Nó được sử dụng rộng rãi trong ngành
+hàng không vũ trụ, trong sản xuất máy bay và các ứng dụng y tế
+như phẫu thuật cơ xương.
+
+23. Vanadium
+- Tên nguyên tố (theo IUPAC): Vanadium
+
+
+
+- Kí hiệu: V
+- Số hiệu nguyên tử: 23
+- Độ âm điện: 1.63
+- Nguyên tử khối: 50.942 u
+- Độ nóng chảy: 1910°C (2183 K)
+- Độ sôi: 3407°C (3680 K)
+- Cấu hình electron: [Ar] 3d³ 4s²
+- Ứng dụng: Vanadium là một kim loại nhẹ, có tính chất cơ học tốt
+
+và là thành phần chính của nhiều hợp kim thép. Nó được sử
+dụng để tăng cường độ cứng và độ bền của thép và trong các
+ứng dụng y tế như các thiết bị y tế cơ bản.
+
+24. Chromium
+- Tên nguyên tố (theo IUPAC): Chromium
+- Kí hiệu: Cr
+- Số hiệu nguyên tử: 24
+- Độ âm điện: 1.66
+- Nguyên tử khối: 51.996 u
+- Độ nóng chảy: 1907°C (2180 K)
+- Độ sôi: 2671°C (2944 K)
+- Cấu hình electron: [Ar] 3d⁵ 4s¹
+- Ứng dụng: Chromium là một kim loại có màu xám xanh, có tính
+
+chất chống ăn mòn cao và được sử dụng rộng rãi trong các hợp
+kim thép không gỉ và mạ chrome. Nó cũng có ứng dụng trong các
+hợp chất y tế để điều trị bệnh tiểu đường.
+
+25. Manganese
+- Tên nguyên tố (theo IUPAC): Manganese
+- Kí hiệu: Mn
+- Số hiệu nguyên tử: 25
+- Độ âm điện: 1.55
+- Nguyên tử khối: 54.938 u
+- Độ nóng chảy: 1246°C (1519 K)
+- Độ sôi: 2061°C (2334 K)
+- Cấu hình electron: [Ar] 3d⁵ 4s²
+- Ứng dụng: Manganese là một kim loại nhẹ, có tính chất chống oxi
+
+hóa cao và được sử dụng trong sản xuất thép và kim loại từ quá
+trình luyện gang. Nó cũng là thành phần quan trọng của các hợp
+kim như hợp kim niken-mangan.
+
+26. Iron
+- Tên nguyên tố (theo IUPAC): Iron
+- Kí hiệu: Fe
+
+
+
+- Số hiệu nguyên tử: 26
+- Độ âm điện: 1.83
+- Nguyên tử khối: 55.845 u
+- Độ nóng chảy: 1538°C (1811 K)
+- Độ sôi: 2862°C (3135 K)
+- Cấu hình electron: [Ar] 3d⁶ 4s²
+- Ứng dụng: Iron là một trong những kim loại phổ biến nhất trên
+
+Trái Đất và là thành phần chính của thép và gang. Nó có tính dẻo
+dai và dễ gia công, được sử dụng rộng rãi trong xây dựng, sản
+xuất ô tô và trong công nghiệp.
+
+27. Cobalt
+- Tên nguyên tố (theo IUPAC): Cobalt
+- Kí hiệu: Co
+- Số hiệu nguyên tử: 27
+- Độ âm điện: 1.88
+- Nguyên tử khối: 58.933 u
+- Độ nóng chảy: 1495°C (1768 K)
+- Độ sôi: 2927°C (3200 K)
+- Cấu hình electron: [Ar] 3d⁷ 4s²
+- Ứng dụng: Cobalt là một kim loại cứng, có tính chất từ tính mạnh
+
+và được sử dụng rộng rãi trong sản xuất từ hợp kim đặc biệt như
+hợp kim niken-cobalt. Nó cũng có ứng dụng trong y tế như trong
+các thiết bị ghép khớp và trong các ứng dụng điện tử.
+
+28. Nickel
+- Tên nguyên tố (theo IUPAC): Nickel
+- Kí hiệu: Ni
+- Số hiệu nguyên tử: 28
+- Độ âm điện: 1.91
+- Nguyên tử khối: 58.693 u
+- Độ nóng chảy: 1455°C (1728 K)
+- Độ sôi: 2913°C (3186 K)
+- Cấu hình electron: [Ar] 3d⁸ 4s²
+- Ứng dụng: Nickel là một kim loại bền vững, có tính chất chống ăn
+
+mòn cao và là thành phần chính của nhiều hợp kim như hợp kim
+niken. Nó được sử dụng trong sản xuất pin, các thiết bị điện tử và
+trong các ứng dụng chịu nhiệt cao.
+
+29. Copper
+- Tên nguyên tố (theo IUPAC): Copper
+- Kí hiệu: Cu
+- Số hiệu nguyên tử: 29
+
+
+
+- Độ âm điện: 1.90
+- Nguyên tử khối: 63.546 u
+- Độ nóng chảy: 1084.62°C (1357.77 K)
+- Độ sôi: 2562°C (2835 K)
+- Cấu hình electron: [Ar] 3d¹⁰ 4s¹
+- Ứng dụng: Copper là một trong những kim loại dẫn điện tốt nhất
+
+và là thành phần chính của dây dẫn điện và các mạch điện tử. Nó
+cũng được sử dụng rộng rãi trong sản xuất đồ gia dụng và trong
+các sản phẩm điện tử như điện thoại di động và máy tính.
+
+30. Zinc
+- Tên nguyên tố (theo IUPAC): Zinc
+- Kí hiệu: Zn
+- Số hiệu nguyên tử: 30
+- Độ âm điện: 1.65
+- Nguyên tử khối: 65.38 u
+- Độ nóng chảy: 419.53°C (692.68 K)
+- Độ sôi: 907°C (1180 K)
+- Cấu hình electron: [Ar] 3d¹⁰ 4s²
+- Ứng dụng: Zinc là một kim loại có tính chất chống ăn mòn cao và
+
+được sử dụng rộng rãi trong sản xuất pin kẽm-măng, trong mạ
+kẽm và trong các ứng dụng y tế như các loại thuốc kháng viêm.
+
+31. Gallium
+- Tên nguyên tố (theo IUPAC): Gallium
+- Kí hiệu: Ga
+- Số hiệu nguyên tử: 31
+- Độ âm điện: 1.81
+- Nguyên tử khối: 69.723 u
+- Độ nóng chảy: 29.76°C (302.91 K)
+- Độ sôi: 2204°C (2477 K)
+- Cấu hình electron: [Ar] 3d¹⁰ 4s² 4p¹
+- Ứng dụng: Gallium là một kim loại mềm, có điểm nóng chảy thấp
+
+và được sử dụng trong các ứng dụng điện tử như trong sản xuất
+laser và mạch tích hợp.
+
+32. Germanium
+- Tên nguyên tố (theo IUPAC): Germanium
+- Kí hiệu: Ge
+- Số hiệu nguyên tử: 32
+- Độ âm điện: 2.01
+- Nguyên tử khối: 72.63 u
+- Độ nóng chảy: 938.25°C (1211.40 K)
+
+
+
+- Độ sôi: 2830°C (3103 K)
+- Cấu hình electron: [Ar] 3d¹⁰ 4s² 4p²
+- Ứng dụng: Germanium là một bán dẫn quan trọng trong công
+
+nghệ điện tử. Nguyên tố này được sử dụng trong sản xuất
+transistor và các vi mạch tích hợp.
+
+33. Arsenic
+- Tên nguyên tố (theo IUPAC): Arsenic
+- Kí hiệu: As
+- Số hiệu nguyên tử: 33
+- Độ âm điện: 2.18
+- Nguyên tử khối: 74.922 u
+- Độ nóng chảy: 817°C (1090 K)
+- Độ sôi: 613°C (886 K)
+- Cấu hình electron: [Ar] 3d¹⁰ 4s² 4p³
+- Ứng dụng: Arsenic là một nguyên tố bán dẫn độc hại và được sử
+
+dụng trong công nghiệp hóa chất và chế biến gỗ.
+34. Selenium
+
+- Tên nguyên tố (theo IUPAC): Selenium
+- Kí hiệu: Se
+- Số hiệu nguyên tử: 34
+- Độ âm điện: 2.55
+- Nguyên tử khối: 78.971 u
+- Độ nóng chảy: 220.5°C (493.7 K)
+- Độ sôi: 685°C (958 K)
+- Cấu hình electron: [Ar] 3d¹⁰ 4s² 4p⁴
+- Ứng dụng: Selenium là một nguyên tố dẫn điện trong điện tử và
+
+có ứng dụng trong sản xuất mạch điện tử và cell năng lượng mặt
+trời.
+
+35. Bromine
+- Tên nguyên tố (theo IUPAC): Bromine
+- Kí hiệu: Br
+- Số hiệu nguyên tử: 35
+- Độ âm điện: 2.96
+- Nguyên tử khối: 79.904 u
+- Độ nóng chảy: -7.2°C (265.8 K)
+- Độ sôi: 58.8°C (331.95 K)
+- Cấu hình electron: [Ar] 3d¹⁰ 4s² 4p⁵
+- Ứng dụng: Bromine là một nguyên tố lỏng, có tính chất khử mạnh
+
+và được sử dụng trong sản xuất các hợp chất hữu cơ và trong
+hóa học.
+
+
+
+36. Krypton
+- Tên nguyên tố (theo IUPAC): Krypton
+- Kí hiệu: Kr
+- Số hiệu nguyên tử: 36
+- Độ âm điện: Không xác định
+- Nguyên tử khối: 83.798 u
+- Độ nóng chảy: -157.2°C (115.95 K)
+- Độ sôi: -153.4°C (119.75 K)
+- Cấu hình electron: [Ar] 3d¹⁰ 4s² 4p⁶
+- Ứng dụng: Krypton là một trong những khí hiếm, không màu và
+
+không mùi. Nó được sử dụng trong các đèn phản xạ và trong
+nghiên cứu về plasma.
+
+37. Rubidium
+- Tên nguyên tố (theo IUPAC): Rubidium
+- Kí hiệu: Rb
+- Số hiệu nguyên tử: 37
+- Độ âm điện: 0.82
+- Nguyên tử khối: 85.468 u
+- Độ nóng chảy: 39.31°C (312.46 K)
+- Độ sôi: 688°C (961 K)
+- Cấu hình electron: [Kr] 5s¹
+- Ứng dụng: Rubidium là một kim loại mềm, có tính chất dẫn điện
+
+tốt và được sử dụng trong các ứng dụng quang học và điện tử.
+38. Strontium
+
+- Tên nguyên tố (theo IUPAC): Strontium
+- Kí hiệu: Sr
+- Số hiệu nguyên tử: 38
+- Độ âm điện: 0.95
+- Nguyên tử khối: 87.62 u
+- Độ nóng chảy: 769°C (1042 K)
+- Độ sôi: 1384°C (1657 K)
+- Cấu hình electron: [Kr] 5s²
+- Ứng dụng: Strontium là một kim loại mềm, có tính chất phát
+
+quang và được sử dụng trong sản xuất lọai phát quang và làm
+màu đỏ cho lửa pháo.
+
+39. Yttrium
+- Tên nguyên tố (theo IUPAC): Yttrium
+- Kí hiệu: Y
+- Số hiệu nguyên tử: 39
+- Độ âm điện: 1.22
+
+
+
+- Nguyên tử khối: 88.906 u
+- Độ nóng chảy: 1522°C (1795 K)
+- Độ sôi: 3338°C (3611 K)
+- Cấu hình electron: [Kr] 4d¹ 5s²
+- Ứng dụng: Yttrium là một kim loại nhẹ, có tính chất từ tính mạnh
+
+và được sử dụng trong các hợp kim và trong các ứng dụng từ
+tính cao.
+
+40. Zirconium
+- Tên nguyên tố (theo IUPAC): Zirconium
+- Kí hiệu: Zr
+- Số hiệu nguyên tử: 40
+- Độ âm điện: 1.33
+- Nguyên tử khối: 91.224 u
+- Độ nóng chảy: 1855°C (2128 K)
+- Độ sôi: 4377°C (4650 K)
+- Cấu hình electron: [Kr] 4d² 5s²
+- Ứng dụng: Zirconium là một kim loại rất chịu nhiệt và không phản
+
+ứng với axit. Nó được sử dụng trong sản xuất hợp kim chịu nhiệt
+cao và trong y tế như các cầu nối và các thiết bị chống ăn mòn.
+
+41. Niobium
+- Tên nguyên tố (theo IUPAC): Niobium
+- Kí hiệu: Nb
+- Số hiệu nguyên tử: 41
+- Độ âm điện: 1.6
+- Nguyên tử khối: 92.906 u
+- Độ nóng chảy: 2477°C (2750 K)
+- Độ sôi: 4744°C (5017 K)
+- Cấu hình electron: [Kr] 4d⁴ 5s¹
+- Ứng dụng: Niobium là một kim loại nhẹ, có điểm nóng chảy cao
+
+và được sử dụng trong sản xuất hợp kim siêu dẫn và trong công
+nghệ hạt nhân.
+
+42. Molybdenum
+- Tên nguyên tố (theo IUPAC): Molybdenum
+- Kí hiệu: Mo
+- Số hiệu nguyên tử: 42
+- Độ âm điện: 2.16
+- Nguyên tử khối: 95.95 u
+- Độ nóng chảy: 2623°C (2896 K)
+- Độ sôi: 4639°C (4912 K)
+- Cấu hình electron: [Kr] 4d⁵ 5s¹
+
+
+
+- Ứng dụng: Molybdenum là một kim loại chịu nhiệt và chống ăn
+mòn cao. Nó được sử dụng trong sản xuất hợp kim thép không gỉ
+và trong các ứng dụng chịu nhiệt.
+
+43. Technetium
+- Tên nguyên tố (theo IUPAC): Technetium
+- Kí hiệu: Tc
+- Số hiệu nguyên tử: 43
+- Độ âm điện: 1.9
+- Nguyên tử khối: (không ổn định)
+- Độ nóng chảy: 2157°C (2430 K)
+- Độ sôi: 4265°C (4538 K)
+- Cấu hình electron: [Kr] 4d⁵ 5s²
+- Ứng dụng: Technetium là một kim loại radioactif và được sử dụng
+
+trong y tế như trong quá trình chẩn đoán hình ảnh y tế.
+44. Ruthenium
+
+- Tên nguyên tố (theo IUPAC): Ruthenium
+- Kí hiệu: Ru
+- Số hiệu nguyên tử: 44
+- Độ âm điện: 2.2
+- Nguyên tử khối: 101.07 u
+- Độ nóng chảy: 2334°C (2607 K)
+- Độ sôi: 4150°C (4423 K)
+- Cấu hình electron: [Kr] 4d⁷ 5s¹
+- Ứng dụng: Ruthenium là một kim loại có tính chất chống ăn mòn
+
+cao và được sử dụng trong sản xuất các hợp kim đặc biệt như
+trong các điện cực và trong các ứng dụng điện hóa.
+
+45. Rhodium
+- Tên nguyên tố (theo IUPAC): Rhodium
+- Kí hiệu: Rh
+- Số hiệu nguyên tử: 45
+- Độ âm điện: 2.28
+- Nguyên tử khối: 102.91 u
+- Độ nóng chảy: 1964°C (2237 K)
+- Độ sôi: 3695°C (3968 K)
+- Cấu hình electron: [Kr] 4d⁸ 5s¹
+- Ứng dụng: Rhodium là một kim loại quý, có tính chất chống ăn
+
+mòn cao và được sử dụng rộng rãi trong sản xuất mạ
+niken-rhodium và trong nghệ thuật trang sức.
+
+46. Palladium
+- Tên nguyên tố (theo IUPAC): Palladium
+
+
+
+- Kí hiệu: Pd
+- Số hiệu nguyên tử: 46
+- Độ âm điện: 2.2
+- Nguyên tử khối: 106.42 u
+- Độ nóng chảy: 1554.9°C (1828.05 K)
+- Độ sôi: 2963°C (3236 K)
+- Cấu hình electron: [Kr] 4d¹⁰
+- Ứng dụng: Palladium là một kim loại quý, có tính chất hấp phụ
+
+cao và được sử dụng trong sản xuất xúc tác, các ứng dụng điện
+tử và trong sản xuất các sản phẩm hóa học.
+
+47. Silver
+- Tên nguyên tố (theo IUPAC): Silver
+- Kí hiệu: Ag
+- Số hiệu nguyên tử: 47
+- Độ âm điện: 1.93
+- Nguyên tử khối: 107.87 u
+- Độ nóng chảy: 961.8°C (1234.95 K)
+- Độ sôi: 2162°C (2435 K)
+- Cấu hình electron: [Kr] 4d¹⁰ 5s¹
+- Ứng dụng: Silver là một kim loại quý, có tính dẫn điện tốt và được
+
+sử dụng rộng rãi trong sản xuất đồ trang sức, đồ gia dụng và
+trong các sản phẩm điện tử.
+
+48. Cadmium
+- Tên nguyên tố (theo IUPAC): Cadmium
+- Kí hiệu: Cd
+- Số hiệu nguyên tử: 48
+- Độ âm điện: 1.69
+- Nguyên tử khối: 112.41 u
+- Độ nóng chảy: 321.07°C (594.22 K)
+- Độ sôi: 767°C (1040 K)
+- Cấu hình electron: [Kr] 4d¹⁰ 5s²
+- Ứng dụng: Cadmium là một kim loại độc hại và được sử dụng
+
+trong sản xuất pin, mạ kẽm và trong các ứng dụng điện tử.
+49. Indium
+
+- Tên nguyên tố (theo IUPAC): Indium
+- Kí hiệu: In
+- Số hiệu nguyên tử: 49
+- Độ âm điện: 1.78
+- Nguyên tử khối: 114.82 u
+- Độ nóng chảy: 156.6°C (429.8 K)
+
+
+
+- Độ sôi: 2072°C (2345 K)
+- Cấu hình electron: [Kr] 4d¹⁰ 5s² 5p¹
+- Ứng dụng: Indium là một kim loại mềm, có tính chất dẫn điện tốt
+
+và được sử dụng trong sản xuất màn hình LCD và trong các ứng
+dụng điện tử.
+
+50. Tin
+- Tên nguyên tố (theo IUPAC): Tin
+- Kí hiệu: Sn
+- Số hiệu nguyên tử: 50
+- Độ âm điện: 1.96
+- Nguyên tử khối: 118.71 u
+- Độ nóng chảy: 231.93°C (505.08 K)
+- Độ sôi: 2602°C (2875 K)
+- Cấu hình electron: [Kr] 4d¹⁰ 5s² 5p²
+- Ứng dụng: Tin là một kim loại mềm, có tính chất dẫn điện tốt và
+
+được sử dụng trong sản xuất hợp kim như đồ gia dụng và trong
+đúc khuôn.
+
+51. Antimony
+- Tên nguyên tố (theo IUPAC): Antimony
+- Kí hiệu: Sb
+- Số hiệu nguyên tử: 51
+- Độ âm điện: 2.05
+- Nguyên tử khối: 121.76 u
+- Độ nóng chảy: 630.63°C (903.78 K)
+- Độ sôi: 1587°C (1860 K)
+- Cấu hình electron: [Kr] 4d¹⁰ 5s² 5p³
+- Ứng dụng: Antimony là một kim loại chất lỏng màu bạc, có tính
+
+độc và được sử dụng trong sản xuất hợp kim, chất chống cháy
+và trong y học.
+
+52. Tellurium
+- Tên nguyên tố (theo IUPAC): Tellurium
+- Kí hiệu: Te
+- Số hiệu nguyên tử: 52
+- Độ âm điện: 2.1
+- Nguyên tử khối: 127.6 u
+- Độ nóng chảy: 449.51°C (722.66 K)
+- Độ sôi: 988°C (1261 K)
+- Cấu hình electron: [Kr] 4d¹⁰ 5s² 5p⁴
+
+
+
+- Ứng dụng: Tellurium là một bán dẫn và được sử dụng trong công
+nghệ điện tử, trong sản xuất pin mặt trời và trong các hợp chất y
+tế.
+
+53. Iodine
+- Tên nguyên tố (theo IUPAC): Iodine
+- Kí hiệu: I
+- Số hiệu nguyên tử: 53
+- Độ âm điện: 2.66
+- Nguyên tử khối: 126.904 u
+- Độ nóng chảy: 113.7°C (386.85 K)
+- Độ sôi: 184.3°C (457.45 K)
+- Cấu hình electron: [Kr] 4d¹⁰ 5s² 5p⁵
+- Ứng dụng: Iodine là một halogen và được sử dụng trong y tế, sản
+
+xuất thuốc trừ sâu và là thành phần chính của các chất tẩy.
+54. Xenon
+
+- Tên nguyên tố (theo IUPAC): Xenon
+- Kí hiệu: Xe
+- Số hiệu nguyên tử: 54
+- Độ âm điện: 2.6
+- Nguyên tử khối: 131.29 u
+- Độ nóng chảy: -111.75°C (161.4 K)
+- Độ sôi: -108.1°C (165.05 K)
+- Cấu hình electron: [Kr] 4d¹⁰ 5s² 5p⁶
+- Ứng dụng: Xenon là một khí hiếm không màu và được sử dụng
+
+trong các đèn phát quang, trong dược phẩm và trong các ứng
+dụng y học.
+
+55. Cesium
+- Tên nguyên tố (theo IUPAC): Cesium
+- Kí hiệu: Cs
+- Số hiệu nguyên tử: 55
+- Độ âm điện: 0.79
+- Nguyên tử khối: 132.91 u
+- Độ nóng chảy: 28.44°C (301.59 K)
+- Độ sôi: 671°C (944 K)
+- Cấu hình electron: [Xe] 6s¹
+- Ứng dụng: Cesium là một kim loại mềm, có tính chất dẫn điện tốt
+
+và được sử dụng trong đồng hồ nguyên tử, trong công nghệ laser
+và trong y học.
+
+56. Barium
+- Tên nguyên tố (theo IUPAC): Barium
+
+
+
+- Kí hiệu: Ba
+- Số hiệu nguyên tử: 56
+- Độ âm điện: 0.89
+- Nguyên tử khối: 137.33 u
+- Độ nóng chảy: 727°C (1000 K)
+- Độ sôi: 1897°C (2170 K)
+- Cấu hình electron: [Xe] 6s²
+- Ứng dụng: Barium là một kim loại mềm, có tính chất phát quang
+
+và được sử dụng trong sản xuất thuốc tẩy và các phương pháp
+chẩn đoán hình ảnh.
+
+57. Lanthanum
+- Tên nguyên tố (theo IUPAC): Lanthanum
+- Kí hiệu: La
+- Số hiệu nguyên tử: 57
+- Độ âm điện: 1.1
+- Nguyên tử khối: 138.91 u
+- Độ nóng chảy: 920°C (1193 K)
+- Độ sôi: 3464°C (3737 K)
+- Cấu hình electron: [Xe] 5d¹ 6s²
+- Ứng dụng: Lanthanum là một kim loại hiếm và được sử dụng
+
+trong sản xuất phản ứng xúc tác, trong sản xuất các loại đèn phát
+quang và trong y học.
+
+58. Cerium
+- Tên nguyên tố (theo IUPAC): Cerium
+- Kí hiệu: Ce
+- Số hiệu nguyên tử: 58
+- Độ âm điện: 1.12
+- Nguyên tử khối: 140.12 u
+- Độ nóng chảy: 798°C (1071 K)
+- Độ sôi: 3443°C (3716 K)
+- Cấu hình electron: [Xe] 4f¹ 5d¹ 6s²
+- Ứng dụng: Cerium là một kim loại mềm, có tính chất từ tính mạnh
+
+và được sử dụng trong sản xuất mạ kẽm-cerium và trong các
+ứng dụng phản ứng xúc tác.
+
+59. Praseodymium
+- Tên nguyên tố (theo IUPAC): Praseodymium
+- Kí hiệu: Pr
+- Số hiệu nguyên tử: 59
+- Độ âm điện: 1.13
+- Nguyên tử khối: 140.91 u
+
+
+
+- Độ nóng chảy: 931°C (1204 K)
+- Độ sôi: 3290°C (3563 K)
+- Cấu hình electron: [Xe] 4f³ 6s²
+- Ứng dụng: Praseodymium là một kim loại hiếm và được sử dụng
+
+trong sản xuất từ tính mạnh và trong các ứng dụng điện tử.
+60. Neodymium
+
+- Tên nguyên tố (theo IUPAC): Neodymium
+- Kí hiệu: Nd
+- Số hiệu nguyên tử: 60
+- Độ âm điện: 1.14
+- Nguyên tử khối: 144.24 u
+- Độ nóng chảy: 1021°C (1294 K)
+- Độ sôi: 3074°C (3347 K)
+- Cấu hình electron: [Xe] 4f⁴ 6s²
+- Ứng dụng: Neodymium là một kim loại hiếm và được sử dụng
+
+trong sản xuất nam châm mạnh và trong các ứng dụng điện tử;
+dùng trong công nghệ điện tử và các sản phẩm năng lượng.
+
+61. Promethium
+- Tên nguyên tố (theo IUPAC): Promethium
+- Kí hiệu: Pm
+- Số hiệu nguyên tử: 61
+- Độ âm điện: 1.13
+- Nguyên tử khối: (không ổn định)
+- Độ nóng chảy: 1042°C (1315 K)
+- Độ sôi: 3000°C (3273 K)
+- Cấu hình electron: [Xe] 4f⁵ 6s²
+- Ứng dụng: Promethium là một kim loại radioactif và được sử
+
+dụng trong các ứng dụng năng lượng hạt nhân và trong các thiết
+bị y tế.
+
+62. Samarium
+- Tên nguyên tố (theo IUPAC): Samarium
+- Kí hiệu: Sm
+- Số hiệu nguyên tử: 62
+- Độ âm điện: 1.17
+- Nguyên tử khối: 150.36 u
+- Độ nóng chảy: 1072°C (1345 K)
+- Độ sôi: 1900°C (2173 K)
+- Cấu hình electron: [Xe] 4f⁶ 6s²
+- Ứng dụng: Samarium là một kim loại hiếm và được sử dụng
+
+trong sản xuất nam châm mạnh và trong các ứng dụng y tế.
+
+
+
+63. Europium
+- Tên nguyên tố (theo IUPAC): Europium
+- Kí hiệu: Eu
+- Số hiệu nguyên tử: 63
+- Độ âm điện: 1.2
+- Nguyên tử khối: 151.96 u
+- Độ nóng chảy: 822°C (1095 K)
+- Độ sôi: 1597°C (1870 K)
+- Cấu hình electron: [Xe] 4f⁷ 6s²
+- Ứng dụng: Europium là một kim loại hiếm và được sử dụng trong
+
+sản xuất các loại đèn phát quang và trong các sản phẩm điện tử.
+64. Gadolinium
+
+- Tên nguyên tố (theo IUPAC): Gadolinium
+- Kí hiệu: Gd
+- Số hiệu nguyên tử: 64
+- Độ âm điện: 1.2
+- Nguyên tử khối: 157.25 u
+- Độ nóng chảy: 1311°C (1584 K)
+- Độ sôi: 3233°C (3506 K)
+- Cấu hình electron: [Xe] 4f⁷ 5d¹ 6s²
+- Ứng dụng: Gadolinium là một kim loại hiếm và có tính chất từ tính
+
+mạnh. Nguyên tố này được sử dụng trong sản xuất nam châm,
+trong y tế và trong nghiên cứu vật liệu.
+
+65. Terbium
+- Tên nguyên tố (theo IUPAC): Terbium
+- Kí hiệu: Tb
+- Số hiệu nguyên tử: 65
+- Độ âm điện: 1.2
+- Nguyên tử khối: 158.93 u
+- Độ nóng chảy: 1356°C (1629 K)
+- Độ sôi: 3230°C (3503 K)
+- Cấu hình electron: [Xe] 4f⁹ 6s²
+- Ứng dụng: Terbium là một kim loại hiếm và được sử dụng trong
+
+sản xuất các loại đèn phát quang và trong các sản phẩm điện tử.
+66. Dysprosium
+
+- Tên nguyên tố (theo IUPAC): Dysprosium
+- Kí hiệu: Dy
+- Số hiệu nguyên tử: 66
+- Độ âm điện: 1.22
+- Nguyên tử khối: 162.5 u
+
+
+
+- Độ nóng chảy: 1412°C (1685 K)
+- Độ sôi: 2567°C (2840 K)
+- Cấu hình electron: [Xe] 4f¹⁰ 6s²
+- Ứng dụng: Dysprosium là một kim loại hiếm và có tính chất từ
+
+tính mạnh. Nguyên tố này được sử dụng trong sản xuất nam
+châm, trong điện tử và trong y tế.
+
+67. Holmium
+- Tên nguyên tố (theo IUPAC): Holmium
+- Kí hiệu: Ho
+- Số hiệu nguyên tử: 67
+- Độ âm điện: 1.23
+- Nguyên tử khối: 164.93 u
+- Độ nóng chảy: 1470°C (1743 K)
+- Độ sôi: 2720°C (2993 K)
+- Cấu hình electron: [Xe] 4f¹¹ 6s²
+- Ứng dụng: Holmium là một kim loại hiếm và được sử dụng trong
+
+sản xuất các loại đèn phát quang và trong nghiên cứu y tế.
+68. Erbium
+
+- Tên nguyên tố (theo IUPAC): Erbium
+- Kí hiệu: Er
+- Số hiệu nguyên tử: 68
+- Độ âm điện: 1.24
+- Nguyên tử khối: 167.26 u
+- Độ nóng chảy: 1529°C (1802 K)
+- Độ sôi: 2868°C (3141 K)
+- Cấu hình electron: [Xe] 4f¹² 6s²
+- Ứng dụng: Erbium là một kim loại hiếm và được sử dụng trong
+
+sản xuất các loại đèn phát quang và trong các ứng dụng điện tử.
+69. Thulium
+
+- Tên nguyên tố (theo IUPAC): Thulium
+- Kí hiệu: Tm
+- Số hiệu nguyên tử: 69
+- Độ âm điện: 1.25
+- Nguyên tử khối: 168.93 u
+- Độ nóng chảy: 1545°C (1818 K)
+- Độ sôi: 1950°C (2223 K)
+- Cấu hình electron: [Xe] 4f¹³ 6s²
+- Ứng dụng: Thulium là một kim loại hiếm và được sử dụng trong y
+
+tế, trong sản xuất laser và trong các ứng dụng điện tử.
+70. Ytterbium
+
+
+
+- Tên nguyên tố (theo IUPAC): Ytterbium
+- Kí hiệu: Yb
+- Số hiệu nguyên tử: 70
+- Độ âm điện: 1.1
+- Nguyên tử khối: 173.04 u
+- Độ nóng chảy: 824°C (1097 K)
+- Độ sôi: 1466°C (1739 K)
+- Cấu hình electron: [Xe] 4f¹⁴ 6s²
+- Ứng dụng: Ytterbium là một kim loại hiếm và được sử dụng trong
+
+sản xuất laser, trong nghiên cứu vật liệu và trong các ứng dụng y
+tế.
+
+71. Lutetium
+- Tên nguyên tố (theo IUPAC): Lutetium
+- Kí hiệu: Lu
+- Số hiệu nguyên tử: 71
+- Độ âm điện: 1.27
+- Nguyên tử khối: 174.97 u
+- Độ nóng chảy: 1663°C (1936 K)
+- Độ sôi: 3395°C (3668 K)
+- Cấu hình electron: [Xe] 4f¹⁴ 5d¹ 6s²
+- Ứng dụng: Lutetium là một kim loại hiếm và được sử dụng trong
+
+các loại đèn phát quang và trong y tế như trong các thiết bị điện
+từ học.
+
+72. Hafnium
+- Tên nguyên tố (theo IUPAC): Hafnium
+- Kí hiệu: Hf
+- Số hiệu nguyên tử: 72
+- Độ âm điện: 1.3
+- Nguyên tử khối: 178.49 u
+- Độ nóng chảy: 2233°C (2506 K)
+- Độ sôi: 4603°C (4876 K)
+- Cấu hình electron: [Xe] 4f¹⁴ 5d² 6s²
+- Ứng dụng: Hafnium là một kim loại chịu nhiệt cao và không phản
+
+ứng với acid. Nó được sử dụng trong sản xuất hợp kim chịu nhiệt
+cao và trong y tế như trong sản xuất các cầu nối và các thiết bị
+chống ăn mòn.
+
+73. Tantalum
+- Tên nguyên tố (theo IUPAC): Tantalum
+- Kí hiệu: Ta
+- Số hiệu nguyên tử: 73
+
+
+
+- Độ âm điện: 1.5
+- Nguyên tử khối: 180.95 u
+- Độ nóng chảy: 3017°C (3290 K)
+- Độ sôi: 5458°C (5731 K)
+- Cấu hình electron: [Xe] 4f¹⁴ 5d³ 6s²
+- Ứng dụng: Tantalum là một kim loại chịu nhiệt cao và có tính chất
+
+chống ăn mòn tốt. Nguyên tố này được sử dụng trong sản xuất
+hợp kim chịu nhiệt cao, trong điện tử và trong y tế.
+
+74. Tungsten
+- Tên nguyên tố (theo IUPAC): Tungsten
+- Kí hiệu: W
+- Số hiệu nguyên tử: 74
+- Độ âm điện: 2.36
+- Nguyên tử khối: 183.84 u
+- Độ nóng chảy: 3422°C (3695 K)
+- Độ sôi: 5555°C (5828 K)
+- Cấu hình electron: [Xe] 4f¹⁴ 5d⁴ 6s²
+- Ứng dụng: Tungsten là một kim loại có điểm nóng chảy cao nhất
+
+và được sử dụng rộng rãi trong các ứng dụng cơ khí, trong sản
+xuất đèn huỳnh quang và trong công nghiệp hạt nhân.
+
+75. Rhenium
+- Tên nguyên tố (theo IUPAC): Rhenium
+- Kí hiệu: Re
+- Số hiệu nguyên tử: 75
+- Độ âm điện: 1.9
+- Nguyên tử khối: 186.21 u
+- Độ nóng chảy: 3186°C (3459 K)
+- Độ sôi: 5596°C (5869 K)
+- Cấu hình electron: [Xe] 4f¹⁴ 5d⁵ 6s²
+- Ứng dụng: Rhenium là một kim loại chịu nhiệt cao và có tính chất
+
+chống ăn mòn tốt. Nó được sử dụng trong sản xuất hợp kim chịu
+nhiệt cao, trong sản xuất xúc tác và trong nghiên cứu vật liệu.
+
+76. Osmium
+- Tên nguyên tố (theo IUPAC): Osmium
+- Kí hiệu: Os
+- Số hiệu nguyên tử: 76
+- Độ âm điện: 2.2
+- Nguyên tử khối: 190.23 u
+- Độ nóng chảy: 3033°C (3306 K)
+- Độ sôi: 5012°C (5285 K)
+
+
+
+- Cấu hình electron: [Xe] 4f¹⁴ 5d⁶ 6s²
+- Ứng dụng: Osmium là một kim loại quý, có điểm nóng chảy cao
+
+và được sử dụng trong sản xuất kim loại quý, trong sản xuất đồ
+trang sức và trong các ứng dụng điện tử.
+
+77. Iridium
+- Tên nguyên tố (theo IUPAC): Iridium
+- Kí hiệu: Ir
+- Số hiệu nguyên tử: 77
+- Độ âm điện: 2.2
+- Nguyên tử khối: 192.22 u
+- Độ nóng chảy: 2446°C (2719 K)
+- Độ sôi: 4428°C (4701 K)
+- Cấu hình electron: [Xe] 4f¹⁴ 5d⁷ 6s²
+- Ứng dụng: Iridium là một kim loại quý, có tính chất chống ăn mòn
+
+cao và được sử dụng rộng rãi trong sản xuất điện cực, trong
+nghệ thuật trang sức và trong các thiết bị y tế.
+
+78. Platinum
+- Tên nguyên tố (theo IUPAC): Platinum
+- Kí hiệu: Pt
+- Số hiệu nguyên tử: 78
+- Độ âm điện: 2.28
+- Nguyên tử khối: 195.08 u
+- Độ nóng chảy: 1768°C (2041 K)
+- Độ sôi: 3825°C (4098 K)
+- Cấu hình electron: [Xe] 4f¹⁴ 5d⁹ 6s¹
+- Ứng dụng: Platinum là một kim loại quý, có tính chất chống ăn
+
+mòn cao và được sử dụng rộng rãi trong sản xuất điện cực, trong
+sản xuất hóa chất và trong y học.
+
+79. Gold
+- Tên nguyên tố (theo IUPAC): Gold
+- Kí hiệu: Au
+- Số hiệu nguyên tử: 79
+- Độ âm điện: 2.54
+- Nguyên tử khối: 196.97 u
+- Độ nóng chảy: 1064°C (1337 K)
+- Độ sôi: 2856°C (3129 K)
+- Cấu hình electron: [Xe] 4f¹⁴ 5d¹⁰ 6s¹
+- Ứng dụng: Gold là một kim loại quý, có tính chất dẫn điện tốt và
+
+được sử dụng rộng rãi trong sản xuất trang sức, tiền xu và trong
+công nghệ điện tử.
+
+
+
+80. Mercury
+- Tên nguyên tố (theo IUPAC): Mercury (Hydrargyrum)
+- Kí hiệu: Hg
+- Số hiệu nguyên tử: 80
+- Độ âm điện: 2.00
+- Nguyên tử khối: 200.59 u
+- Độ nóng chảy: -38.83°C (234.32 K)
+- Độ sôi: 356.73°C (629.88 K)
+- Cấu hình electron: [Xe] 4f¹⁴ 5d¹⁰ 6s²
+- Ứng dụng: Mercury là một kim loại lỏng, có tính độc và được sử
+
+dụng trong các ứng dụng như nhiệt kế, trong sản xuất hóa chất
+và trong y tế.
+
+81. Thallium
+- Tên nguyên tố (theo IUPAC): Thallium
+- Kí hiệu: Tl
+- Số hiệu nguyên tử: 81
+- Độ âm điện: 1.62
+- Nguyên tử khối: 204.38 u
+- Độ nóng chảy: 304°C (577 K)
+- Độ sôi: 1473°C (1746 K)
+- Cấu hình electron: [Xe] 4f¹⁴ 5d¹⁰ 6s² 6p¹
+- Ứng dụng: Thallium là một kim loại độc hại và được sử dụng
+
+trong hóa học phân tích, trong điều trị bệnh và trong sản xuất
+thuốc trừ sâu.
+
+82. Lead
+- Tên nguyên tố (theo IUPAC): Lead
+- Kí hiệu: Pb
+- Số hiệu nguyên tử: 82
+- Độ âm điện: 2.33
+- Nguyên tử khối: 207.2 u
+- Độ nóng chảy: 327.5°C (600.65 K)
+- Độ sôi: 1749°C (2022 K)
+- Cấu hình electron: [Xe] 4f¹⁴ 5d¹⁰ 6s² 6p²
+- Ứng dụng: Lead là một kim loại nặng, có tính chất chống ăn mòn
+
+và được sử dụng rộng rãi trong sản xuất ắc quy, trong xây dựng
+và trong hóa học.
+
+83. Bismuth
+- Tên nguyên tố (theo IUPAC): Bismuth
+- Kí hiệu: Bi
+- Số hiệu nguyên tử: 83
+
+
+
+- Độ âm điện: 2.02
+- Nguyên tử khối: 208.98 u
+- Độ nóng chảy: 271.4°C (544.55 K)
+- Độ sôi: 1564°C (1837 K)
+- Cấu hình electron: [Xe] 4f¹⁴ 5d¹⁰ 6s² 6p³
+- Ứng dụng: Bismuth là một kim loại dễ chảy và không độc, được
+
+sử dụng trong dược phẩm, trong sản xuất thuốc và trong công
+nghệ hàn.
+
+84. Polonium
+- Tên nguyên tố (theo IUPAC): Polonium
+- Kí hiệu: Po
+- Số hiệu nguyên tử: 84
+- Độ âm điện: 2.0
+- Nguyên tử khối: 209 u
+- Độ nóng chảy: 254°C (527 K)
+- Độ sôi: 962°C (1235 K)
+- Cấu hình electron: [Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁴
+- Ứng dụng: Polonium là một kim loại radioactif và được sử dụng
+
+trong các ứng dụng năng lượng hạt nhân và trong nghiên cứu vật
+liệu.
+
+85. Astatine
+- Tên nguyên tố (theo IUPAC): Astatine
+- Kí hiệu: At
+- Số hiệu nguyên tử: 85
+- Độ âm điện: 2.2
+- Nguyên tử khối: [210]
+- Độ nóng chảy: 302°C (575 K)
+- Độ sôi: (không xác định)
+- Cấu hình electron: [Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁵
+- Ứng dụng: Astatine là một halogen độc hại và không được sử
+
+dụng rộng rãi do tính chất độc. Vì tồn tại rất ít và chỉ trong các
+nghiên cứu về hóa học và vật lý, nên không có ứng dụng thương
+mại đáng kể.
+
+86. Radon
+- Tên nguyên tố (theo IUPAC): Radon
+- Kí hiệu: Rn
+- Số hiệu nguyên tử: 86
+- Độ âm điện: 2.2
+- Nguyên tử khối: 222 u
+- Độ nóng chảy: -71°C (202 K)
+
+
+
+- Độ sôi: -61.8°C (211.3 K)
+- Cấu hình electron: [Xe] 4f¹⁴ 5d¹⁰ 6s² 6p⁶
+- Ứng dụng: Radon là một khí radioactif và được sử dụng trong
+
+nghiên cứu vật liệu,sử dụng trong nghiên cứu vật lý hạt nhân và
+trong các ứng dụng y tế.
+
+87. Francium
+- Tên nguyên tố (theo IUPAC): Francium
+- Kí hiệu: Fr
+- Số hiệu nguyên tử: 87
+- Độ âm điện: 0.7
+- Nguyên tử khối: [223]
+- Độ nóng chảy: 27°C (300 K)
+- Độ sôi: (không xác định)
+- Cấu hình electron: [Rn] 7s¹
+- Ứng dụng: Francium là một kim loại rất hiếm và có phản ứng hóa
+
+học mạnh mẽ. Nguyên tố này hiếm khi được sử dụng do sự hiếm
+có và tính chất độc.
+
+88. Radium
+- Tên nguyên tố (theo IUPAC): Radium
+- Kí hiệu: Ra
+- Số hiệu nguyên tử: 88
+- Độ âm điện: 0.9
+- Nguyên tử khối: [226]
+- Độ nóng chảy: 700°C (973 K)
+- Độ sôi: 1737°C (2010 K)
+- Cấu hình electron: [Rn] 7s²
+- Ứng dụng: Radium là một kim loại radioactif và được sử dụng
+
+trong nghiên cứu vật liệu và trong y học - được sử dụng trong các
+phương pháp điều trị ung thư và làm nguồn phát xạ trong các
+thiết bị y tế và nghiên cứu.
+
+89. Actinium
+- Tên nguyên tố (theo IUPAC): Actinium
+- Kí hiệu: Ac
+- Số hiệu nguyên tử: 89
+- Độ âm điện: 1.1
+- Nguyên tử khối: [227]
+- Độ nóng chảy: 1050°C (1323 K)
+- Độ sôi: 3200°C (3473 K)
+- Cấu hình electron: [Rn] 6d¹ 7s²
+
+
+
+- Ứng dụng: Actinium là một kim loại radioactif và được sử dụng
+trong nghiên cứu vật liệu và trong năng lượng hạt nhân.
+
+90. Thorium
+- Tên nguyên tố (theo IUPAC): Thorium
+- Kí hiệu: Th
+- Số hiệu nguyên tử: 90
+- Độ âm điện: 1.3
+- Nguyên tử khối: 232.04 u
+- Độ nóng chảy: 1750°C (2023 K)
+- Độ sôi: 4788°C (5061 K)
+- Cấu hình electron: [Rn] 6d² 7s²
+- Ứng dụng: Thorium là một kim loại nặng và có tính chất hạt nhân.
+
+Nguyên tố này được sử dụng trong năng lượng hạt nhân và trong
+nghiên cứu vật liệu.
+
+91. Protactinium
+- Tên nguyên tố (theo IUPAC): Protactinium
+- Kí hiệu: Pa
+- Số hiệu nguyên tử: 91
+- Độ âm điện: 1.5
+- Nguyên tử khối: 231.04 u
+- Độ nóng chảy: 1572°C (1845 K)
+- Độ sôi: 4000°C (4273 K)
+- Cấu hình electron: [Rn] 5f² 6d¹ 7s²
+- Ứng dụng: Protactinium là một kim loại nặng và có tính chất hạt
+
+nhân. Nguyên tố này được sử dụng trong nghiên cứu vật liệu và
+trong năng lượng hạt nhân.
+
+92. Uranium
+- Tên nguyên tố (theo IUPAC): Uranium
+- Kí hiệu: U
+- Số hiệu nguyên tử: 92
+- Độ âm điện: 1.38
+- Nguyên tử khối: 238.03 u
+- Độ nóng chảy: 1132°C (1405 K)
+- Độ sôi: 4131°C (4404 K)
+- Cấu hình electron: [Rn] 5f³ 6d¹ 7s²
+- Ứng dụng: Uranium là một kim loại nặng và có tính chất hạt
+
+nhân. Nguyên tố này là nguyên liệu chính trong năng lượng hạt
+nhân và trong các ứng dụng y học.
+
+93. Neptunium
+- Tên nguyên tố (theo IUPAC): Neptunium
+
+
+
+- Kí hiệu: Np
+- Số hiệu nguyên tử: 93
+- Độ âm điện: 1.36
+- Nguyên tử khối: [237]
+- Độ nóng chảy: 640°C (913 K)
+- Độ sôi: 3902°C (4175 K)
+- Cấu hình electron: [Rn] 5f⁴ 6d¹ 7s²
+- Ứng dụng: Neptunium là một kim loại nặng và có tính chất hạt
+
+nhân. Nguyên tố này được sử dụng trong nghiên cứu hạt nhân và
+trong năng lượng hạt nhân; nguồn phát xạ trong y tế.
+
+94. Plutonium
+- Tên nguyên tố (theo IUPAC): Plutonium
+- Kí hiệu: Pu
+- Số hiệu nguyên tử: 94
+- Độ âm điện: 1.28
+- Nguyên tử khối: [244]
+- Độ nóng chảy: 640°C (913 K)
+- Độ sôi: 3230°C (3503 K)
+- Cấu hình electron: [Rn] 5f⁶ 7s²
+- Ứng dụng: Plutonium là một kim loại nặng và có tính chất hạt
+
+nhân. Nguyên tố này được sử dụng trong năng lượng hạt nhân,
+điều trị ung thư và trong các ứng dụng vũ khí.
+
+95. Americium
+- Tên nguyên tố (theo IUPAC): Americium
+- Kí hiệu: Am
+- Số hiệu nguyên tử: 95
+- Độ âm điện: 1.3
+- Nguyên tử khối: [243]
+- Độ nóng chảy: 994°C (1267 K)
+- Độ sôi: 2607°C (2880 K)
+- Cấu hình electron: [Rn] 5f⁷ 7s²
+- Ứng dụng: Americium là một kim loại nặng và có tính chất hạt
+
+nhân. Nguyên tố này được sử dụng trong các thiết bị phát xạ và
+trong các ứng dụng bảo vệ môi trường.
+
+96. Curium
+- Tên nguyên tố (theo IUPAC): Curium
+- Kí hiệu: Cm
+- Số hiệu nguyên tử: 96
+- Độ âm điện: 1.28
+- Nguyên tử khối: [247]
+
+
+
+- Độ nóng chảy: 1340°C (1613 K)
+- Độ sôi: khoảng 3383 độ C (khoảng 3656.15 độ K)
+- Cấu hình electron: [Rn] 5f⁷ 6d¹ 7s²
+- Ứng dụng: Curium là một kim loại nặng và có tính chất hạt nhân.
+
+Nguyên tố này được sử dụng trong nghiên cứu hạt nhân và trong
+các ứng dụng bảo vệ môi trường.
+
+97. Berkelium
+- Tên nguyên tố (theo IUPAC): Berkelium
+- Kí hiệu: Bk
+- Số hiệu nguyên tử: 97
+- Độ âm điện: 1.3
+- Nguyên tử khối:[247]
+- Độ nóng chảy: khoảng 1050 độ C (khoảng 1323.15 độ K)
+- Độ sôi: (không xác định)
+- Cấu hình electron: [Rn] 5f⁹ 7s²
+- Ứng dụng: Berkelium là một kim loại nặng và có tính chất hạt
+
+nhân. Nguyên tố này được sử dụng trong nghiên cứu hạt nhân và
+trong các ứng dụng bảo vệ môi trường.
+
+98. Californium
+- Tên nguyên tố (theo IUPAC): Californium
+- Kí hiệu: Cf
+- Số hiệu nguyên tử: 98
+- Độ âm điện: 1.3
+- Nguyên tử khối: [251]
+- Độ nóng chảy: (không xác định)
+- Độ sôi: (không xác định)
+- Cấu hình electron: [Rn] 5f¹⁰ 7s²
+- Ứng dụng: Californium là một kim loại nặng và có tính chất hạt
+
+nhân. Nguyên tố này được sử dụng trong nghiên cứu hạt nhân và
+trong các ứng dụng bảo vệ môi trường.
+
+99. Einsteinium
+- Tên nguyên tố (theo IUPAC): Einsteinium
+- Kí hiệu: Es
+- Số hiệu nguyên tử: 99
+- Độ âm điện: 1.3
+- Nguyên tử khối: [252]
+- Độ nóng chảy: (không xác định)
+- Độ sôi: (không xác định)
+- Cấu hình electron: [Rn] 5f¹¹ 7s²
+
+
+
+- Ứng dụng: Einsteinium là một kim loại nặng và có tính chất hạt
+nhân. Nguyên tố này được sử dụng trong nghiên cứu hạt nhân và
+trong các ứng dụng bảo vệ môi trường.
+
+100. Fermium
+- Tên nguyên tố (theo IUPAC): Fermium
+- Kí hiệu: Fm
+- Số hiệu nguyên tử: 100
+- Độ âm điện: 1.3
+- Nguyên tử khối: [257]
+- Độ nóng chảy: (không xác định)
+- Độ sôi: (không xác định)
+- Cấu hình electron: [Rn] 5f¹² 7s²
+- Ứng dụng: Fermium là một kim loại nặng và có tính chất hạt
+
+nhân. Nguyên tố được sử dụng trong nghiên cứu hạt nhân và
+trong các ứng dụng bảo vệ môi trường.
+
+101. Mendelevium
+- Tên nguyên tố (theo IUPAC): Mendelevium
+- Kí hiệu: Md
+- Số hiệu nguyên tử: 101
+- Độ âm điện: 1.3
+- Nguyên tử khối: [258]
+- Độ nóng chảy: (không xác định)
+- Độ sôi: (không xác định)
+- Cấu hình electron: [Rn] 5f¹³ 7s²
+- Ứng dụng: Mendelevium là một kim loại nặng và có tính chất hạt
+
+nhân. Nguyên tố này được sử dụng trong nghiên cứu hạt nhân và
+trong các ứng dụng bảo vệ môi trường.
+
+102. Nobelium
+- Tên nguyên tố (theo IUPAC): Nobelium
+- Kí hiệu: No
+- Số hiệu nguyên tử: 102
+- Độ âm điện: 1.3
+- Nguyên tử khối:[259]
+- Độ nóng chảy: (không xác định)
+- Độ sôi: (không xác định)
+- Cấu hình electron: [Rn] 5f¹⁴ 7s²
+- Ứng dụng: Nobelium là một kim loại nặng và có tính chất hạt
+
+nhân. Nguyên tố này được sử dụng trong nghiên cứu hạt nhân và
+trong các ứng dụng bảo vệ môi trường.
+
+103. Lawrencium
+
+
+
+- Tên nguyên tố (theo IUPAC): Lawrencium
+- Kí hiệu: Lr
+- Số hiệu nguyên tử: 103
+- Độ âm điện: 1.3
+- Nguyên tử khối: [262]
+- Độ nóng chảy: (không xác định)
+- Độ sôi: (không xác định)
+- Cấu hình electron: [Rn] 5f¹⁴ 6d¹ 7s²
+- Ứng dụng: Lawrencium là một kim loại nặng và có tính chất hạt
+
+nhân. Nguyên tố này được sử dụng trong nghiên cứu hạt nhân và
+trong các ứng dụng bảo vệ môi trường.
+
+104. Rutherfordium
+- Tên nguyên tố (theo IUPAC): Rutherfordium
+- Kí hiệu: Rf
+- Số hiệu nguyên tử: 104
+- Độ âm điện: (không xác định)
+- Nguyên tử khối: [267]
+- Độ nóng chảy: (không xác định)
+- Độ sôi: (không xác định)
+- Cấu hình electron: [Rn] 5f¹⁴ 6d² 7s²
+- Ứng dụng: Rutherfordium là một kim loại nặng và có tính chất hạt
+
+nhân. Nguyên tố này được sử dụng trong nghiên cứu hạt nhân và
+trong các ứng dụng bảo vệ môi trường.
+
+105. Dubnium
+- Tên nguyên tố (theo IUPAC): Dubnium
+- Kí hiệu: Db
+- Số hiệu nguyên tử: 105
+- Độ âm điện: (không xác định)
+- Nguyên tử khối: [270]
+- Độ nóng chảy: (không xác định)
+- Độ sôi: (không xác định)
+- Cấu hình electron: [Rn] 5f¹⁴ 6d³ 7s²
+- Ứng dụng: Dubnium là một kim loại nặng và có tính chất hạt
+
+nhân. Nguyên tố này được sử dụng trong nghiên cứu hạt nhân và
+trong các ứng dụng bảo vệ môi trường.
+
+106. Seaborgium
+- Tên nguyên tố (theo IUPAC): Seaborgium
+- Kí hiệu: Sg
+- Số hiệu nguyên tử: 106
+- Độ âm điện: (không xác định)
+
+
+
+- Nguyên tử khối: [271]
+- Độ nóng chảy: (không xác định)
+- Độ sôi: (không xác định)
+- Cấu hình electron: [Rn] 5f¹⁴ 6d⁴ 7s²
+- Ứng dụng: Seaborgium là một kim loại nặng và có tính chất hạt
+
+nhân. Nguyên tố này được sử dụng trong nghiên cứu hạt nhân và
+trong các ứng dụng bảo vệ môi trường.
+
+107. Bohrium
+- Tên nguyên tố (theo IUPAC): Bohrium
+- Kí hiệu: Bh
+- Số hiệu nguyên tử: 107
+- Độ âm điện: (không xác định)
+- Nguyên tử khối: [270]
+- Độ nóng chảy: (không xác định)
+- Độ sôi: (không xác định)
+- Cấu hình electron: [Rn] 5f¹⁴ 6d⁵ 7s²
+- Ứng dụng: Bohrium là một kim loại nặng và có tính chất hạt nhân.
+
+Nguyên tố này được sử dụng trong nghiên cứu hạt nhân và trong
+các ứng dụng bảo vệ môi trường.
+
+108. Hassium
+- Tên nguyên tố (theo IUPAC): Hassium
+- Kí hiệu: Hs
+- Số hiệu nguyên tử: 108
+- Độ âm điện: (không xác định)
+- Nguyên tử khối: [277]
+- Độ nóng chảy: (không xác định)
+- Độ sôi: (không xác định)
+- Cấu hình electron: [Rn] 5f¹⁴ 6d⁶ 7s²
+- Ứng dụng: Hassium là một kim loại nặng và có tính chất hạt
+
+nhân. Nguyên tố này được sử dụng trong nghiên cứu hạt nhân và
+trong các ứng dụng bảo vệ môi trường.
+
+109. Meitnerium
+- Tên nguyên tố (theo IUPAC): Meitnerium
+- Kí hiệu: Mt
+- Số hiệu nguyên tử: 109
+- Độ âm điện: (không xác định)
+- Nguyên tử khối: [276]
+- Độ nóng chảy: (không xác định)
+- Độ sôi: (không xác định)
+- Cấu hình electron: [Rn] 5f¹⁴ 6d⁷ 7s²
+
+
+
+- Ứng dụng: Meitnerium là một kim loại nặng và có tính chất hạt
+nhân. Nguyên tố này được sử dụng trong nghiên cứu hạt nhân và
+trong các ứng dụng bảo vệ môi trường.
+
+110. Darmstadtium
+- Tên nguyên tố (theo IUPAC): Darmstadtium
+- Kí hiệu: Ds
+- Số hiệu nguyên tử: 110
+- Độ âm điện: (không xác định)
+- Nguyên tử khối: [281]
+- Độ nóng chảy: (không xác định)
+- Độ sôi: (không xác định)
+- Cấu hình electron: [Rn] 5f¹⁴ 6d⁸ 7s²
+- Ứng dụng: Darmstadtium là một kim loại nặng và có tính chất hạt
+
+nhân. Nguyên tố này được sử dụng trong nghiên cứu hạt nhân và
+trong các ứng dụng bảo vệ môi trường.
+
+111. Roentgenium
+- Tên nguyên tố (theo IUPAC): Roentgenium
+- Kí hiệu: Rg
+- Số hiệu nguyên tử: 111
+- Độ âm điện: (không xác định)
+- Nguyên tử khối: [282]
+- Độ nóng chảy: (không xác định)
+- Độ sôi: (không xác định)
+- Cấu hình electron: [Rn] 5f¹⁴ 6d⁹ 7s²
+- Ứng dụng: Roentgenium là một kim loại nặng và có tính chất hạt
+
+nhân. Nguyên tố này được sử dụng trong nghiên cứu hạt nhân và
+trong các ứng dụng bảo vệ môi trường.
+
+112. Copernicium
+- Tên nguyên tố (theo IUPAC): Copernicium
+- Kí hiệu: Cn
+- Số hiệu nguyên tử: 112
+- Độ âm điện: (không xác định)
+- Nguyên tử khối: [285]
+- Độ nóng chảy: (không xác định)
+- Độ sôi: (không xác định)
+- Cấu hình electron: [Rn] 5f¹⁴ 6d¹⁰ 7s²
+- Ứng dụng: Copernicium là một kim loại nặng và có tính chất hạt
+
+nhân. Nguyên tố này được sử dụng trong nghiên cứu hạt nhân và
+trong các ứng dụng bảo vệ môi trường.
+
+113. Nihonium
+
+
+
+- Tên nguyên tố (theo IUPAC): Nihonium
+- Kí hiệu: Nh
+- Số hiệu nguyên tử: 113
+- Độ âm điện: (không xác định)
+- Nguyên tử khối: [286]
+- Độ nóng chảy: (không xác định)
+- Độ sôi: (không xác định)
+- Cấu hình electron: [Rn] 5f¹⁴ 6d¹⁰ 7s² 7p¹
+- Ứng dụng: Nihonium là một kim loại nhẹ và có tính chất hạt nhân.
+
+Nguyên tố này hiện đang được nghiên cứu để xác định các ứng
+dụng tiềm năng trong nghiên cứu hạt nhân và trong y học.
+
+114. Flerovium
+- Tên nguyên tố (theo IUPAC): Flerovium
+- Kí hiệu: Fl
+- Số hiệu nguyên tử: 114
+- Độ âm điện: (không xác định)
+- Nguyên tử khối: [289]
+- Độ nóng chảy: (không xác định)
+- Độ sôi: (không xác định)
+- Cấu hình electron: [Rn] 5f¹⁴ 6d¹⁰ 7s² 7p²
+- Ứng dụng: Flerovium là một kim loại nặng và có tính chất hạt
+
+nhân. Nguyên tố này đang được nghiên cứu để xác định các ứng
+dụng tiềm năng trong nghiên cứu hạt nhân và trong y học.
+
+115. Moscovium
+- Tên nguyên tố (theo IUPAC): Moscovium
+- Kí hiệu: Mc
+- Số hiệu nguyên tử: 115
+- Độ âm điện: (không xác định)
+- Nguyên tử khối: [290]
+- Độ nóng chảy: (không xác định)
+- Độ sôi: (không xác định)
+- Cấu hình electron: [Rn] 5f¹⁴ 6d¹⁰ 7s² 7p³
+- Ứng dụng: Moscovium là một kim loại nặng và có tính chất hạt
+
+nhân. Nguyên tố này đang được nghiên cứu để xác định các ứng
+dụng tiềm năng trong nghiên cứu hạt nhân và trong y học.
+
+116. Livermorium
+- Tên nguyên tố (theo IUPAC): Livermorium
+- Kí hiệu: Lv
+- Số hiệu nguyên tử: 116
+- Độ âm điện: (chưa biết)
+
+
+
+- Nguyên tử khối: [293]
+- Điểm nóng chảy: (chưa biết)
+- Điểm sôi: (chưa biết)
+- Cấu hình electron: [Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁴
+- Ứng dụng: Livermorium là một kim loại nặng và có tính chất hạt
+
+nhân. Nguyên tố này đang được nghiên cứu để xác định các ứng
+dụng tiềm năng trong nghiên cứu hạt nhân và trong y học.
+
+117. Tennessine
+- Tên nguyên tố (theo IUPAC): Tennessine
+- Kí hiệu: Ts
+- Số hiệu nguyên tử: 117
+- Độ âm điện: (chưa biết)
+- Nguyên tử khối: [294]
+- Điểm nóng chảy: (chưa biết)
+- Điểm sôi: (chưa biết)
+- Cấu hình electron: [Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁵
+- Ứng dụng: Tennessine là một kim loại nặng và có tính chất hạt
+
+nhân. Nguyên tố này đang được nghiên cứu để xác định các ứng
+dụng tiềm năng trong nghiên cứu hạt nhân và trong y học.
+
+118. Oganesson
+- Tên nguyên tố (theo IUPAC): Oganesson
+- Kí hiệu: Og
+- Số hiệu nguyên tử: 118
+- Độ âm điện: (chưa biết)
+- Nguyên tử khối: (chưa biết)
+- Điểm nóng chảy: (chưa biết)
+- Điểm sôi: (chưa biết)
+- Cấu hình electron: [Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁶
+- Ứng dụng: Oganesson là một kim loại nặng và có tính chất hạt
+
+nhân. Nguyên tố này đang được nghiên cứu để xác định các ứng
+dụng tiềm năng trong nghiên cứu hạt nhân và trong y học.
