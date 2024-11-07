@@ -8,8 +8,6 @@ from langchain_core.prompts import PromptTemplate
 import warnings
 import os
 import glob
-from semantic_router import SemanticRouter, Route
-from semantic_router.samples import productsSample, chitchatSample
 
 class ChemGenieBot:
     def __init__(self, api_key, folder_path):
@@ -18,7 +16,6 @@ class ChemGenieBot:
         self.setup_model()
         self.load_and_process_documents()
         self.setup_qa_chain()
-        self.setup_router()  # Setup the semantic router
 
     def setup_model(self):
         genai.configure(api_key=self.api_key)
@@ -67,7 +64,7 @@ class ChemGenieBot:
     def setup_qa_chain(self):
         template = """Use the following pieces of context to answer the question at the end. 
         If you don't know the answer, just say that you don't know, don't try to make up an answer. 
-        Keep the answer as concise as possible. 
+        Keep the answer as concise as possible. Always say "thanks for asking!" at the end of the answer. 
         Always answer Vietnamese Language.
         {context}
         Question: {question}
@@ -82,40 +79,9 @@ class ChemGenieBot:
             chain_type_kwargs={"prompt": QA_CHAIN_PROMPT}
         )
 
-    def setup_router(self):
-        # Initialize the semantic router with routes
-        routes = [
-            Route(name="products", samples=productsSample),
-            Route(name="chitchat", samples=chitchatSample)
-        ]
-        
-        # Create an embeddings object
-        embeddings = GoogleGenerativeAIEmbeddings(
-            model="models/embedding-001",
-            google_api_key=self.api_key
-        )
-        
-        # Initialize the semantic router with the embeddings
-        self.router = SemanticRouter(embedding=embeddings, routes=routes)
-
     def ask_question(self, question):
-        # Sử dụng router để xác định route
-        route_name = self.router.guide(question)[1]
-        print(f"Route selected: {route_name}")
-        
-        # Xử lý câu hỏi dựa trên route
-        if route_name == "products":
-            result = self.qa_chain({"query": question})
-            return result["result"]
-        elif route_name == "chitchat":
-            # Sử dụng mô hình GenAI để tạo phản hồi cho chitchat
-            genai.configure(api_key=self.api_key)
-            model = genai.GenerativeModel("gemini-1.5-flash")
-            response = model.generate_content(question)
-            return response.text
-        else:
-            # Không trả lời các câu hỏi về chủ đề khác
-            return "Xin lỗi, tôi không thể trả lời câu hỏi này."
+        result = self.qa_chain({"query": question})
+        return result["result"]
 
 def main():
     # Configure your API key and PDF path
@@ -137,4 +103,4 @@ def main():
 
 if __name__ == "__main__":
     warnings.filterwarnings("ignore")
-    main()
+    main() 
