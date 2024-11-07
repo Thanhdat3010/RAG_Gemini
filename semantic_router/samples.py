@@ -28,7 +28,10 @@ productsSample = [
     "Làm thế nào để tính thể tích khí ở điều kiện tiêu chuẩn?",
     "Nguyên tố nào là kim loại chuyển tiếp, chẳng hạn như Iron?",
     "Phản ứng cộng là gì?",
-    "Công thức hóa học của glucose là C6H12O6."
+    "Công thức hóa học của glucose là C6H12O6.",
+    "Chemgenie là gì",
+    "Trương Thành Đạt là ai",
+    "Chemgenie có bao nhiêu người",
 ]
 
 chitchatSample = [
