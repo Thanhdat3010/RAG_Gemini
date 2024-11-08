@@ -26,6 +26,7 @@ class ChemGenieBot:
         self.folder_path = folder_path
         self.embedding_cache_path = os.path.join(folder_path, "embedding_cache.pkl")
         self.files_hash_path = os.path.join(folder_path, "files_hash.pkl")
+        self.processed_files = []
         self.setup_model()
         self.load_and_process_documents()
         self.setup_qa_chain()
@@ -86,6 +87,7 @@ class ChemGenieBot:
         if should_update:
             logging.info("Phát hiện thay đổi hoặc chạy lần đầu. Đang xử lý tài liệu...")
             texts = []
+            self.processed_files = []
             
             for file_path in all_files:
                 logging.info(f"Đang xử lý file: {file_path}")
@@ -104,6 +106,7 @@ class ChemGenieBot:
                     
                     text_splitter = RecursiveCharacterTextSplitter(chunk_size=10000, chunk_overlap=52)
                     texts.extend(text_splitter.split_text(context))
+                    self.processed_files.append(file_path)
                     logging.info(f"Successfully processed {file_path}")
                     
                 except Exception as e:
@@ -136,12 +139,18 @@ class ChemGenieBot:
 
     def setup_qa_chain(self):
         logging.info("Đang thiết lập QA chain...")
-        template = """Use the following pieces of context to answer the question at the end. 
-        If the question is about casual conversation, feel free to chat with the user. 
-        If the question is related to knowledge, answer that you don't know if you're unsure. 
-        Keep the answer as concise as possible. 
-        Always answer in Vietnamese Language.
+        template = """You are ChemGenie AI, an intelligent assistant specializing in chemistry and science.
+        ONLY use the following context to answer the question. If the answer cannot be found in the context, 
+        respond with: "Tôi không tìm thấy thông tin về vấn đề này trong tài liệu của tôi."
+
+        Context:
         {context}
+        
+        If it's casual conversation, you can engage in a friendly chat.
+        Do not use any knowledge outside of the provided context.
+        Keep your answers concise and to the point.
+        Always respond in Vietnamese.
+
         Question: {question}
         Helpful Answer:"""
         
@@ -167,6 +176,9 @@ class ChemGenieBot:
         
         logging.info("Đã tạo câu trả lời")
         return answer
+
+    def get_processed_files(self):
+        return self.processed_files
 
 # Khởi tạo Flask app và chatbot
 logging.info("Đang khởi tạo ứng dụng Flask...")
