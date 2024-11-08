@@ -16,6 +16,7 @@ class ChemGenieBot:
         self.setup_model()
         self.load_and_process_documents()
         self.setup_qa_chain()
+        self.conversation_history = []
 
     def setup_model(self):
         genai.configure(api_key=self.api_key)
@@ -63,9 +64,10 @@ class ChemGenieBot:
 
     def setup_qa_chain(self):
         template = """Use the following pieces of context to answer the question at the end. 
-        If you don't know the answer, just say that you don't know, don't try to make up an answer. 
-        Keep the answer as concise as possible. Always say "thanks for asking!" at the end of the answer. 
-        Always answer Vietnamese Language.
+        If the question is about casual conversation, feel free to chat with the user. 
+        If the question is related to knowledge, answer that you don't know if you're unsure. 
+        Keep the answer as concise as possible. 
+        Always answer in Vietnamese Language.
         {context}
         Question: {question}
         Helpful Answer:"""
@@ -80,8 +82,15 @@ class ChemGenieBot:
         )
 
     def ask_question(self, question):
-        result = self.qa_chain({"query": question})
-        return result["result"]
+        self.conversation_history.append(f"User: {question}")
+        
+        context_with_history = "\n".join(self.conversation_history)
+        result = self.qa_chain({"query": context_with_history})
+        
+        answer = result["result"]
+        self.conversation_history.append(f"Bot: {answer}")
+        
+        return answer
 
 def main():
     # Configure your API key and PDF path
