@@ -13,6 +13,7 @@ from flask_cors import CORS
 import pickle
 import logging
 import hashlib
+from datetime import datetime
 
 logging.basicConfig(
     level=logging.INFO,
@@ -31,6 +32,7 @@ class ChemGenieBot:
         self.load_and_process_documents()
         self.setup_qa_chain()
         self.conversation_history = []
+        self.max_context_messages = 3  # Số cặp hội thoại gần nhất để giữ context
 
     def setup_model(self):
         logging.info("Đang cài đặt model Gemini...")
@@ -166,16 +168,19 @@ class ChemGenieBot:
 
     def ask_question(self, question):
         logging.info(f"Nhận được câu hỏi: {question}")
-        self.conversation_history.append(f"User: {question}")
-        
-        context_with_history = "\n".join(self.conversation_history)
-        result = self.qa_chain({"query": context_with_history})
-        
-        answer = result["result"]
-        self.conversation_history.append(answer)
-        
-        logging.info("Đã tạo câu trả lời")
-        return answer
+        try:
+            # Sử dụng trực tiếp câu hỏi với RAG, không thêm context từ lịch sử
+            result = self.qa_chain({"query": question})
+            answer = result.get("result", "")
+            
+            if not answer or answer.strip() == "":
+                answer = "Xin lỗi, tôi không thể tạo câu trả lời. Vui lòng thử lại."
+            
+            return answer
+            
+        except Exception as e:
+            logging.error(f"Lỗi khi xử lý câu hỏi: {str(e)}")
+            return "Đã xảy ra lỗi khi xử lý câu hỏi của bạn. Vui lòng thử lại."
 
     def get_processed_files(self):
         return self.processed_files
@@ -195,15 +200,19 @@ def chat():
     try:
         message = request.form.get('message')
         if not message:
-            return jsonify({'error': 'No message provided'}), 400
+            return jsonify({'error': 'Không có tin nhắn được cung cấp'}), 400
         
         response = bot.ask_question(message)
+        if not response or response.strip() == "":
+            return jsonify({'error': 'Không thể tạo câu trả lời'}), 500
+            
         return jsonify({
             'response': response
         })
     
     except Exception as e:
-        return jsonify({'error': str(e)}), 500
+        logging.error(f"Lỗi server: {str(e)}")
+        return jsonify({'error': 'Lỗi server nội bộ'}), 500
 
 if __name__ == "__main__":
     logging.info("Đang khởi động ứng dụng ChemGenie Bot...")
