@@ -25,14 +25,12 @@ class ChemGenieBot:
         logging.info("Đang khởi tạo ChemGenieBot...")
         self.api_key = api_key
         self.folder_path = folder_path
-        self.embedding_cache_path = os.path.join(folder_path, "embedding_cache.pkl")
-        self.files_hash_path = os.path.join(folder_path, "files_hash.pkl")
         self.processed_files = []
         self.setup_model()
         self.load_and_process_documents()
         self.setup_qa_chain()
         self.conversation_history = []
-        self.max_context_messages = 3  # Số cặp hội thoại gần nhất để giữ context
+        self.max_context_messages = 3
 
     def setup_model(self):
         logging.info("Đang cài đặt model Gemini...")
@@ -45,19 +43,6 @@ class ChemGenieBot:
         )
         logging.info("Hoàn tất cài đặt model")
 
-    def get_files_hash(self, file_paths):
-        """Tạo hash để theo dõi thay đổi của các file"""
-        hash_dict = {}
-        for file_path in file_paths:
-            try:
-                mtime = os.path.getmtime(file_path)
-                size = os.path.getsize(file_path)
-                file_hash = f"{file_path}_{mtime}_{size}"
-                hash_dict[file_path] = hashlib.md5(file_hash.encode()).hexdigest()
-            except Exception:
-                continue
-        return hash_dict
-
     def load_and_process_documents(self):
         logging.info("Bắt đầu quá trình đọc tài liệu...")
         # Tìm tất cả các file
@@ -69,66 +54,37 @@ class ChemGenieBot:
         if not all_files:
             raise ValueError("No supported documents found in the specified folder.")
 
-        # Tính hash của các file hiện tại
-        current_files_hash = self.get_files_hash(all_files)
+        texts = []
+        self.processed_files = []
         
-        # Kiểm tra cache và hash cũ
-        should_update = True
-        if os.path.exists(self.embedding_cache_path) and os.path.exists(self.files_hash_path):
-            with open(self.files_hash_path, 'rb') as f:
-                old_files_hash = pickle.load(f)
+        for file_path in all_files:
+            logging.info(f"Đang xử lý file: {file_path}")
+            try:
+                file_extension = os.path.splitext(file_path)[1].lower()
                 
-            # So sánh hash cũ và mới
-            if current_files_hash == old_files_hash:
-                logging.info("No changes detected in documents. Loading from cache...")
-                with open(self.embedding_cache_path, 'rb') as f:
-                    cached_data = pickle.load(f)
-                    texts = cached_data['texts']
-                    should_update = False
+                if file_extension == '.pdf':
+                    loader = PyPDFLoader(file_path)
+                elif file_extension in ['.doc', '.docx']:
+                    loader = UnstructuredWordDocumentLoader(file_path)
+                elif file_extension == '.txt':
+                    loader = TextLoader(file_path, encoding='utf-8')
+                
+                pages = loader.load_and_split()
+                context = "\n\n".join(str(p.page_content) for p in pages)
+                
+                text_splitter = RecursiveCharacterTextSplitter(chunk_size=10000, chunk_overlap=52)
+                texts.extend(text_splitter.split_text(context))
+                self.processed_files.append(file_path)
+                logging.info(f"Successfully processed {file_path}")
+                
+            except Exception as e:
+                logging.warning(f"Failed to process {file_path}: {str(e)}")
+                continue
+        
+        if not texts:
+            raise ValueError("No documents were successfully processed.")
 
-        if should_update:
-            logging.info("Phát hiện thay đổi hoặc chạy lần đầu. Đang xử lý tài liệu...")
-            texts = []
-            self.processed_files = []
-            
-            for file_path in all_files:
-                logging.info(f"Đang xử lý file: {file_path}")
-                try:
-                    file_extension = os.path.splitext(file_path)[1].lower()
-                    
-                    if file_extension == '.pdf':
-                        loader = PyPDFLoader(file_path)
-                    elif file_extension in ['.doc', '.docx']:
-                        loader = UnstructuredWordDocumentLoader(file_path)
-                    elif file_extension == '.txt':
-                        loader = TextLoader(file_path, encoding='utf-8')
-                    
-                    pages = loader.load_and_split()
-                    context = "\n\n".join(str(p.page_content) for p in pages)
-                    
-                    text_splitter = RecursiveCharacterTextSplitter(chunk_size=10000, chunk_overlap=52)
-                    texts.extend(text_splitter.split_text(context))
-                    self.processed_files.append(file_path)
-                    logging.info(f"Successfully processed {file_path}")
-                    
-                except Exception as e:
-                    logging.warning(f"Failed to process {file_path}: {str(e)}")
-                    continue
-            
-            if not texts:
-                raise ValueError("No documents were successfully processed.")
-
-            # Lưu texts và hash mới
-            cache_data = {
-                'texts': texts
-            }
-            with open(self.embedding_cache_path, 'wb') as f:
-                pickle.dump(cache_data, f)
-            with open(self.files_hash_path, 'wb') as f:
-                pickle.dump(current_files_hash, f)
-            logging.info("Saved new texts and file hashes to cache")
-
-        # Tạo embeddings và vector store
+        # Tạo embeddings và vector store trực tiếp
         logging.info("Đang tạo embeddings và vector store...")
         embeddings = GoogleGenerativeAIEmbeddings(
             model="models/embedding-001",
@@ -141,20 +97,10 @@ class ChemGenieBot:
 
     def setup_qa_chain(self):
         logging.info("Đang thiết lập QA chain...")
-        template = """You are ChemGenie AI, an intelligent assistant specializing in chemistry and science.
-        ONLY use the following context to answer the question. If the answer cannot be found in the context, 
-        respond with: "Tôi không tìm thấy thông tin về vấn đề này trong tài liệu của tôi."
-
-        Context:
-        {context}
-        
-        If it's casual conversation, you can engage in a friendly chat.
-        Do not use any knowledge outside of the provided context.
-        Keep your answers concise and to the point.
-        Always respond in Vietnamese.
-
-        Question: {question}
-        Helpful Answer:"""
+        template = """Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know, don't try to make up an answer. Always answer Vietnamese Language.
+            {context}
+            Question: {question}
+            Helpful Answer:"""
         
         QA_CHAIN_PROMPT = PromptTemplate.from_template(template)
         
