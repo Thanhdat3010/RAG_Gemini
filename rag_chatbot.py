@@ -76,79 +76,79 @@ class ChemGenieBot:
         if not all_files:
             raise ValueError("No supported documents found in the specified folder.")
 
-        texts = []
-        new_or_modified_files = []
-        
-        # Kiểm tra các file đã thay đổi hoặc mới
-        for file_path in all_files:
-            current_hash = self.calculate_file_hash(file_path)
-            if file_path not in self.file_hashes or self.file_hashes[file_path] != current_hash:
-                new_or_modified_files.append(file_path)
-                self.file_hashes[file_path] = current_hash
-
-        # Nếu không có file mới hoặc thay đổi, load vector store hiện có
-        if not new_or_modified_files and os.path.exists(self.vector_store_path):
-            logging.info("Loading existing vector store...")
-            embeddings = GoogleGenerativeAIEmbeddings(
-                model="models/embedding-001",
-                google_api_key=self.api_key
-            )
-            self.vector_index = Chroma(
-                persist_directory=self.vector_store_path,
-                embedding_function=embeddings
-            ).as_retriever(search_kwargs={"k": 5})
-            return
-
-        # Xử lý các file mới hoặc đã thay đổi
-        for file_path in new_or_modified_files:
-            logging.info(f"Đang xử lý file mới/đã thay đổi: {file_path}")
-            try:
-                file_extension = os.path.splitext(file_path)[1].lower()
-                
-                if file_extension == '.pdf':
-                    loader = PyPDFLoader(file_path)
-                elif file_extension in ['.doc', '.docx']:
-                    loader = UnstructuredWordDocumentLoader(file_path)
-                elif file_extension == '.txt':
-                    loader = TextLoader(file_path, encoding='utf-8')
-                
-                pages = loader.load_and_split()
-                context = "\n\n".join(str(p.page_content) for p in pages)
-                
-                text_splitter = RecursiveCharacterTextSplitter(chunk_size=10000, chunk_overlap=52)
-                texts.extend(text_splitter.split_text(context))
-                self.processed_files.append(file_path)
-                logging.info(f"Successfully processed {file_path}")
-                
-            except Exception as e:
-                logging.warning(f"Failed to process {file_path}: {str(e)}")
-                continue
-
-        # Tạo hoặc cập nhật vector store
+        # Khởi tạo embeddings
         embeddings = GoogleGenerativeAIEmbeddings(
             model="models/embedding-001",
             google_api_key=self.api_key
         )
-        
-        if texts:
-            logging.info("Updating vector store...")
-            if os.path.exists(self.vector_store_path):
-                vector_store = Chroma(
-                    persist_directory=self.vector_store_path,
-                    embedding_function=embeddings
-                )
-                vector_store.add_texts(texts)
-            else:
-                vector_store = Chroma.from_texts(
-                    texts,
-                    embeddings,
-                    persist_directory=self.vector_store_path
-                )
-            
-            vector_store.persist()
-            self.vector_index = vector_store.as_retriever(search_kwargs={"k": 5})
-            self.save_file_hashes()
-            logging.info("Vector store updated successfully")
+
+        # Load hoặc tạo mới vector store
+        if os.path.exists(self.vector_store_path):
+            vector_store = Chroma(
+                persist_directory=self.vector_store_path,
+                embedding_function=embeddings
+            )
+        else:
+            vector_store = Chroma(
+                embedding_function=embeddings,
+                persist_directory=self.vector_store_path
+            )
+
+        # Xác định các file đã bị xóa
+        deleted_files = set(self.file_hashes.keys()) - set(all_files)
+        if deleted_files:
+            logging.info(f"Phát hiện {len(deleted_files)} file đã bị xóa")
+            # Xóa các vector của file đã bị xóa
+            for file_path in deleted_files:
+                vector_store.delete(where={"source": file_path})
+                del self.file_hashes[file_path]
+
+        # Xử lý các file mới hoặc đã thay đổi
+        for file_path in all_files:
+            current_hash = self.calculate_file_hash(file_path)
+            if file_path not in self.file_hashes or self.file_hashes[file_path] != current_hash:
+                logging.info(f"Đang xử lý file mới/đã thay đổi: {file_path}")
+                try:
+                    # Xóa vector cũ nếu file đã tồn tại trước đó
+                    if file_path in self.file_hashes:
+                        logging.info(f"Xóa vector cũ của file: {file_path}")
+                        vector_store.delete(where={"source": file_path})
+
+                    # Xử lý và thêm vector mới
+                    file_extension = os.path.splitext(file_path)[1].lower()
+                    if file_extension == '.pdf':
+                        loader = PyPDFLoader(file_path)
+                    elif file_extension in ['.doc', '.docx']:
+                        loader = UnstructuredWordDocumentLoader(file_path)
+                    elif file_extension == '.txt':
+                        loader = TextLoader(file_path, encoding='utf-8')
+                    
+                    logging.info(f"Đang load nội dung file: {file_path}")
+                    pages = loader.load_and_split()
+                    context = "\n\n".join(str(p.page_content) for p in pages)
+                    
+                    logging.info(f"Bắt đầu chunking file: {file_path}")
+                    text_splitter = RecursiveCharacterTextSplitter(chunk_size=10000, chunk_overlap=52)
+                    texts = text_splitter.split_text(context)
+                    logging.info(f"Hoàn thành chunking file {file_path}: tạo được {len(texts)} chunks")
+                    
+                    # Thêm metadata source để tracking
+                    metadatas = [{"source": file_path} for _ in texts]
+                    logging.info(f"Bắt đầu tạo vector cho {len(texts)} chunks của file {file_path}")
+                    vector_store.add_texts(texts, metadatas=metadatas)
+                    logging.info(f"Hoàn thành tạo vector cho file: {file_path}")
+                    
+                    self.file_hashes[file_path] = current_hash
+                    self.processed_files.append(file_path)
+                    
+                except Exception as e:
+                    logging.error(f"❌ Lỗi khi xử lý {file_path}: {str(e)}")
+                    continue
+
+        vector_store.persist()
+        self.vector_index = vector_store.as_retriever(search_kwargs={"k": 5})
+        self.save_file_hashes()
+        logging.info("Cập nhật vector store thành công")
 
     def setup_qa_chain(self):
         logging.info("Đang thiết lập QA chain...")
