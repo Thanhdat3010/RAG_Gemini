@@ -14,11 +14,17 @@ import pickle
 import logging
 import hashlib
 from datetime import datetime
+from pydantic import BaseModel, Field
+from typing import List
+from langchain_core.documents import Document
 
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
+
+class RatingScore(BaseModel):
+    relevance_score: float = Field(..., description="Điểm đánh giá độ liên quan của tài liệu với câu hỏi.")
 
 class ChemGenieBot:
     def __init__(self, api_key, folder_path):
@@ -155,6 +161,17 @@ class ChemGenieBot:
         template = """Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know, don't try to make up an answer. Always answer Vietnamese Language.
             {context}
             Question: {question}
+            
+            formatting rules:
+            1. Ensure all chemical formulas use proper subscript notation (e.g., write CH₄ instead of CH4)
+            2. Use → for reaction arrows (instead of ->)
+            3. Use ⇌ for reversible reactions (instead of <->)
+            4. Format your response with proper spacing and line breaks:
+               - Use double line breaks between paragraphs
+               - Use bullet points (•) for lists
+               - Use bold (**) for important terms or concepts
+               - Use proper indentation for chemical equations
+            
             Helpful Answer:"""
         
         QA_CHAIN_PROMPT = PromptTemplate.from_template(template)
@@ -167,11 +184,59 @@ class ChemGenieBot:
         )
         logging.info("Hoàn tất thiết lập QA chain")
 
+    def rerank_documents(self, query: str, docs: List[Document], top_n: int = 3) -> List[Document]:
+        logging.info(f"Bắt đầu rerank {len(docs)} tài liệu...")
+        prompt_template = PromptTemplate(
+            input_variables=["query", "doc"],
+            template="""On a scale of 1-10, rate the relevance of the following document to the query. Consider the specific context and intent of the query, not just keyword matches.
+        Query: {query}
+        Document: {doc}
+        Relevance Score:"""
+        )
+        
+        llm_chain = prompt_template | self.model.with_structured_output(RatingScore)
+        
+        scored_docs = []
+        for idx, doc in enumerate(docs):
+            input_data = {"query": query, "doc": doc.page_content}
+            try:
+                score = llm_chain.invoke(input_data).relevance_score
+                scored_docs.append((doc, float(score)))
+                # Log thông tin chi tiết về từng document
+                logging.info(f"\nDocument {idx + 1}:")
+                logging.info(f"Source: {doc.metadata.get('source', 'Unknown')}")
+                logging.info(f"Score: {score}")
+                logging.info(f"Preview: {doc.page_content[:200]}...")  # Hiển thị 200 ký tự đầu
+            except Exception as e:
+                logging.error(f"Lỗi khi đánh giá document {idx + 1}: {str(e)}")
+                scored_docs.append((doc, 0))
+
+        reranked_docs = sorted(scored_docs, key=lambda x: x[1], reverse=True)
+        
+        # Log kết quả sau khi rerank
+        logging.info("\nKết quả rerank:")
+        for idx, (doc, score) in enumerate(reranked_docs[:top_n]):
+            logging.info(f"\nTop {idx + 1}:")
+            logging.info(f"Source: {doc.metadata.get('source', 'Unknown')}")
+            logging.info(f"Score: {score}")
+            logging.info(f"Preview: {doc.page_content[:200]}...")
+
+        return [doc for doc, _ in reranked_docs[:top_n]]
+
     def ask_question(self, question):
         logging.info(f"Nhận được câu hỏi: {question}")
         try:
-            # Sử dụng trực tiếp câu hỏi với RAG, không thêm context từ lịch sử
-            result = self.qa_chain({"query": question})
+            # Lấy tài liệu ban đầu
+            retrieved_docs = self.vector_index.get_relevant_documents(question)
+            
+            # Rerank tài liệu
+            reranked_docs = self.rerank_documents(question, retrieved_docs)
+            
+            # Tạo context từ các tài liệu đã rerank
+            context = "\n\n".join(doc.page_content for doc in reranked_docs)
+            
+            # Lấy câu trả lời sử dụng context đã được rerank
+            result = self.qa_chain({"query": question, "context": context})
             answer = result.get("result", "")
             
             if not answer or answer.strip() == "":
