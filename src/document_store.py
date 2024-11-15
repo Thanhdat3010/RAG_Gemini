@@ -4,7 +4,7 @@ import hashlib
 from langchain_community.vectorstores import Chroma
 import logging
 from config.config import VECTOR_STORE_PATH, FILE_HASH_PATH
-
+# File này để lưu trữ và quản lý các tài liệu và vectors
 class DocumentStore:
     def __init__(self, embeddings):
         self.vector_store_path = VECTOR_STORE_PATH

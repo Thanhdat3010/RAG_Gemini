@@ -6,7 +6,7 @@ import logging
 from rank_bm25 import BM25Okapi
 from functools import lru_cache
 from concurrent.futures import ThreadPoolExecutor, as_completed
-
+# File này để rerank các tài liệu dựa trên độ liên quan với câu hỏi
 class RatingScore(BaseModel):
     relevance_score: float = Field(..., description="Điểm đánh giá độ liên quan của tài liệu với câu hỏi.")
 

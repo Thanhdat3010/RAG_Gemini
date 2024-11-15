@@ -1,7 +1,7 @@
 from langchain_google_genai import ChatGoogleGenerativeAI
 import json
 import os
-
+# File này để phân loại câu hỏi có phải là giao tiếp thông thường hay câu hỏi chuyên môn cần RAG
 class QuestionClassifier:
     def __init__(self, api_key):
         self.classifier = ChatGoogleGenerativeAI(
