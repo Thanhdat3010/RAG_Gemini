@@ -9,6 +9,8 @@ class DocumentStore:
     def __init__(self, embeddings):
         self.vector_store_path = VECTOR_STORE_PATH
         self.file_hash_path = FILE_HASH_PATH
+        # Tạo thư mục file_hashes nếu chưa tồn tại
+        os.makedirs(os.path.dirname(self.file_hash_path), exist_ok=True)
         self.embeddings = embeddings
         self.file_hashes = self.load_file_hashes()
         self.vector_store = self.initialize_vector_store()

@@ -35,7 +35,7 @@ class ChemGenieBot:
     def setup_components(self):
         self.doc_processor = DocumentProcessor()
         self.doc_store = DocumentStore(self.embeddings)
-        self.ranker = DocumentRanker(self.model)
+        self.ranker = DocumentRanker()
         self.question_classifier = QuestionClassifier(self.api_key)
 
     def load_and_process_documents(self):
@@ -100,7 +100,7 @@ class ChemGenieBot:
             logging.info("Đang tìm kiếm tài liệu liên quan...")
             retrieved_docs = self.vector_index.get_relevant_documents(
                 question, 
-                fetch_k=20  # Tăng số lượng document retrieve
+                fetch_k=10  # Giảm từ 20 xuống 10
             )
             logging.info(f"Tìm thấy {len(retrieved_docs)} tài liệu liên quan")
             
