@@ -13,7 +13,19 @@ class RatingScore(BaseModel):
 
 class DocumentRanker:
     def __init__(self, model_name="cross-encoder/ms-marco-MiniLM-L-6-v2", pre_filter_k=5):
-        self.cross_encoder = CrossEncoder(model_name)
+        logging.info(f"Initializing CrossEncoder with model: {model_name}")
+        try:
+            import torch
+            device = "cuda" if torch.cuda.is_available() else "cpu"
+            logging.info(f"Using device: {device}")
+            if device == "cuda":
+                logging.info(f"GPU Name: {torch.cuda.get_device_name(0)}")
+                logging.info(f"GPU Memory: {torch.cuda.get_device_properties(0).total_memory / 1024**3:.2f} GB")
+        except Exception as e:
+            device = "cpu"
+            logging.warning(f"Failed to detect CUDA. Defaulting to CPU. Error: {str(e)}")
+        
+        self.cross_encoder = CrossEncoder(model_name, device=device)
         self.pre_filter_k = pre_filter_k
 
     def _create_bm25(self, docs):

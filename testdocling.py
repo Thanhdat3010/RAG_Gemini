@@ -4,8 +4,13 @@ import time
 from langchain_community.document_loaders import PyPDFLoader, UnstructuredWordDocumentLoader, TextLoader
 from docling.document_converter import DocumentConverter
 import warnings
+from difflib import SequenceMatcher
 
 FOLDER_PATH = "data"  # thư mục chứa dữ liệu của bạn
+
+def calculate_similarity(text1, text2):
+    """Tính độ tương đồng giữa hai văn bản"""
+    return SequenceMatcher(None, text1, text2).ratio()
 
 def test_document_loaders():
     """Hàm test so sánh docling và loader truyền thống cho tất cả file trong thư mục data"""
@@ -46,6 +51,11 @@ def test_single_file(file_path):
     print(f"📊 Kích thước: {os.path.getsize(file_path)/1024:.2f} KB")
     print(f"{'='*100}\n")
     
+    docling_text = ""
+    traditional_text = ""
+    docling_time = 0
+    traditional_time = 0
+    
     # Test docling
     print("🔍 THỬ NGHIỆM VỚI DOCLING:")
     start_time = time.time()
@@ -53,14 +63,10 @@ def test_single_file(file_path):
         converter = DocumentConverter()
         result = converter.convert(file_path)
         docling_text = result.document.export_to_markdown()
-        process_time = time.time() - start_time
+        docling_time = time.time() - start_time
         
-        print("\nKết quả từ Docling:")
-        print("-" * 50)
-        print(docling_text)
-        print("-" * 50)
         print(f"📝 Độ dài văn bản: {len(docling_text)} ký tự")
-        print(f"⏱️ Thời gian xử lý: {process_time:.2f} giây")
+        print(f"⏱️ Thời gian xử lý: {docling_time:.2f} giây")
     except Exception as e:
         print(f"❌ Lỗi khi dùng Docling: {str(e)}")
     
@@ -81,17 +87,38 @@ def test_single_file(file_path):
             
         pages = loader.load_and_split()
         traditional_text = "\n\n".join(str(p.page_content) for p in pages)
-        process_time = time.time() - start_time
+        traditional_time = time.time() - start_time
         
-        print("\nKết quả từ loader truyền thống:")
-        print("-" * 50)
-        print(traditional_text)
-        print("-" * 50)
         print(f"📝 Độ dài văn bản: {len(traditional_text)} ký tự")
         print(f"📄 Số trang/đoạn: {len(pages)}")
-        print(f"⏱️ Thời gian xử lý: {process_time:.2f} giây")
+        print(f"⏱️ Thời gian xử lý: {traditional_time:.2f} giây")
     except Exception as e:
         print(f"❌ Lỗi khi dùng loader truyền thống: {str(e)}")
+    
+    # So sánh kết quả
+    print("\n📊 KẾT QUẢ SO SÁNH:")
+    print("-" * 50)
+    if docling_text and traditional_text:
+        similarity = calculate_similarity(docling_text, traditional_text)
+        print(f"🔄 Độ tương đồng nội dung: {similarity:.2%}")
+        print(f"⚡ Chênh lệch độ dài: {abs(len(docling_text) - len(traditional_text))} ký tự")
+        print(f"⏱️ Chênh lệch thời gian: {abs(docling_time - traditional_time):.2f} giây")
+        
+        if similarity < 0.5:
+            print("\n⚠️ Cảnh báo: Độ tương đồng thấp, có thể có sự khác biệt lớn trong kết quả")
+            
+        print("\n💡 Đánh giá:")
+        if docling_time < traditional_time:
+            print("- Docling xử lý nhanh hơn")
+        else:
+            print("- Loader truyền thống xử lý nhanh hơn")
+            
+        if len(docling_text) > len(traditional_text):
+            print("- Docling trích xuất được nhiều nội dung hơn")
+        else:
+            print("- Loader truyền thống trích xuất được nhiều nội dung hơn")
+    else:
+        print("❌ Không thể so sánh do một trong hai phương pháp bị lỗi")
 
 if __name__ == "__main__":
     warnings.filterwarnings("ignore")

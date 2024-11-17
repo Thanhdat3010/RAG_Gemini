@@ -111,7 +111,7 @@ class ChemGenieBot:
             context = "\n\n".join(doc.page_content for doc in reranked_docs)
             
             logging.info("Đang tạo câu trả lời...")
-            result = self.qa_chain({"query": question, "context": context})
+            result = self.qa_chain.invoke({"query": question, "context": context})
             answer = result.get("result", "")
             
             if not answer or answer.strip() == "":
