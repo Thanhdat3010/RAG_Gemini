@@ -98,10 +98,7 @@ class ChemGenieBot:
             
             # Xử lý câu hỏi chuyên môn bằng RAG
             logging.info("Đang tìm kiếm tài liệu liên quan...")
-            retrieved_docs = self.vector_index.get_relevant_documents(
-                question, 
-                fetch_k=10  # Giảm từ 20 xuống 10
-            )
+            retrieved_docs = self.vector_index.get_relevant_documents(question)
             logging.info(f"Tìm thấy {len(retrieved_docs)} tài liệu liên quan")
             
             logging.info("Bắt đầu rerank tài liệu...")
