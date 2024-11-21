@@ -22,7 +22,7 @@ class DocumentProcessor:
             pages = loader.load_and_split()
             context = "\n\n".join(str(p.page_content) for p in pages)
             
-            text_splitter = RecursiveCharacterTextSplitter(chunk_size=10000, chunk_overlap=52)
+            text_splitter = RecursiveCharacterTextSplitter(chunk_size=2000, chunk_overlap=200)
             texts = text_splitter.split_text(context)
             
             return texts
