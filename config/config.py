@@ -20,6 +20,8 @@ class APIKeyManager:
 GOOGLE_API_KEYS = [
     "AIzaSyCdm8-0p8SQREhPDicyywkDeDbMVtMmhNo",
     "AIzaSyBc1fHj2tGSwmVraM39ZXzFjvy_qubMct8",
+    "AIzaSyAwokgee5qqhev3eZaQ3dhqXN23UrLHpNo",
+
 ]
 
 # Tạo instance của API Key Manager
