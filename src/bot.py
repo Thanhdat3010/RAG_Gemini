@@ -101,6 +101,35 @@ class ChemGenieBot:
             | StrOutputParser()
         )
 
+    def clean_context(self, text):
+        """Làm sạch và format lại ngữ cảnh"""
+        # Loại bỏ khoảng trắng thừa
+        lines = text.split('\n')
+        cleaned_lines = []
+        
+        for line in lines:
+            # Loại bỏ khoảng trắng thừa và các ký tự đặc biệt
+            line = ' '.join(line.split())
+            if line and not line.isspace():
+                cleaned_lines.append(line)
+        
+        # Gộp các dòng thành đoạn văn
+        paragraphs = []
+        current_paragraph = []
+        
+        for line in cleaned_lines:
+            if line.strip() in ['○', '•']:  # Markers for new paragraph
+                if current_paragraph:
+                    paragraphs.append(' '.join(current_paragraph))
+                    current_paragraph = []
+                continue
+            current_paragraph.append(line)
+            
+        if current_paragraph:
+            paragraphs.append(' '.join(current_paragraph))
+            
+        return '\n\n'.join(paragraphs)
+
     def ask_question(self, question):
         logging.info(f"Nhận được câu hỏi: {question}")
         try:
@@ -122,8 +151,10 @@ class ChemGenieBot:
             reranked_docs = self.ranker.rerank_documents(question, retrieved_docs)
             logging.info("Hoàn thành rerank tài liệu")
             
-            context = "\n\n".join(doc.page_content for doc in reranked_docs)
-            
+            # Xử lý và làm sạch ngữ cảnh
+            contexts = [self.clean_context(doc.page_content) for doc in reranked_docs]
+            context = "\n\n".join(contexts)
+            print(context)
             logging.info("Đang tạo câu trả lời...")
             answer = self.qa_chain.invoke(question)
             
