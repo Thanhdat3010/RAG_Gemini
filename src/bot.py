@@ -2,6 +2,8 @@ import google.generativeai as genai
 from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmbeddings
 from langchain.chains import RetrievalQA
 from langchain_core.prompts import PromptTemplate
+from langchain_core.output_parsers import StrOutputParser
+from langchain_core.runnables import RunnablePassthrough
 import logging
 import glob
 import os
@@ -9,6 +11,7 @@ from .text_processor import DocumentProcessor
 from .document_store import DocumentStore
 from .ranking import DocumentRanker
 from .question_classifier import QuestionClassifier
+from .multi_query import MultiQueryRetriever
 
 class ChemGenieBot:
     def __init__(self, api_key, folder_path):
@@ -37,6 +40,7 @@ class ChemGenieBot:
         self.doc_store = DocumentStore(self.embeddings)
         self.ranker = DocumentRanker()
         self.question_classifier = QuestionClassifier(self.api_key)
+        self.multi_query = MultiQueryRetriever(self.api_key)
 
     def load_and_process_documents(self):
         logging.info("Bắt đầu quá trình đọc tài liệu...")
@@ -63,29 +67,33 @@ class ChemGenieBot:
         logging.info("Hoàn tất quá trình đọc và xử lý tài liệu")
 
     def setup_qa_chain(self):
-        template = """Use the following pieces of context to answer the question at the end. If you don't know the answer, just say that you don't know, don't try to make up an answer. Always answer Vietnamese Language.
+        template = """Sử dụng các đoạn ngữ cảnh sau để trả lời câu hỏi ở cuối. Nếu bạn không biết câu trả lời, hãy nói rằng bạn không biết, đừng cố tạo ra câu trả lời. Luôn trả lời bằng tiếng Việt.
             {context}
-            Question: {question}
+            Câu hỏi: {question}
             
-            formatting rules:
-            1. Ensure all chemical formulas use proper subscript notation (e.g., write CH₄ instead of CH4)
-            2. Use → for reaction arrows (instead of ->)
-            3. Use ⇌ for reversible reactions (instead of <->)
-            4. Format your response with proper spacing and line breaks:
-               - Use double line breaks between paragraphs
-               - Use bullet points (•) for lists
-               - Use bold (**) for important terms or concepts
-               - Use proper indentation for chemical equations
-            
-            Helpful Answer:"""
+            Role: Bạn là chemgenie chatbot AI, một chatbot hỗ trợ hóa học.
+            Quy tắc định dạng:
+            1. Đảm bảo tất cả công thức hóa học sử dụng ký hiệu chỉ số dưới đúng (ví dụ: viết CH₄ thay vì CH4)
+            2. Sử dụng → cho mũi tên phản ứng (thay vì ->)
+            3. Sử dụng ⇌ cho phản ứng thuận nghịch (thay vì <->)
+            4. Định dạng câu trả lời với khoảng cách và ngắt dòng phù hợp:
+               - Sử dụng ngắt dòng kép giữa các đoạn văn
+               - Sử dụng dấu chấm đầu dòng (•) cho danh sách
+               - Sử dụng in đậm (**) cho các thuật ngữ hoặc khái niệm quan trọng
+               - Sử dụng thụt lề phù hợp cho phương trình hóa học
+            Quy tắc trả lời:
+            1. Trả lời bằng tiếng Việt
+            2. ĐẶC BIỆT QUAN TRỌNG: Giữ nguyên danh pháp hóa học giống trong ngữ cảnh ở cả câu hỏi và các đáp án (danh pháp hóa học tiếng anh, IUPAC)
+            3. QUAN TRỌNG: KHÔNG được đề cập đến nguồn tài liệu(ngữ cảnh được cung cấp) hay nói "trong tài liệu được cung cấp" trong câu trả lời. Nếu không biết câu trả lời, chỉ cần nói "Tôi xin lỗi, tôi không có đủ thông tin để trả lời câu hỏi này một cách chính xác."
+            Câu trả lời hữu ích:"""
         
-        QA_CHAIN_PROMPT = PromptTemplate.from_template(template)
+        prompt = PromptTemplate.from_template(template)
         
-        self.qa_chain = RetrievalQA.from_chain_type(
-            self.model,
-            retriever=self.vector_index,
-            return_source_documents=True,
-            chain_type_kwargs={"prompt": QA_CHAIN_PROMPT}
+        self.qa_chain = (
+            {"context": self.vector_index, "question": RunnablePassthrough()} 
+            | prompt 
+            | self.model 
+            | StrOutputParser()
         )
 
     def ask_question(self, question):
@@ -98,7 +106,9 @@ class ChemGenieBot:
             
             # Xử lý câu hỏi chuyên môn bằng RAG
             logging.info("Đang tìm kiếm tài liệu liên quan...")
-            retrieved_docs = self.vector_index.invoke(question)
+            retrieved_docs = self.multi_query.retrieve(question, self.vector_index)
+            # retrieved_docs = self.vector_index.invoke(question)  
+
             logging.info(f"Tìm thấy {len(retrieved_docs)} tài liệu liên quan")
             
             logging.info("Bắt đầu rerank tài liệu...")
@@ -108,8 +118,7 @@ class ChemGenieBot:
             context = "\n\n".join(doc.page_content for doc in reranked_docs)
             
             logging.info("Đang tạo câu trả lời...")
-            result = self.qa_chain.invoke({"query": question, "context": context})
-            answer = result.get("result", "")
+            answer = self.qa_chain.invoke(question)
             
             if not answer or answer.strip() == "":
                 logging.warning("Không thể tạo câu trả lời")
