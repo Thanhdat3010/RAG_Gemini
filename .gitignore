@@ -1,5 +1,1 @@
-# Ignore changes in data folder
 /data/*
-!/data/*.pdf
-!/data/*.txt
-!/data/*.docx 
