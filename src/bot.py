@@ -12,6 +12,7 @@ from .document_store import DocumentStore
 from .ranking import DocumentRanker
 from .question_classifier import QuestionClassifier
 from .multi_query import MultiQueryRetriever
+from .rag_fusion import RAGFusionRetriever
 
 class ChemGenieBot:
     def __init__(self, api_key, folder_path):
@@ -41,6 +42,7 @@ class ChemGenieBot:
         self.ranker = DocumentRanker()
         self.question_classifier = QuestionClassifier(self.api_key)
         self.multi_query = MultiQueryRetriever(self.api_key)
+        self.rag_fusion = RAGFusionRetriever(self.api_key)
 
     def load_and_process_documents(self):
         logging.info("Bắt đầu quá trình đọc tài liệu...")
@@ -67,7 +69,10 @@ class ChemGenieBot:
         logging.info("Hoàn tất quá trình đọc và xử lý tài liệu")
 
     def setup_qa_chain(self):
-        template = """Sử dụng các đoạn ngữ cảnh sau để trả lời câu hỏi ở cuối. Nếu bạn không biết câu trả lời, hãy nói rằng bạn không biết, đừng cố tạo ra câu trả lời. Luôn trả lời bằng tiếng Việt.
+        template = """Sử dụng các đoạn ngữ cảnh sau để trả lời câu hỏi ở cuối. Nếu bạn không biết câu trả lời, hãy nói rằng bạn không biết, đừng cố tạo ra câu trả lời.
+
+            Ngữ cảnh có thể bằng tiếng Anh hoặc tiếng Việt, nhưng bạn phải LUÔN trả lời bằng tiếng Việt và đảm bảo dịch chính xác các khái niệm khoa học.
+            
             {context}
             Câu hỏi: {question}
             
@@ -82,9 +87,9 @@ class ChemGenieBot:
                - Sử dụng in đậm (**) cho các thuật ngữ hoặc khái niệm quan trọng
                - Sử dụng thụt lề phù hợp cho phương trình hóa học
             Quy tắc trả lời:
-            1. Trả lời bằng tiếng Việt
+            1. Trả lời bằng tiếng Việt rõ ràng, dễ hiểu
             2. ĐẶC BIỆT QUAN TRỌNG: Giữ nguyên danh pháp hóa học giống trong ngữ cảnh ở cả câu hỏi và các đáp án (danh pháp hóa học tiếng anh, IUPAC)
-            3. QUAN TRỌNG: KHÔNG được đề cập đến nguồn tài liệu(ngữ cảnh được cung cấp) hay nói "trong tài liệu được cung cấp" trong câu trả lời. Nếu không biết câu trả lời, chỉ cần nói "Tôi xin lỗi, tôi không có đủ thông tin để trả lời câu hỏi này một cách chính xác."
+            3. Nếu ngữ cảnh bằng tiếng Anh, hãy dịch sang tiếng Việt nhưng giữ nguyên các thuật ngữ khoa học và công thức hóa học
             Câu trả lời hữu ích:"""
         
         prompt = PromptTemplate.from_template(template)
@@ -106,9 +111,11 @@ class ChemGenieBot:
             
             # Xử lý câu hỏi chuyên môn bằng RAG
             logging.info("Đang tìm kiếm tài liệu liên quan...")
-            retrieved_docs = self.multi_query.retrieve(question, self.vector_index)
+            # retrieved_docs = self.multi_query.retrieve(question, self.vector_index)
             # retrieved_docs = self.vector_index.invoke(question)  
-
+            doc_scores = self.rag_fusion.retrieve(question, self.vector_index)
+    # Chỉ lấy documents (bỏ scores)
+            retrieved_docs = [doc for doc, score in doc_scores]   
             logging.info(f"Tìm thấy {len(retrieved_docs)} tài liệu liên quan")
             
             logging.info("Bắt đầu rerank tài liệu...")
