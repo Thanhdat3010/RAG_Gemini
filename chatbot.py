@@ -3,7 +3,7 @@ from flask_cors import CORS
 import logging
 import json
 from src.bot import ChemGenieBot
-from config.config import GOOGLE_API_KEY, FOLDER_PATH
+from config.config import key_manager, FOLDER_PATH
 
 logging.basicConfig(
     level=logging.INFO,
@@ -13,7 +13,7 @@ logging.basicConfig(
 app = Flask(__name__)
 CORS(app)
 
-bot = ChemGenieBot(GOOGLE_API_KEY, FOLDER_PATH)
+bot = ChemGenieBot(key_manager, FOLDER_PATH)
 
 @app.route('/chat', methods=['POST'])
 def chat():

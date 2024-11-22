@@ -15,9 +15,9 @@ from .multi_query import MultiQueryRetriever
 from .rag_fusion import RAGFusionRetriever
 
 class ChemGenieBot:
-    def __init__(self, api_key, folder_path):
+    def __init__(self, key_manager, folder_path):
         logging.info("Đang khởi tạo ChemGenieBot...")
-        self.api_key = api_key
+        self.key_manager = key_manager
         self.folder_path = folder_path
         self.setup_model()
         self.setup_components()
@@ -25,24 +25,25 @@ class ChemGenieBot:
         self.setup_qa_chain()
 
     def setup_model(self):
-        genai.configure(api_key=self.api_key)
+        api_key = self.key_manager.get_api_key()
+        genai.configure(api_key=api_key)
         self.model = ChatGoogleGenerativeAI(
             model="gemini-1.5-flash",
-            google_api_key=self.api_key,
+            google_api_key=api_key,
             temperature=0.2,
         )
         self.embeddings = GoogleGenerativeAIEmbeddings(
             model="models/embedding-001",
-            google_api_key=self.api_key
+            google_api_key=api_key
         )
 
     def setup_components(self):
         self.doc_processor = DocumentProcessor()
         self.doc_store = DocumentStore(self.embeddings)
         self.ranker = DocumentRanker()
-        self.question_classifier = QuestionClassifier(self.api_key)
-        self.multi_query = MultiQueryRetriever(self.api_key)
-        self.rag_fusion = RAGFusionRetriever(self.api_key)
+        self.question_classifier = QuestionClassifier(self.key_manager)
+        # self.multi_query = MultiQueryRetriever(self.key_manager)
+        self.rag_fusion = RAGFusionRetriever(self.key_manager)
 
     def load_and_process_documents(self):
         logging.info("Bắt đầu quá trình đọc tài liệu...")
@@ -94,10 +95,15 @@ class ChemGenieBot:
         
         prompt = PromptTemplate.from_template(template)
         
+        def get_response(inputs):
+            # Cập nhật key mới trước khi gọi API
+            self.model.google_api_key = self.key_manager.get_api_key()
+            return self.model.invoke(inputs)
+        
         self.qa_chain = (
             {"context": self.vector_index, "question": RunnablePassthrough()} 
             | prompt 
-            | self.model 
+            | get_response  # Thay self.model bằng hàm get_response
             | StrOutputParser()
         )
 
@@ -133,6 +139,8 @@ class ChemGenieBot:
     def ask_question(self, question):
         logging.info(f"Nhận được câu hỏi: {question}")
         try:
+            # Cập nhật API key mới cho model trước khi xử lý
+            self.model.google_api_key = self.key_manager.get_api_key()
             # Phân loại câu hỏi
             if self.question_classifier.is_conversational(question):
                 logging.info("Phát hiện câu hỏi giao tiếp, sử dụng LLM trực tiếp")

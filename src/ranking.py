@@ -33,11 +33,6 @@ class DocumentRanker:
         tokenized_docs = [doc.page_content.lower().split() for doc in docs]
         return BM25Okapi(tokenized_docs)
 
-    @lru_cache(maxsize=100)
-    def _get_cached_score(self, query: str, doc_content: str) -> float:
-        llm_chain = self.prompt_template | self.llm.with_structured_output(RatingScore)
-        return float(llm_chain.invoke({"query": query, "doc": doc_content}).relevance_score)
-
     def rerank_documents(self, query: str, docs: List[Document], top_n: int = 3) -> List[Document]:
         if len(docs) == 0:
             return []

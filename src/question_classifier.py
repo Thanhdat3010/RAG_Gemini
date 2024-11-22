@@ -3,10 +3,11 @@ import json
 import os
 # File này để phân loại câu hỏi có phải là giao tiếp thông thường hay câu hỏi chuyên môn cần RAG
 class QuestionClassifier:
-    def __init__(self, api_key):
+    def __init__(self, key_manager):
+        self.key_manager = key_manager
         self.classifier = ChatGoogleGenerativeAI(
             model="gemini-1.5-flash",
-            google_api_key=api_key,
+            google_api_key=self.key_manager.get_api_key(),
             temperature=0
         )
         self.load_prompts()
@@ -39,6 +40,7 @@ class QuestionClassifier:
     
     def is_conversational(self, question):
         """Determine if a question is conversational"""
+        self.classifier.google_api_key = self.key_manager.get_api_key()
         response = self.classifier.invoke(
             self.classification_prompt.format(question=question)
         )
@@ -46,6 +48,7 @@ class QuestionClassifier:
     
     def get_conversation_response(self, question):
         """Get response for conversational questions"""
+        self.classifier.google_api_key = self.key_manager.get_api_key()
         return self.classifier.invoke(
             self.conversation_prompt.format(question=question)
         ).content 

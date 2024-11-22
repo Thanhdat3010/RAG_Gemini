@@ -6,10 +6,11 @@ from typing import List
 from langchain_core.documents import Document
 
 class RAGFusionRetriever:
-    def __init__(self, api_key: str):
+    def __init__(self, key_manager):
+        self.key_manager = key_manager
         self.llm = ChatGoogleGenerativeAI(
             model="gemini-1.5-flash",
-            google_api_key=api_key,
+            google_api_key=self.key_manager.get_api_key(),
             temperature=0
         )
         
@@ -67,6 +68,9 @@ class RAGFusionRetriever:
 
     def retrieve(self, question: str, retriever) -> List[tuple]:
         """Thực hiện RAG-Fusion retrieval"""
+        # Cập nhật key mới trước khi gọi API
+        self.llm.google_api_key = self.key_manager.get_api_key()
+        
         # Translate query first
         english_question = self.translate_query(question)
         
